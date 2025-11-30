@@ -1,500 +1,500 @@
-escalation_id,ticket_id,customer_id,escalation_level,escalated_from,escalated_to,escalation_date,escalation_reason,resolved_at_level,resolution_date
-ESC-000001,TICK-000002,CUST-000890,Manager,Support_Engineer_25,Support_Level_4,,Severity,L3,2025-03-26
-ESC-000002,TICK-000007,CUST-000934,Manager,Support_Engineer_2,Support_Level_2,,Customer Request,Engineering,2023-02-05
-ESC-000003,TICK-000016,CUST-000651,Manager,Support_Engineer_19,Support_Level_4,,Complex Issue,L2,2024-02-18
-ESC-000004,TICK-000017,CUST-000668,L3 → Engineering,Support_Engineer_25,Support_Level_3,,Complex Issue,L2,2023-02-09
-ESC-000005,TICK-000018,CUST-000409,Manager,Support_Engineer_17,Support_Level_3,2023-05-17,SLA Risk,L3,2024-07-12
-ESC-000006,TICK-000020,CUST-000182,L3 → Engineering,Support_Engineer_14,Support_Level_2,,SLA Risk,L3,2023-03-10
-ESC-000007,TICK-000023,CUST-000342,Manager,Support_Engineer_10,Support_Level_2,,Technical Expertise Required,Engineering,2024-10-06
-ESC-000008,TICK-000037,CUST-000181,L1 → L2,Support_Engineer_20,Support_Level_2,,Severity,L2,2025-03-16
-ESC-000009,TICK-000043,CUST-000264,L3 → Engineering,Support_Engineer_21,Support_Level_2,2023-03-03,SLA Risk,Engineering,2025-01-09
-ESC-000010,TICK-000053,CUST-000607,L3 → Engineering,Support_Engineer_3,Support_Level_3,,Customer Request,L3,2024-08-23
-ESC-000011,TICK-000057,CUST-000959,Manager,Support_Engineer_17,Support_Level_4,,Customer Request,L2,2023-08-04
-ESC-000012,TICK-000059,CUST-000857,Manager,Support_Engineer_10,Support_Level_4,,Complex Issue,Engineering,2023-10-08
-ESC-000013,TICK-000063,CUST-000537,L1 → L2,Support_Engineer_25,Support_Level_4,,Customer Request,L3,2025-01-21
-ESC-000014,TICK-000078,CUST-000860,Manager,Support_Engineer_2,Support_Level_2,,Customer Request,Engineering,2024-07-17
-ESC-000015,TICK-000081,CUST-000699,L1 → L2,Support_Engineer_1,Support_Level_2,,SLA Risk,L3,2025-09-04
-ESC-000016,TICK-000083,CUST-000883,L2 → L3,Support_Engineer_22,Support_Level_4,,Complex Issue,L3,2023-04-15
-ESC-000017,TICK-000111,CUST-000773,L3 → Engineering,Support_Engineer_10,Support_Level_2,,Complex Issue,L2,2023-04-22
-ESC-000018,TICK-000118,CUST-000975,L2 → L3,Support_Engineer_4,Support_Level_4,,Complex Issue,L3,2024-06-18
-ESC-000019,TICK-000127,CUST-000753,L3 → Engineering,Support_Engineer_9,Support_Level_2,2024-06-02,Technical Expertise Required,L2,2024-12-19
-ESC-000020,TICK-000134,CUST-000160,L2 → L3,Support_Engineer_22,Support_Level_3,,SLA Risk,L2,2025-03-03
-ESC-000021,TICK-000158,CUST-000572,L2 → L3,Support_Engineer_3,Support_Level_4,,Customer Request,Engineering,2023-09-19
-ESC-000022,TICK-000167,CUST-000372,Manager,Support_Engineer_20,Support_Level_2,,Severity,Engineering,2023-03-12
-ESC-000023,TICK-000177,CUST-000181,L2 → L3,Support_Engineer_24,Support_Level_4,,Customer Request,L2,2023-01-14
-ESC-000024,TICK-000179,CUST-000709,L2 → L3,Support_Engineer_11,Support_Level_4,,Customer Request,L2,2023-03-10
-ESC-000025,TICK-000184,CUST-000586,L2 → L3,Support_Engineer_9,Support_Level_4,,SLA Risk,L2,2025-09-01
-ESC-000026,TICK-000194,CUST-000334,L1 → L2,Support_Engineer_21,Support_Level_3,,SLA Risk,L2,2023-03-23
-ESC-000027,TICK-000211,CUST-000277,L1 → L2,Support_Engineer_18,Support_Level_3,,Customer Request,L3,2025-04-17
-ESC-000028,TICK-000217,CUST-000696,Manager,Support_Engineer_11,Support_Level_4,,Complex Issue,L3,2025-06-11
-ESC-000029,TICK-000222,CUST-000344,L2 → L3,Support_Engineer_6,Support_Level_2,,SLA Risk,L2,2024-01-23
-ESC-000030,TICK-000245,CUST-000531,L1 → L2,Support_Engineer_17,Support_Level_3,,SLA Risk,Engineering,2023-12-17
-ESC-000031,TICK-000255,CUST-000466,L3 → Engineering,Support_Engineer_4,Support_Level_2,,SLA Risk,Engineering,2023-10-11
-ESC-000032,TICK-000257,CUST-000252,L3 → Engineering,Support_Engineer_18,Support_Level_4,,Complex Issue,L2,2025-05-03
-ESC-000033,TICK-000274,CUST-000918,L2 → L3,Support_Engineer_18,Support_Level_4,,Severity,Engineering,2024-06-18
-ESC-000034,TICK-000279,CUST-000989,L3 → Engineering,Support_Engineer_20,Support_Level_2,2023-10-06,Complex Issue,L2,2024-12-27
-ESC-000035,TICK-000288,CUST-000897,L3 → Engineering,Support_Engineer_1,Support_Level_4,,Complex Issue,L3,2025-09-13
-ESC-000036,TICK-000313,CUST-000506,Manager,Support_Engineer_17,Support_Level_3,,Customer Request,L2,2024-03-28
-ESC-000037,TICK-000327,CUST-000371,L2 → L3,Support_Engineer_2,Support_Level_2,,Complex Issue,Engineering,2023-06-20
-ESC-000038,TICK-000346,CUST-000881,L1 → L2,Support_Engineer_13,Support_Level_2,,Technical Expertise Required,Engineering,2024-03-25
-ESC-000039,TICK-000362,CUST-000421,Manager,Support_Engineer_4,Support_Level_2,,Severity,Engineering,2025-05-05
-ESC-000040,TICK-000367,CUST-000855,L2 → L3,Support_Engineer_21,Support_Level_2,,Technical Expertise Required,L2,2025-04-13
-ESC-000041,TICK-000372,CUST-000690,L3 → Engineering,Support_Engineer_17,Support_Level_2,,Complex Issue,L2,2024-01-22
-ESC-000042,TICK-000373,CUST-000263,L2 → L3,Support_Engineer_25,Support_Level_4,,Complex Issue,L2,2025-03-05
-ESC-000043,TICK-000374,CUST-000213,Manager,Support_Engineer_22,Support_Level_4,,Complex Issue,L3,2023-09-05
-ESC-000044,TICK-000402,CUST-000330,L2 → L3,Support_Engineer_21,Support_Level_4,,Complex Issue,Engineering,2024-04-19
-ESC-000045,TICK-000407,CUST-000296,L3 → Engineering,Support_Engineer_18,Support_Level_4,,Complex Issue,L3,2023-09-09
-ESC-000046,TICK-000409,CUST-000046,L2 → L3,Support_Engineer_15,Support_Level_2,,Technical Expertise Required,Engineering,2024-09-27
-ESC-000047,TICK-000430,CUST-000093,L1 → L2,Support_Engineer_22,Support_Level_3,,Severity,L3,2024-10-20
-ESC-000048,TICK-000437,CUST-000444,L1 → L2,Support_Engineer_1,Support_Level_4,,Customer Request,L3,2024-01-06
-ESC-000049,TICK-000440,CUST-000091,L3 → Engineering,Support_Engineer_18,Support_Level_2,,Customer Request,L2,2023-02-21
-ESC-000050,TICK-000442,CUST-000040,L2 → L3,Support_Engineer_19,Support_Level_3,,Severity,L2,2024-02-26
-ESC-000051,TICK-000455,CUST-000889,L1 → L2,Support_Engineer_7,Support_Level_3,,SLA Risk,L3,2024-03-31
-ESC-000052,TICK-000459,CUST-000246,L3 → Engineering,Support_Engineer_8,Support_Level_2,,Technical Expertise Required,Engineering,2025-08-09
-ESC-000053,TICK-000471,CUST-000593,L3 → Engineering,Support_Engineer_21,Support_Level_3,,SLA Risk,Engineering,2023-04-06
-ESC-000054,TICK-000492,CUST-000529,Manager,Support_Engineer_7,Support_Level_2,,Complex Issue,Engineering,2024-02-21
-ESC-000055,TICK-000500,CUST-000727,L1 → L2,Support_Engineer_7,Support_Level_3,,SLA Risk,Engineering,2025-06-08
-ESC-000056,TICK-000502,CUST-000376,L1 → L2,Support_Engineer_3,Support_Level_4,,Customer Request,Engineering,2023-07-04
-ESC-000057,TICK-000506,CUST-000727,L2 → L3,Support_Engineer_9,Support_Level_2,,Complex Issue,L3,2024-11-23
-ESC-000058,TICK-000511,CUST-000402,L3 → Engineering,Support_Engineer_4,Support_Level_4,,SLA Risk,L2,2025-07-15
-ESC-000059,TICK-000514,CUST-000962,L3 → Engineering,Support_Engineer_17,Support_Level_3,,Technical Expertise Required,Engineering,2024-04-24
-ESC-000060,TICK-000520,CUST-000609,Manager,Support_Engineer_13,Support_Level_4,,Complex Issue,L3,2025-04-21
-ESC-000061,TICK-000527,CUST-000422,Manager,Support_Engineer_24,Support_Level_2,,Complex Issue,Engineering,2024-01-17
-ESC-000062,TICK-000533,CUST-000096,Manager,Support_Engineer_12,Support_Level_2,,Complex Issue,L2,2025-04-30
-ESC-000063,TICK-000538,CUST-000331,L1 → L2,Support_Engineer_8,Support_Level_4,2023-08-16,SLA Risk,L2,2024-12-14
-ESC-000064,TICK-000547,CUST-000026,L2 → L3,Support_Engineer_16,Support_Level_3,,Technical Expertise Required,Engineering,2023-02-25
-ESC-000065,TICK-000564,CUST-000352,Manager,Support_Engineer_3,Support_Level_3,2023-01-14,Customer Request,Engineering,2025-07-23
-ESC-000066,TICK-000592,CUST-000499,Manager,Support_Engineer_19,Support_Level_2,,Technical Expertise Required,L3,2025-09-02
-ESC-000067,TICK-000612,CUST-000828,L3 → Engineering,Support_Engineer_11,Support_Level_3,,SLA Risk,Engineering,2023-02-13
-ESC-000068,TICK-000631,CUST-000117,L2 → L3,Support_Engineer_8,Support_Level_3,,Complex Issue,Engineering,2023-08-24
-ESC-000069,TICK-000638,CUST-000280,Manager,Support_Engineer_23,Support_Level_3,,Complex Issue,L3,2024-01-29
-ESC-000070,TICK-000653,CUST-000432,Manager,Support_Engineer_23,Support_Level_4,,SLA Risk,Engineering,2024-05-03
-ESC-000071,TICK-000668,CUST-000614,L2 → L3,Support_Engineer_17,Support_Level_3,,SLA Risk,L3,2025-05-06
-ESC-000072,TICK-000691,CUST-000373,L1 → L2,Support_Engineer_25,Support_Level_3,2023-01-10,SLA Risk,L3,2024-09-28
-ESC-000073,TICK-000692,CUST-000436,L2 → L3,Support_Engineer_10,Support_Level_2,2023-06-10,SLA Risk,L2,2025-05-24
-ESC-000074,TICK-000700,CUST-000729,L3 → Engineering,Support_Engineer_4,Support_Level_2,,Complex Issue,L2,2024-09-12
-ESC-000075,TICK-000703,CUST-000018,L1 → L2,Support_Engineer_8,Support_Level_2,,Technical Expertise Required,Engineering,2024-06-23
-ESC-000076,TICK-000705,CUST-000745,L2 → L3,Support_Engineer_11,Support_Level_4,,Customer Request,Engineering,2024-03-18
-ESC-000077,TICK-000706,CUST-000052,L1 → L2,Support_Engineer_16,Support_Level_2,2023-06-10,Complex Issue,L2,2023-06-10
-ESC-000078,TICK-000716,CUST-000737,L2 → L3,Support_Engineer_25,Support_Level_3,,Technical Expertise Required,L2,2024-04-10
-ESC-000079,TICK-000729,CUST-000833,Manager,Support_Engineer_19,Support_Level_4,,Complex Issue,L2,2023-06-01
-ESC-000080,TICK-000732,CUST-000196,L1 → L2,Support_Engineer_4,Support_Level_2,2023-04-15,Complex Issue,Engineering,2023-04-19
-ESC-000081,TICK-000762,CUST-000398,L3 → Engineering,Support_Engineer_18,Support_Level_4,,Technical Expertise Required,L2,2024-06-07
-ESC-000082,TICK-000788,CUST-000351,Manager,Support_Engineer_22,Support_Level_4,,Customer Request,Engineering,2025-07-23
-ESC-000083,TICK-000795,CUST-000653,Manager,Support_Engineer_8,Support_Level_2,,Technical Expertise Required,Engineering,2023-11-06
-ESC-000084,TICK-000842,CUST-000553,L3 → Engineering,Support_Engineer_19,Support_Level_2,2025-09-17,Customer Request,Engineering,2025-09-21
-ESC-000085,TICK-000845,CUST-000244,Manager,Support_Engineer_23,Support_Level_4,,Complex Issue,Engineering,2024-03-03
-ESC-000086,TICK-000853,CUST-000263,Manager,Support_Engineer_4,Support_Level_2,,SLA Risk,Engineering,2024-11-26
-ESC-000087,TICK-000860,CUST-000262,L1 → L2,Support_Engineer_14,Support_Level_2,,SLA Risk,L3,2023-08-27
-ESC-000088,TICK-000876,CUST-000590,Manager,Support_Engineer_21,Support_Level_2,,Severity,Engineering,2025-09-23
-ESC-000089,TICK-000877,CUST-000554,L3 → Engineering,Support_Engineer_11,Support_Level_3,,Complex Issue,Engineering,2023-03-13
-ESC-000090,TICK-000882,CUST-000992,L3 → Engineering,Support_Engineer_2,Support_Level_2,,Technical Expertise Required,Engineering,2023-01-13
-ESC-000091,TICK-000890,CUST-000224,Manager,Support_Engineer_22,Support_Level_3,,Technical Expertise Required,L2,2023-08-08
-ESC-000092,TICK-000901,CUST-000792,Manager,Support_Engineer_8,Support_Level_4,2025-05-18,SLA Risk,L3,2025-06-03
-ESC-000093,TICK-000906,CUST-000441,L3 → Engineering,Support_Engineer_18,Support_Level_4,,Customer Request,L3,2023-05-16
-ESC-000094,TICK-000918,CUST-000898,L3 → Engineering,Support_Engineer_12,Support_Level_3,,Severity,L3,2023-08-16
-ESC-000095,TICK-000925,CUST-000600,L1 → L2,Support_Engineer_1,Support_Level_2,,Complex Issue,L2,2024-02-25
-ESC-000096,TICK-000927,CUST-000713,Manager,Support_Engineer_14,Support_Level_4,,Technical Expertise Required,Engineering,2024-03-30
-ESC-000097,TICK-000948,CUST-000760,L3 → Engineering,Support_Engineer_15,Support_Level_2,,Severity,L3,2024-03-31
-ESC-000098,TICK-000969,CUST-000561,L1 → L2,Support_Engineer_18,Support_Level_3,,Technical Expertise Required,Engineering,2025-09-12
-ESC-000099,TICK-000975,CUST-000075,L1 → L2,Support_Engineer_23,Support_Level_2,,Customer Request,L3,2023-05-15
-ESC-000100,TICK-000988,CUST-000730,L1 → L2,Support_Engineer_7,Support_Level_4,,Severity,L3,2023-07-27
-ESC-000101,TICK-001009,CUST-000664,Manager,Support_Engineer_15,Support_Level_4,,Customer Request,L3,2024-04-07
-ESC-000102,TICK-001024,CUST-000274,L3 → Engineering,Support_Engineer_17,Support_Level_2,,Complex Issue,Engineering,2025-07-31
-ESC-000103,TICK-001029,CUST-000090,L3 → Engineering,Support_Engineer_8,Support_Level_4,,Severity,L3,2024-06-22
-ESC-000104,TICK-001033,CUST-000922,L3 → Engineering,Support_Engineer_10,Support_Level_4,,SLA Risk,L3,2025-04-01
-ESC-000105,TICK-001034,CUST-000726,L2 → L3,Support_Engineer_14,Support_Level_3,,Customer Request,L3,2025-05-18
-ESC-000106,TICK-001088,CUST-000183,L2 → L3,Support_Engineer_1,Support_Level_4,2024-06-04,SLA Risk,Engineering,2025-08-19
-ESC-000107,TICK-001098,CUST-000363,L2 → L3,Support_Engineer_10,Support_Level_3,,Complex Issue,L2,2023-02-18
-ESC-000108,TICK-001101,CUST-000639,L1 → L2,Support_Engineer_5,Support_Level_4,,Technical Expertise Required,Engineering,2023-03-16
-ESC-000109,TICK-001111,CUST-000108,L2 → L3,Support_Engineer_25,Support_Level_2,,Technical Expertise Required,L3,2023-04-10
-ESC-000110,TICK-001112,CUST-000381,Manager,Support_Engineer_9,Support_Level_2,,Customer Request,L2,2023-04-20
-ESC-000111,TICK-001135,CUST-000881,L1 → L2,Support_Engineer_8,Support_Level_2,,SLA Risk,Engineering,2023-11-02
-ESC-000112,TICK-001144,CUST-000987,L1 → L2,Support_Engineer_2,Support_Level_3,,SLA Risk,Engineering,2023-06-26
-ESC-000113,TICK-001146,CUST-000251,L1 → L2,Support_Engineer_4,Support_Level_2,,Technical Expertise Required,L3,2023-02-11
-ESC-000114,TICK-001153,CUST-000639,L1 → L2,Support_Engineer_20,Support_Level_3,,Severity,Engineering,2023-02-03
-ESC-000115,TICK-001172,CUST-000576,L1 → L2,Support_Engineer_11,Support_Level_4,,SLA Risk,Engineering,2023-07-27
-ESC-000116,TICK-001182,CUST-000128,L2 → L3,Support_Engineer_11,Support_Level_3,,Technical Expertise Required,L3,2025-04-17
-ESC-000117,TICK-001190,CUST-000496,L1 → L2,Support_Engineer_18,Support_Level_2,,Complex Issue,Engineering,2025-01-02
-ESC-000118,TICK-001191,CUST-000082,Manager,Support_Engineer_6,Support_Level_4,2025-06-05,Severity,L2,2025-08-31
-ESC-000119,TICK-001201,CUST-000473,L2 → L3,Support_Engineer_24,Support_Level_3,,Technical Expertise Required,L2,2023-02-07
-ESC-000120,TICK-001217,CUST-000486,Manager,Support_Engineer_20,Support_Level_4,,Technical Expertise Required,L2,2025-03-24
-ESC-000121,TICK-001218,CUST-000451,L3 → Engineering,Support_Engineer_21,Support_Level_4,,Severity,Engineering,2024-07-24
-ESC-000122,TICK-001223,CUST-000450,Manager,Support_Engineer_1,Support_Level_3,,Severity,L2,2024-09-14
-ESC-000123,TICK-001230,CUST-000468,Manager,Support_Engineer_25,Support_Level_3,,Severity,L3,2024-09-13
-ESC-000124,TICK-001257,CUST-000873,L2 → L3,Support_Engineer_15,Support_Level_2,,Severity,L2,2023-05-01
-ESC-000125,TICK-001269,CUST-000419,Manager,Support_Engineer_13,Support_Level_4,,SLA Risk,L2,2024-10-25
-ESC-000126,TICK-001276,CUST-000042,L2 → L3,Support_Engineer_15,Support_Level_3,,Technical Expertise Required,L2,2025-01-01
-ESC-000127,TICK-001306,CUST-000753,L1 → L2,Support_Engineer_25,Support_Level_3,,Technical Expertise Required,Engineering,2023-09-17
-ESC-000128,TICK-001315,CUST-000947,Manager,Support_Engineer_7,Support_Level_3,,SLA Risk,Engineering,2024-05-26
-ESC-000129,TICK-001320,CUST-000840,L2 → L3,Support_Engineer_19,Support_Level_3,,Customer Request,Engineering,2024-03-28
-ESC-000130,TICK-001329,CUST-000804,Manager,Support_Engineer_6,Support_Level_2,,Customer Request,Engineering,2025-05-22
-ESC-000131,TICK-001363,CUST-000585,Manager,Support_Engineer_21,Support_Level_2,,Complex Issue,L2,2023-03-29
-ESC-000132,TICK-001365,CUST-000084,L2 → L3,Support_Engineer_8,Support_Level_3,,Customer Request,Engineering,2024-09-18
-ESC-000133,TICK-001366,CUST-000470,L2 → L3,Support_Engineer_8,Support_Level_3,,Technical Expertise Required,L3,2024-04-26
-ESC-000134,TICK-001371,CUST-000656,L3 → Engineering,Support_Engineer_13,Support_Level_3,2023-04-28,Severity,L3,2024-03-12
-ESC-000135,TICK-001373,CUST-000939,L2 → L3,Support_Engineer_10,Support_Level_2,,SLA Risk,L2,2025-07-19
-ESC-000136,TICK-001381,CUST-000699,L1 → L2,Support_Engineer_4,Support_Level_4,,Customer Request,L3,2023-03-21
-ESC-000137,TICK-001385,CUST-000330,L2 → L3,Support_Engineer_1,Support_Level_3,,Technical Expertise Required,L2,2023-08-13
-ESC-000138,TICK-001400,CUST-000155,L2 → L3,Support_Engineer_8,Support_Level_4,,SLA Risk,Engineering,2024-12-28
-ESC-000139,TICK-001408,CUST-000008,L1 → L2,Support_Engineer_20,Support_Level_4,,Customer Request,L3,2023-01-04
-ESC-000140,TICK-001409,CUST-000916,L3 → Engineering,Support_Engineer_10,Support_Level_3,,Severity,L3,2023-02-04
-ESC-000141,TICK-001437,CUST-000483,Manager,Support_Engineer_10,Support_Level_2,,Customer Request,Engineering,2025-08-10
-ESC-000142,TICK-001438,CUST-000397,L1 → L2,Support_Engineer_15,Support_Level_4,2025-01-03,Complex Issue,Engineering,2025-09-04
-ESC-000143,TICK-001443,CUST-000522,Manager,Support_Engineer_3,Support_Level_2,,Severity,Engineering,2025-07-29
-ESC-000144,TICK-001446,CUST-000227,L1 → L2,Support_Engineer_11,Support_Level_4,,Customer Request,Engineering,2023-01-21
-ESC-000145,TICK-001453,CUST-000529,L3 → Engineering,Support_Engineer_17,Support_Level_4,,SLA Risk,L3,2024-04-07
-ESC-000146,TICK-001463,CUST-000719,L1 → L2,Support_Engineer_25,Support_Level_2,2023-01-30,Customer Request,Engineering,2025-08-16
-ESC-000147,TICK-001481,CUST-000278,L2 → L3,Support_Engineer_4,Support_Level_3,,Customer Request,Engineering,2023-01-15
-ESC-000148,TICK-001491,CUST-000923,Manager,Support_Engineer_5,Support_Level_4,,SLA Risk,L3,2023-03-26
-ESC-000149,TICK-001492,CUST-000200,L2 → L3,Support_Engineer_24,Support_Level_2,,Complex Issue,L3,2023-02-28
-ESC-000150,TICK-001498,CUST-000962,Manager,Support_Engineer_8,Support_Level_2,,SLA Risk,L2,2023-07-18
-ESC-000151,TICK-001503,CUST-000880,Manager,Support_Engineer_10,Support_Level_2,,Technical Expertise Required,L2,2024-10-19
-ESC-000152,TICK-001517,CUST-000687,Manager,Support_Engineer_9,Support_Level_4,,Technical Expertise Required,L2,2025-03-29
-ESC-000153,TICK-001526,CUST-000066,L1 → L2,Support_Engineer_23,Support_Level_2,,SLA Risk,L2,2024-05-01
-ESC-000154,TICK-001546,CUST-000577,L2 → L3,Support_Engineer_5,Support_Level_3,,Severity,L2,2025-03-28
-ESC-000155,TICK-001548,CUST-000666,Manager,Support_Engineer_24,Support_Level_3,,Complex Issue,Engineering,2024-03-26
-ESC-000156,TICK-001554,CUST-000334,Manager,Support_Engineer_25,Support_Level_4,,Severity,Engineering,2023-03-10
-ESC-000157,TICK-001555,CUST-000423,Manager,Support_Engineer_18,Support_Level_2,,Severity,L3,2024-05-16
-ESC-000158,TICK-001573,CUST-000878,L1 → L2,Support_Engineer_6,Support_Level_3,,Complex Issue,L3,2024-02-12
-ESC-000159,TICK-001584,CUST-000446,L2 → L3,Support_Engineer_21,Support_Level_3,,Customer Request,Engineering,2024-05-19
-ESC-000160,TICK-001606,CUST-000327,L1 → L2,Support_Engineer_1,Support_Level_2,,Severity,L2,2025-08-12
-ESC-000161,TICK-001616,CUST-000920,L2 → L3,Support_Engineer_22,Support_Level_2,,SLA Risk,L3,2023-03-16
-ESC-000162,TICK-001639,CUST-000107,L2 → L3,Support_Engineer_21,Support_Level_2,,Customer Request,L2,2025-03-02
-ESC-000163,TICK-001649,CUST-000186,Manager,Support_Engineer_14,Support_Level_4,,Complex Issue,Engineering,2025-05-13
-ESC-000164,TICK-001653,CUST-000540,Manager,Support_Engineer_23,Support_Level_2,,Severity,L2,2023-04-22
-ESC-000165,TICK-001660,CUST-000690,Manager,Support_Engineer_12,Support_Level_3,,SLA Risk,L3,2025-09-13
-ESC-000166,TICK-001662,CUST-000473,L2 → L3,Support_Engineer_15,Support_Level_4,,Customer Request,L2,2023-01-28
-ESC-000167,TICK-001676,CUST-000468,Manager,Support_Engineer_20,Support_Level_4,,Severity,Engineering,2023-04-05
-ESC-000168,TICK-001686,CUST-000781,Manager,Support_Engineer_11,Support_Level_4,,Customer Request,L2,2023-11-28
-ESC-000169,TICK-001689,CUST-000674,L3 → Engineering,Support_Engineer_18,Support_Level_4,,Customer Request,Engineering,2023-04-26
-ESC-000170,TICK-001719,CUST-000425,L2 → L3,Support_Engineer_20,Support_Level_2,,Severity,L2,2023-05-10
-ESC-000171,TICK-001725,CUST-000552,Manager,Support_Engineer_23,Support_Level_4,,Severity,L2,2024-04-26
-ESC-000172,TICK-001727,CUST-000430,L1 → L2,Support_Engineer_5,Support_Level_2,,Customer Request,L3,2024-09-25
-ESC-000173,TICK-001733,CUST-000187,Manager,Support_Engineer_1,Support_Level_3,,Complex Issue,Engineering,2024-12-08
-ESC-000174,TICK-001739,CUST-000866,L3 → Engineering,Support_Engineer_14,Support_Level_4,,Technical Expertise Required,Engineering,2025-05-12
-ESC-000175,TICK-001752,CUST-000373,L2 → L3,Support_Engineer_16,Support_Level_3,,Technical Expertise Required,L2,2025-09-22
-ESC-000176,TICK-001772,CUST-000374,L2 → L3,Support_Engineer_18,Support_Level_4,,Customer Request,Engineering,2024-06-02
-ESC-000177,TICK-001773,CUST-000214,L2 → L3,Support_Engineer_14,Support_Level_2,,Technical Expertise Required,Engineering,2024-07-30
-ESC-000178,TICK-001788,CUST-000950,L1 → L2,Support_Engineer_4,Support_Level_4,2023-12-15,Severity,Engineering,2025-07-29
-ESC-000179,TICK-001793,CUST-000801,L2 → L3,Support_Engineer_12,Support_Level_3,,Technical Expertise Required,L3,2025-07-16
-ESC-000180,TICK-001797,CUST-000181,L3 → Engineering,Support_Engineer_22,Support_Level_2,,Complex Issue,L3,2023-03-11
-ESC-000181,TICK-001800,CUST-000161,L1 → L2,Support_Engineer_5,Support_Level_4,,SLA Risk,Engineering,2025-04-05
-ESC-000182,TICK-001830,CUST-000061,Manager,Support_Engineer_12,Support_Level_2,,Complex Issue,Engineering,2025-01-19
-ESC-000183,TICK-001832,CUST-000947,L1 → L2,Support_Engineer_2,Support_Level_4,,SLA Risk,Engineering,2024-12-29
-ESC-000184,TICK-001835,CUST-000113,L2 → L3,Support_Engineer_11,Support_Level_3,,Severity,L3,2024-01-22
-ESC-000185,TICK-001845,CUST-000906,L3 → Engineering,Support_Engineer_22,Support_Level_2,,Technical Expertise Required,Engineering,2024-07-27
-ESC-000186,TICK-001849,CUST-000930,L2 → L3,Support_Engineer_12,Support_Level_3,,Severity,Engineering,2024-10-03
-ESC-000187,TICK-001853,CUST-000972,Manager,Support_Engineer_17,Support_Level_2,,SLA Risk,L3,2025-02-11
-ESC-000188,TICK-001861,CUST-000885,L3 → Engineering,Support_Engineer_3,Support_Level_2,,Severity,Engineering,2024-03-01
-ESC-000189,TICK-001863,CUST-000302,Manager,Support_Engineer_14,Support_Level_3,,SLA Risk,L2,2023-03-31
-ESC-000190,TICK-001886,CUST-000823,L3 → Engineering,Support_Engineer_15,Support_Level_2,,SLA Risk,L3,2023-12-04
-ESC-000191,TICK-001887,CUST-000606,L2 → L3,Support_Engineer_18,Support_Level_3,,Technical Expertise Required,Engineering,2023-10-02
-ESC-000192,TICK-001888,CUST-000898,L2 → L3,Support_Engineer_24,Support_Level_3,,Complex Issue,L3,2023-03-16
-ESC-000193,TICK-001891,CUST-000088,Manager,Support_Engineer_21,Support_Level_2,,Severity,L3,2024-03-22
-ESC-000194,TICK-001894,CUST-000963,L3 → Engineering,Support_Engineer_19,Support_Level_3,2025-03-19,Technical Expertise Required,Engineering,2025-09-13
-ESC-000195,TICK-001897,CUST-000650,L3 → Engineering,Support_Engineer_5,Support_Level_4,2024-12-29,Severity,L2,2025-06-08
-ESC-000196,TICK-001908,CUST-000574,Manager,Support_Engineer_12,Support_Level_3,,Complex Issue,L2,2023-03-23
-ESC-000197,TICK-001921,CUST-000691,L1 → L2,Support_Engineer_11,Support_Level_3,,Severity,L3,2025-07-22
-ESC-000198,TICK-001922,CUST-000721,L1 → L2,Support_Engineer_21,Support_Level_4,,SLA Risk,Engineering,2024-12-19
-ESC-000199,TICK-001923,CUST-000892,Manager,Support_Engineer_11,Support_Level_2,,Technical Expertise Required,L3,2023-12-08
-ESC-000200,TICK-001942,CUST-000964,L1 → L2,Support_Engineer_25,Support_Level_2,,Customer Request,L3,2023-01-04
-ESC-000201,TICK-001945,CUST-000972,L1 → L2,Support_Engineer_11,Support_Level_2,,Customer Request,Engineering,2023-01-15
-ESC-000202,TICK-001960,CUST-000293,Manager,Support_Engineer_9,Support_Level_4,,Complex Issue,L2,2025-06-24
-ESC-000203,TICK-001968,CUST-000276,Manager,Support_Engineer_21,Support_Level_4,,Customer Request,Engineering,2025-05-02
-ESC-000204,TICK-001980,CUST-000474,L3 → Engineering,Support_Engineer_20,Support_Level_4,,Complex Issue,L2,2024-02-13
-ESC-000205,TICK-001983,CUST-000034,L2 → L3,Support_Engineer_2,Support_Level_4,,SLA Risk,L3,2023-06-25
-ESC-000206,TICK-001986,CUST-000890,L2 → L3,Support_Engineer_24,Support_Level_3,,Customer Request,L2,2023-12-10
-ESC-000207,TICK-001991,CUST-000352,L3 → Engineering,Support_Engineer_8,Support_Level_2,,SLA Risk,L2,2025-01-07
-ESC-000208,TICK-001996,CUST-000593,Manager,Support_Engineer_23,Support_Level_2,,SLA Risk,L3,2024-07-27
-ESC-000209,TICK-002005,CUST-000859,L3 → Engineering,Support_Engineer_9,Support_Level_3,,SLA Risk,L3,2025-05-28
-ESC-000210,TICK-002032,CUST-000270,L1 → L2,Support_Engineer_15,Support_Level_3,,Technical Expertise Required,L2,2025-09-01
-ESC-000211,TICK-002039,CUST-000659,Manager,Support_Engineer_4,Support_Level_3,,Technical Expertise Required,Engineering,2023-09-23
-ESC-000212,TICK-002041,CUST-000873,L3 → Engineering,Support_Engineer_11,Support_Level_4,,Severity,Engineering,2023-02-25
-ESC-000213,TICK-002046,CUST-000573,L2 → L3,Support_Engineer_19,Support_Level_2,,Complex Issue,L3,2024-10-15
-ESC-000214,TICK-002057,CUST-000384,L1 → L2,Support_Engineer_9,Support_Level_2,,Customer Request,L3,2023-11-10
-ESC-000215,TICK-002068,CUST-000810,L1 → L2,Support_Engineer_2,Support_Level_4,,Complex Issue,L3,2024-04-05
-ESC-000216,TICK-002069,CUST-000063,L3 → Engineering,Support_Engineer_25,Support_Level_2,,Customer Request,Engineering,2024-01-30
-ESC-000217,TICK-002080,CUST-000019,Manager,Support_Engineer_23,Support_Level_4,,Customer Request,Engineering,2023-05-15
-ESC-000218,TICK-002081,CUST-000447,L3 → Engineering,Support_Engineer_11,Support_Level_4,2023-09-13,Complex Issue,Engineering,2025-03-15
-ESC-000219,TICK-002082,CUST-000501,Manager,Support_Engineer_15,Support_Level_4,2023-03-26,Customer Request,L2,2024-02-12
-ESC-000220,TICK-002093,CUST-000811,L3 → Engineering,Support_Engineer_9,Support_Level_2,2024-05-19,Severity,L3,2024-05-22
-ESC-000221,TICK-002099,CUST-000893,Manager,Support_Engineer_18,Support_Level_3,,Customer Request,Engineering,2024-01-21
-ESC-000222,TICK-002106,CUST-000220,L2 → L3,Support_Engineer_19,Support_Level_4,,SLA Risk,L2,2023-11-08
-ESC-000223,TICK-002108,CUST-000696,L1 → L2,Support_Engineer_20,Support_Level_4,,Severity,L3,2023-06-20
-ESC-000224,TICK-002126,CUST-000808,L3 → Engineering,Support_Engineer_23,Support_Level_4,2023-12-27,Complex Issue,L3,2024-07-14
-ESC-000225,TICK-002144,CUST-000890,Manager,Support_Engineer_21,Support_Level_3,,Customer Request,Engineering,2023-11-28
-ESC-000226,TICK-002149,CUST-000070,L1 → L2,Support_Engineer_14,Support_Level_4,,Complex Issue,Engineering,2024-03-08
-ESC-000227,TICK-002152,CUST-000359,Manager,Support_Engineer_20,Support_Level_2,,Complex Issue,Engineering,2023-07-01
-ESC-000228,TICK-002160,CUST-000833,L2 → L3,Support_Engineer_15,Support_Level_2,,Severity,Engineering,2025-09-29
-ESC-000229,TICK-002167,CUST-000283,L3 → Engineering,Support_Engineer_23,Support_Level_4,,Severity,L3,2025-06-16
-ESC-000230,TICK-002180,CUST-000705,L2 → L3,Support_Engineer_22,Support_Level_3,,Severity,L2,2023-11-06
-ESC-000231,TICK-002196,CUST-000968,L2 → L3,Support_Engineer_8,Support_Level_3,,Complex Issue,L3,2025-03-17
-ESC-000232,TICK-002217,CUST-000311,L1 → L2,Support_Engineer_2,Support_Level_3,,Technical Expertise Required,Engineering,2025-01-24
-ESC-000233,TICK-002260,CUST-000386,L1 → L2,Support_Engineer_16,Support_Level_4,2024-10-05,Technical Expertise Required,Engineering,2025-04-22
-ESC-000234,TICK-002270,CUST-000732,L3 → Engineering,Support_Engineer_11,Support_Level_4,,Technical Expertise Required,L3,2023-04-16
-ESC-000235,TICK-002288,CUST-000727,L3 → Engineering,Support_Engineer_10,Support_Level_3,,Technical Expertise Required,L2,2024-11-03
-ESC-000236,TICK-002289,CUST-000607,L1 → L2,Support_Engineer_6,Support_Level_4,,Complex Issue,Engineering,2023-08-16
-ESC-000237,TICK-002306,CUST-000237,Manager,Support_Engineer_20,Support_Level_4,,Severity,L3,2024-05-05
-ESC-000238,TICK-002314,CUST-000411,L3 → Engineering,Support_Engineer_10,Support_Level_2,,SLA Risk,L2,2025-01-01
-ESC-000239,TICK-002318,CUST-000484,Manager,Support_Engineer_19,Support_Level_3,,Severity,L2,2024-11-25
-ESC-000240,TICK-002322,CUST-000052,L3 → Engineering,Support_Engineer_25,Support_Level_3,,Customer Request,L3,2025-04-02
-ESC-000241,TICK-002344,CUST-000830,L1 → L2,Support_Engineer_19,Support_Level_4,,Severity,Engineering,2023-10-31
-ESC-000242,TICK-002361,CUST-000059,L1 → L2,Support_Engineer_1,Support_Level_2,,Technical Expertise Required,L2,2023-05-11
-ESC-000243,TICK-002362,CUST-000869,L1 → L2,Support_Engineer_23,Support_Level_4,,Complex Issue,Engineering,2025-07-26
-ESC-000244,TICK-002365,CUST-000601,Manager,Support_Engineer_20,Support_Level_2,,Technical Expertise Required,Engineering,2023-08-26
-ESC-000245,TICK-002407,CUST-000903,L3 → Engineering,Support_Engineer_25,Support_Level_4,,Customer Request,Engineering,2024-05-08
-ESC-000246,TICK-002411,CUST-000880,L1 → L2,Support_Engineer_10,Support_Level_3,,SLA Risk,L3,2023-01-03
-ESC-000247,TICK-002413,CUST-000606,L2 → L3,Support_Engineer_7,Support_Level_2,,Technical Expertise Required,L2,2025-01-14
-ESC-000248,TICK-002415,CUST-000029,L2 → L3,Support_Engineer_22,Support_Level_4,,Complex Issue,L2,2023-12-10
-ESC-000249,TICK-002435,CUST-000168,L3 → Engineering,Support_Engineer_20,Support_Level_2,,Customer Request,L2,2024-10-05
-ESC-000250,TICK-002439,CUST-000698,L2 → L3,Support_Engineer_6,Support_Level_4,,Customer Request,L2,2023-03-26
-ESC-000251,TICK-002463,CUST-000682,Manager,Support_Engineer_3,Support_Level_3,,Severity,Engineering,2023-04-02
-ESC-000252,TICK-002464,CUST-000948,L1 → L2,Support_Engineer_4,Support_Level_3,,Technical Expertise Required,L3,2024-02-06
-ESC-000253,TICK-002473,CUST-000537,Manager,Support_Engineer_8,Support_Level_2,,Technical Expertise Required,L2,2024-12-26
-ESC-000254,TICK-002478,CUST-000872,L2 → L3,Support_Engineer_16,Support_Level_4,,Technical Expertise Required,L3,2025-03-25
-ESC-000255,TICK-002513,CUST-000724,L3 → Engineering,Support_Engineer_20,Support_Level_2,,Complex Issue,L2,2025-01-02
-ESC-000256,TICK-002524,CUST-000750,L1 → L2,Support_Engineer_24,Support_Level_4,,SLA Risk,L2,2023-04-03
-ESC-000257,TICK-002525,CUST-000356,L3 → Engineering,Support_Engineer_24,Support_Level_2,,SLA Risk,L3,2025-06-17
-ESC-000258,TICK-002532,CUST-000149,L1 → L2,Support_Engineer_11,Support_Level_3,,Customer Request,L3,2023-06-04
-ESC-000259,TICK-002541,CUST-000958,Manager,Support_Engineer_13,Support_Level_4,,Severity,Engineering,2025-06-28
-ESC-000260,TICK-002542,CUST-000719,L1 → L2,Support_Engineer_24,Support_Level_4,,Customer Request,L2,2025-07-03
-ESC-000261,TICK-002553,CUST-000769,L1 → L2,Support_Engineer_10,Support_Level_3,2025-03-09,Customer Request,L2,2025-07-20
-ESC-000262,TICK-002554,CUST-000921,Manager,Support_Engineer_20,Support_Level_3,,Customer Request,Engineering,2024-03-18
-ESC-000263,TICK-002574,CUST-000291,L1 → L2,Support_Engineer_2,Support_Level_4,,Complex Issue,Engineering,2024-11-29
-ESC-000264,TICK-002582,CUST-000823,L3 → Engineering,Support_Engineer_5,Support_Level_4,,Customer Request,L2,2024-01-25
-ESC-000265,TICK-002587,CUST-000886,L1 → L2,Support_Engineer_5,Support_Level_3,,Complex Issue,Engineering,2025-01-28
-ESC-000266,TICK-002600,CUST-000666,L3 → Engineering,Support_Engineer_22,Support_Level_3,,Severity,L3,2023-04-07
-ESC-000267,TICK-002602,CUST-000724,L2 → L3,Support_Engineer_10,Support_Level_3,,SLA Risk,Engineering,2023-04-20
-ESC-000268,TICK-002615,CUST-000634,L1 → L2,Support_Engineer_11,Support_Level_2,,SLA Risk,L2,2023-03-21
-ESC-000269,TICK-002624,CUST-000207,L3 → Engineering,Support_Engineer_2,Support_Level_3,,Technical Expertise Required,Engineering,2023-07-27
-ESC-000270,TICK-002647,CUST-000833,L2 → L3,Support_Engineer_16,Support_Level_3,,Severity,Engineering,2023-02-03
-ESC-000271,TICK-002649,CUST-000822,L2 → L3,Support_Engineer_17,Support_Level_4,2025-07-05,Customer Request,L3,2025-08-08
-ESC-000272,TICK-002659,CUST-000017,L3 → Engineering,Support_Engineer_21,Support_Level_4,,Technical Expertise Required,L3,2023-12-04
-ESC-000273,TICK-002660,CUST-000296,L2 → L3,Support_Engineer_6,Support_Level_3,,Customer Request,L3,2023-02-08
-ESC-000274,TICK-002724,CUST-000174,L1 → L2,Support_Engineer_11,Support_Level_3,,Severity,L2,2024-06-20
-ESC-000275,TICK-002752,CUST-000084,L3 → Engineering,Support_Engineer_1,Support_Level_3,,SLA Risk,L2,2024-09-28
-ESC-000276,TICK-002759,CUST-000825,L1 → L2,Support_Engineer_17,Support_Level_4,,Technical Expertise Required,L2,2024-12-24
-ESC-000277,TICK-002769,CUST-000099,L1 → L2,Support_Engineer_1,Support_Level_3,,Complex Issue,Engineering,2025-05-04
-ESC-000278,TICK-002775,CUST-000560,Manager,Support_Engineer_9,Support_Level_2,,Technical Expertise Required,Engineering,2023-09-10
-ESC-000279,TICK-002776,CUST-000581,L3 → Engineering,Support_Engineer_21,Support_Level_4,,Severity,L2,2023-07-19
-ESC-000280,TICK-002792,CUST-000721,Manager,Support_Engineer_25,Support_Level_2,,Customer Request,L2,2023-01-09
-ESC-000281,TICK-002794,CUST-000453,L1 → L2,Support_Engineer_16,Support_Level_2,,Severity,L3,2024-10-04
-ESC-000282,TICK-002796,CUST-000068,L2 → L3,Support_Engineer_10,Support_Level_2,,SLA Risk,L2,2024-09-26
-ESC-000283,TICK-002809,CUST-000097,Manager,Support_Engineer_19,Support_Level_4,,Technical Expertise Required,L3,2023-01-19
-ESC-000284,TICK-002822,CUST-000826,L1 → L2,Support_Engineer_13,Support_Level_4,,Severity,L3,2025-05-14
-ESC-000285,TICK-002823,CUST-000041,L3 → Engineering,Support_Engineer_10,Support_Level_3,,Complex Issue,L3,2024-01-06
-ESC-000286,TICK-002836,CUST-000241,L3 → Engineering,Support_Engineer_20,Support_Level_3,,SLA Risk,Engineering,2023-07-12
-ESC-000287,TICK-002840,CUST-000444,L3 → Engineering,Support_Engineer_22,Support_Level_3,,Severity,L3,2025-07-04
-ESC-000288,TICK-002842,CUST-000283,Manager,Support_Engineer_20,Support_Level_4,,Technical Expertise Required,L2,2025-01-24
-ESC-000289,TICK-002851,CUST-000113,L3 → Engineering,Support_Engineer_1,Support_Level_3,,Severity,Engineering,2025-03-25
-ESC-000290,TICK-002854,CUST-000199,L3 → Engineering,Support_Engineer_12,Support_Level_4,,Complex Issue,Engineering,2023-12-11
-ESC-000291,TICK-002856,CUST-000936,L1 → L2,Support_Engineer_18,Support_Level_4,,Technical Expertise Required,L2,2024-08-23
-ESC-000292,TICK-002894,CUST-000406,L3 → Engineering,Support_Engineer_10,Support_Level_4,2024-02-14,Technical Expertise Required,L2,2025-02-14
-ESC-000293,TICK-002899,CUST-000554,Manager,Support_Engineer_24,Support_Level_2,,SLA Risk,L2,2024-02-04
-ESC-000294,TICK-002900,CUST-000162,Manager,Support_Engineer_24,Support_Level_2,,Customer Request,Engineering,2023-04-10
-ESC-000295,TICK-002915,CUST-000914,L1 → L2,Support_Engineer_6,Support_Level_2,,Complex Issue,L3,2025-05-23
-ESC-000296,TICK-002919,CUST-000830,L2 → L3,Support_Engineer_15,Support_Level_2,,Technical Expertise Required,L3,2023-01-05
-ESC-000297,TICK-002922,CUST-000423,L2 → L3,Support_Engineer_2,Support_Level_2,,Complex Issue,L2,2023-10-10
-ESC-000298,TICK-002929,CUST-000905,Manager,Support_Engineer_9,Support_Level_3,,Severity,L3,2024-11-11
-ESC-000299,TICK-002942,CUST-000016,Manager,Support_Engineer_19,Support_Level_4,,Technical Expertise Required,L3,2025-01-19
-ESC-000300,TICK-002968,CUST-000077,L1 → L2,Support_Engineer_9,Support_Level_3,,Customer Request,L2,2023-02-27
-ESC-000301,TICK-002987,CUST-000693,L1 → L2,Support_Engineer_6,Support_Level_4,,Complex Issue,L2,2023-05-01
-ESC-000302,TICK-003005,CUST-000121,L2 → L3,Support_Engineer_5,Support_Level_4,,Technical Expertise Required,Engineering,2024-03-20
-ESC-000303,TICK-003008,CUST-000958,Manager,Support_Engineer_21,Support_Level_2,,SLA Risk,L3,2025-02-27
-ESC-000304,TICK-003014,CUST-000549,L3 → Engineering,Support_Engineer_8,Support_Level_3,,Complex Issue,L3,2025-05-14
-ESC-000305,TICK-003024,CUST-000316,Manager,Support_Engineer_25,Support_Level_2,,SLA Risk,L3,2023-07-27
-ESC-000306,TICK-003037,CUST-000288,L3 → Engineering,Support_Engineer_24,Support_Level_4,,Complex Issue,L3,2025-04-06
-ESC-000307,TICK-003097,CUST-000768,L1 → L2,Support_Engineer_15,Support_Level_4,,Complex Issue,L2,2023-08-27
-ESC-000308,TICK-003101,CUST-000236,L3 → Engineering,Support_Engineer_25,Support_Level_3,,Complex Issue,L3,2025-06-22
-ESC-000309,TICK-003106,CUST-000184,L2 → L3,Support_Engineer_18,Support_Level_4,,SLA Risk,Engineering,2025-03-25
-ESC-000310,TICK-003108,CUST-000076,L3 → Engineering,Support_Engineer_21,Support_Level_4,2023-08-23,Customer Request,L2,2025-05-24
-ESC-000311,TICK-003126,CUST-000167,Manager,Support_Engineer_17,Support_Level_3,,Severity,L3,2023-03-02
-ESC-000312,TICK-003141,CUST-000532,Manager,Support_Engineer_11,Support_Level_2,,Severity,Engineering,2025-09-07
-ESC-000313,TICK-003149,CUST-000099,L3 → Engineering,Support_Engineer_20,Support_Level_2,,Technical Expertise Required,Engineering,2023-02-17
-ESC-000314,TICK-003153,CUST-000041,Manager,Support_Engineer_10,Support_Level_4,,SLA Risk,L3,2025-08-15
-ESC-000315,TICK-003176,CUST-000043,L2 → L3,Support_Engineer_21,Support_Level_3,,Complex Issue,L2,2025-04-06
-ESC-000316,TICK-003188,CUST-000478,L3 → Engineering,Support_Engineer_4,Support_Level_2,,Customer Request,L3,2023-10-03
-ESC-000317,TICK-003210,CUST-000466,L1 → L2,Support_Engineer_16,Support_Level_4,,Severity,L3,2025-08-18
-ESC-000318,TICK-003224,CUST-000759,L1 → L2,Support_Engineer_17,Support_Level_3,,Customer Request,L2,2024-12-23
-ESC-000319,TICK-003232,CUST-000280,L2 → L3,Support_Engineer_18,Support_Level_2,,Customer Request,L3,2023-03-04
-ESC-000320,TICK-003240,CUST-000479,Manager,Support_Engineer_14,Support_Level_4,,Severity,L3,2023-04-13
-ESC-000321,TICK-003258,CUST-000761,L3 → Engineering,Support_Engineer_13,Support_Level_4,,SLA Risk,L3,2023-10-13
-ESC-000322,TICK-003259,CUST-000892,L2 → L3,Support_Engineer_16,Support_Level_3,,SLA Risk,L3,2024-02-21
-ESC-000323,TICK-003276,CUST-000232,L2 → L3,Support_Engineer_11,Support_Level_4,,SLA Risk,L2,2023-03-05
-ESC-000324,TICK-003288,CUST-000689,L2 → L3,Support_Engineer_11,Support_Level_4,,SLA Risk,L3,2025-06-01
-ESC-000325,TICK-003290,CUST-000323,L1 → L2,Support_Engineer_6,Support_Level_2,,Severity,L3,2023-05-02
-ESC-000326,TICK-003303,CUST-000445,L3 → Engineering,Support_Engineer_23,Support_Level_3,,SLA Risk,L3,2025-08-19
-ESC-000327,TICK-003345,CUST-000186,Manager,Support_Engineer_19,Support_Level_2,,Complex Issue,Engineering,2024-05-10
-ESC-000328,TICK-003356,CUST-000364,L3 → Engineering,Support_Engineer_12,Support_Level_2,,Complex Issue,L2,2023-12-17
-ESC-000329,TICK-003375,CUST-000233,L2 → L3,Support_Engineer_24,Support_Level_2,,Technical Expertise Required,Engineering,2023-06-12
-ESC-000330,TICK-003376,CUST-000735,Manager,Support_Engineer_15,Support_Level_4,,Technical Expertise Required,L2,2024-03-05
-ESC-000331,TICK-003395,CUST-000376,L1 → L2,Support_Engineer_2,Support_Level_4,,Technical Expertise Required,L3,2023-02-10
-ESC-000332,TICK-003416,CUST-000147,Manager,Support_Engineer_7,Support_Level_2,,Technical Expertise Required,Engineering,2024-01-15
-ESC-000333,TICK-003437,CUST-000711,L3 → Engineering,Support_Engineer_14,Support_Level_2,,SLA Risk,L2,2023-01-25
-ESC-000334,TICK-003439,CUST-000286,L2 → L3,Support_Engineer_14,Support_Level_4,,Technical Expertise Required,Engineering,2024-03-14
-ESC-000335,TICK-003469,CUST-000541,Manager,Support_Engineer_14,Support_Level_2,2023-04-01,Customer Request,Engineering,2024-01-28
-ESC-000336,TICK-003480,CUST-000933,L1 → L2,Support_Engineer_1,Support_Level_2,,SLA Risk,L2,2024-11-18
-ESC-000337,TICK-003495,CUST-000028,Manager,Support_Engineer_5,Support_Level_3,,Severity,L3,2023-11-05
-ESC-000338,TICK-003499,CUST-000366,L3 → Engineering,Support_Engineer_23,Support_Level_2,,Severity,Engineering,2024-05-16
-ESC-000339,TICK-003501,CUST-000289,L1 → L2,Support_Engineer_13,Support_Level_4,,Severity,L3,2023-06-09
-ESC-000340,TICK-003502,CUST-000479,L2 → L3,Support_Engineer_21,Support_Level_3,2024-03-15,Severity,L2,2025-08-17
-ESC-000341,TICK-003515,CUST-000534,L3 → Engineering,Support_Engineer_3,Support_Level_2,,Severity,L2,2025-09-03
-ESC-000342,TICK-003546,CUST-000734,L2 → L3,Support_Engineer_25,Support_Level_2,,SLA Risk,L2,2025-03-05
-ESC-000343,TICK-003559,CUST-000435,L1 → L2,Support_Engineer_24,Support_Level_3,,Customer Request,L2,2025-01-25
-ESC-000344,TICK-003575,CUST-000117,L2 → L3,Support_Engineer_21,Support_Level_4,2023-03-02,Complex Issue,L3,2023-03-07
-ESC-000345,TICK-003595,CUST-000641,L3 → Engineering,Support_Engineer_24,Support_Level_2,,SLA Risk,L2,2024-05-03
-ESC-000346,TICK-003596,CUST-000541,L3 → Engineering,Support_Engineer_5,Support_Level_2,,Customer Request,L3,2024-03-19
-ESC-000347,TICK-003599,CUST-000719,L3 → Engineering,Support_Engineer_24,Support_Level_2,2025-10-05,SLA Risk,L3,2025-10-06
-ESC-000348,TICK-003607,CUST-000469,L2 → L3,Support_Engineer_13,Support_Level_2,,Severity,L2,2025-07-11
-ESC-000349,TICK-003614,CUST-000751,L2 → L3,Support_Engineer_20,Support_Level_4,,Complex Issue,L3,2023-11-06
-ESC-000350,TICK-003644,CUST-000074,L3 → Engineering,Support_Engineer_6,Support_Level_2,,Complex Issue,L3,2024-11-21
-ESC-000351,TICK-003666,CUST-000694,Manager,Support_Engineer_6,Support_Level_2,,Technical Expertise Required,Engineering,2025-01-03
-ESC-000352,TICK-003697,CUST-000535,Manager,Support_Engineer_17,Support_Level_4,,SLA Risk,L2,2024-10-14
-ESC-000353,TICK-003722,CUST-000778,L3 → Engineering,Support_Engineer_4,Support_Level_3,,SLA Risk,Engineering,2023-04-29
-ESC-000354,TICK-003737,CUST-000905,L2 → L3,Support_Engineer_17,Support_Level_4,,Complex Issue,Engineering,2023-01-14
-ESC-000355,TICK-003738,CUST-000526,Manager,Support_Engineer_6,Support_Level_2,,Customer Request,Engineering,2023-01-13
-ESC-000356,TICK-003761,CUST-000480,L1 → L2,Support_Engineer_22,Support_Level_4,,Technical Expertise Required,Engineering,2024-08-21
-ESC-000357,TICK-003765,CUST-000631,L2 → L3,Support_Engineer_12,Support_Level_4,,Severity,Engineering,2025-01-21
-ESC-000358,TICK-003791,CUST-000361,Manager,Support_Engineer_3,Support_Level_2,2023-10-02,Complex Issue,L3,2024-02-27
-ESC-000359,TICK-003807,CUST-000282,L1 → L2,Support_Engineer_3,Support_Level_3,,Complex Issue,Engineering,2025-06-01
-ESC-000360,TICK-003832,CUST-000338,L3 → Engineering,Support_Engineer_3,Support_Level_4,,Severity,L3,2023-09-23
-ESC-000361,TICK-003835,CUST-000711,L1 → L2,Support_Engineer_4,Support_Level_2,,Complex Issue,L3,2023-09-17
-ESC-000362,TICK-003837,CUST-000078,L2 → L3,Support_Engineer_16,Support_Level_4,,Complex Issue,Engineering,2023-06-15
-ESC-000363,TICK-003850,CUST-000977,L2 → L3,Support_Engineer_5,Support_Level_2,,Severity,L3,2024-08-20
-ESC-000364,TICK-003857,CUST-000104,L2 → L3,Support_Engineer_22,Support_Level_2,,SLA Risk,L3,2023-06-19
-ESC-000365,TICK-003860,CUST-000020,L3 → Engineering,Support_Engineer_19,Support_Level_4,,Customer Request,Engineering,2024-01-03
-ESC-000366,TICK-003862,CUST-000353,L1 → L2,Support_Engineer_3,Support_Level_2,,Technical Expertise Required,Engineering,2025-07-08
-ESC-000367,TICK-003889,CUST-000075,L2 → L3,Support_Engineer_6,Support_Level_3,2023-11-11,Severity,L3,2025-09-10
-ESC-000368,TICK-003898,CUST-000951,L3 → Engineering,Support_Engineer_13,Support_Level_4,,Technical Expertise Required,L3,2023-07-07
-ESC-000369,TICK-003901,CUST-000100,L2 → L3,Support_Engineer_10,Support_Level_2,,Customer Request,L2,2025-01-15
-ESC-000370,TICK-003917,CUST-000425,Manager,Support_Engineer_22,Support_Level_3,,Customer Request,L2,2023-06-11
-ESC-000371,TICK-003920,CUST-000788,Manager,Support_Engineer_16,Support_Level_3,,Complex Issue,L3,2023-10-22
-ESC-000372,TICK-003930,CUST-000217,L3 → Engineering,Support_Engineer_17,Support_Level_2,,Customer Request,L2,2023-10-21
-ESC-000373,TICK-003937,CUST-000492,L3 → Engineering,Support_Engineer_22,Support_Level_3,,Severity,L2,2024-02-04
-ESC-000374,TICK-003957,CUST-000693,L1 → L2,Support_Engineer_21,Support_Level_3,,Customer Request,L2,2024-05-30
-ESC-000375,TICK-003982,CUST-000533,L3 → Engineering,Support_Engineer_5,Support_Level_3,,Customer Request,Engineering,2024-05-27
-ESC-000376,TICK-003991,CUST-000305,L3 → Engineering,Support_Engineer_7,Support_Level_4,,Technical Expertise Required,L2,2023-06-12
-ESC-000377,TICK-004001,CUST-000523,L1 → L2,Support_Engineer_12,Support_Level_2,,Customer Request,L3,2024-04-15
-ESC-000378,TICK-004005,CUST-000861,L3 → Engineering,Support_Engineer_21,Support_Level_3,,Technical Expertise Required,Engineering,2023-12-24
-ESC-000379,TICK-004009,CUST-000485,L3 → Engineering,Support_Engineer_6,Support_Level_2,,Technical Expertise Required,L2,2023-05-07
-ESC-000380,TICK-004013,CUST-000976,L1 → L2,Support_Engineer_16,Support_Level_2,2024-07-21,Complex Issue,Engineering,2025-09-13
-ESC-000381,TICK-004014,CUST-000019,L2 → L3,Support_Engineer_6,Support_Level_2,,Complex Issue,L2,2023-04-18
-ESC-000382,TICK-004020,CUST-000307,Manager,Support_Engineer_19,Support_Level_2,,Severity,L3,2023-05-23
-ESC-000383,TICK-004041,CUST-000931,L3 → Engineering,Support_Engineer_14,Support_Level_2,,Technical Expertise Required,L3,2023-07-31
-ESC-000384,TICK-004042,CUST-000587,L1 → L2,Support_Engineer_4,Support_Level_4,,Complex Issue,L2,2025-03-23
-ESC-000385,TICK-004044,CUST-000703,L2 → L3,Support_Engineer_5,Support_Level_2,,Complex Issue,L2,2024-03-23
-ESC-000386,TICK-004054,CUST-000472,L3 → Engineering,Support_Engineer_4,Support_Level_2,,Technical Expertise Required,L2,2023-01-01
-ESC-000387,TICK-004064,CUST-000109,L1 → L2,Support_Engineer_15,Support_Level_3,,Customer Request,Engineering,2024-07-13
-ESC-000388,TICK-004077,CUST-000309,Manager,Support_Engineer_22,Support_Level_2,2024-07-30,Complex Issue,L3,2024-12-07
-ESC-000389,TICK-004090,CUST-000262,L3 → Engineering,Support_Engineer_20,Support_Level_2,,Customer Request,L2,2025-06-12
-ESC-000390,TICK-004104,CUST-000936,L1 → L2,Support_Engineer_11,Support_Level_2,,Technical Expertise Required,L3,2024-02-23
-ESC-000391,TICK-004114,CUST-000802,Manager,Support_Engineer_12,Support_Level_3,,Technical Expertise Required,Engineering,2023-03-21
-ESC-000392,TICK-004118,CUST-000658,L3 → Engineering,Support_Engineer_19,Support_Level_2,,Technical Expertise Required,L2,2025-09-01
-ESC-000393,TICK-004125,CUST-000956,Manager,Support_Engineer_1,Support_Level_2,,SLA Risk,L2,2025-02-28
-ESC-000394,TICK-004127,CUST-000813,L2 → L3,Support_Engineer_16,Support_Level_4,,SLA Risk,L3,2023-10-10
-ESC-000395,TICK-004128,CUST-000966,Manager,Support_Engineer_9,Support_Level_4,,Customer Request,L3,2024-08-04
-ESC-000396,TICK-004142,CUST-000037,L3 → Engineering,Support_Engineer_9,Support_Level_3,,Customer Request,Engineering,2025-08-12
-ESC-000397,TICK-004143,CUST-000847,L2 → L3,Support_Engineer_1,Support_Level_2,,Customer Request,L3,2024-06-19
-ESC-000398,TICK-004178,CUST-000371,L3 → Engineering,Support_Engineer_16,Support_Level_2,,Severity,L2,2023-06-03
-ESC-000399,TICK-004190,CUST-000781,L3 → Engineering,Support_Engineer_23,Support_Level_3,2025-05-18,Technical Expertise Required,L2,2025-08-30
-ESC-000400,TICK-004196,CUST-000432,L2 → L3,Support_Engineer_7,Support_Level_4,,Technical Expertise Required,Engineering,2023-02-28
-ESC-000401,TICK-004230,CUST-000062,Manager,Support_Engineer_25,Support_Level_3,,SLA Risk,L3,2024-09-12
-ESC-000402,TICK-004242,CUST-000912,L2 → L3,Support_Engineer_17,Support_Level_3,,SLA Risk,L2,2023-02-03
-ESC-000403,TICK-004250,CUST-000175,L1 → L2,Support_Engineer_8,Support_Level_4,,Technical Expertise Required,Engineering,2023-04-14
-ESC-000404,TICK-004255,CUST-000703,Manager,Support_Engineer_25,Support_Level_2,,Severity,L2,2023-12-15
-ESC-000405,TICK-004266,CUST-000367,L1 → L2,Support_Engineer_4,Support_Level_3,,Complex Issue,L2,2023-05-19
-ESC-000406,TICK-004280,CUST-000781,L1 → L2,Support_Engineer_14,Support_Level_2,,Technical Expertise Required,L3,2023-02-16
-ESC-000407,TICK-004293,CUST-000529,Manager,Support_Engineer_21,Support_Level_3,,Technical Expertise Required,Engineering,2023-06-14
-ESC-000408,TICK-004298,CUST-000695,L2 → L3,Support_Engineer_11,Support_Level_2,,Severity,L2,2024-11-26
-ESC-000409,TICK-004299,CUST-000164,L3 → Engineering,Support_Engineer_6,Support_Level_4,,Customer Request,Engineering,2024-09-23
-ESC-000410,TICK-004304,CUST-000061,L2 → L3,Support_Engineer_9,Support_Level_2,,Severity,Engineering,2023-12-09
-ESC-000411,TICK-004318,CUST-000280,Manager,Support_Engineer_14,Support_Level_4,,Severity,L2,2023-10-07
-ESC-000412,TICK-004332,CUST-000252,L1 → L2,Support_Engineer_4,Support_Level_3,,SLA Risk,Engineering,2024-02-10
-ESC-000413,TICK-004336,CUST-000083,Manager,Support_Engineer_22,Support_Level_4,,Severity,L3,2024-04-11
-ESC-000414,TICK-004338,CUST-000976,L1 → L2,Support_Engineer_8,Support_Level_4,,SLA Risk,L3,2024-03-31
-ESC-000415,TICK-004347,CUST-000834,L2 → L3,Support_Engineer_23,Support_Level_3,,Technical Expertise Required,L3,2023-09-01
-ESC-000416,TICK-004349,CUST-000421,L2 → L3,Support_Engineer_1,Support_Level_4,,Complex Issue,L2,2024-02-23
-ESC-000417,TICK-004359,CUST-000586,Manager,Support_Engineer_15,Support_Level_2,,Technical Expertise Required,Engineering,2024-08-13
-ESC-000418,TICK-004379,CUST-000490,L3 → Engineering,Support_Engineer_14,Support_Level_4,,Severity,Engineering,2024-01-14
-ESC-000419,TICK-004387,CUST-000064,L1 → L2,Support_Engineer_24,Support_Level_2,,SLA Risk,L2,2023-06-22
-ESC-000420,TICK-004393,CUST-000559,Manager,Support_Engineer_18,Support_Level_4,,SLA Risk,L2,2023-07-21
-ESC-000421,TICK-004407,CUST-000683,L3 → Engineering,Support_Engineer_5,Support_Level_4,,Severity,L2,2025-08-04
-ESC-000422,TICK-004417,CUST-000141,L2 → L3,Support_Engineer_24,Support_Level_3,,Complex Issue,L3,2023-06-05
-ESC-000423,TICK-004434,CUST-000001,Manager,Support_Engineer_1,Support_Level_2,,Technical Expertise Required,L3,2024-11-23
-ESC-000424,TICK-004449,CUST-000510,L2 → L3,Support_Engineer_23,Support_Level_3,,Customer Request,L3,2023-02-07
-ESC-000425,TICK-004451,CUST-000961,L3 → Engineering,Support_Engineer_13,Support_Level_4,,Severity,L3,2024-03-26
-ESC-000426,TICK-004457,CUST-000325,L3 → Engineering,Support_Engineer_12,Support_Level_3,,Technical Expertise Required,Engineering,2024-08-02
-ESC-000427,TICK-004463,CUST-000046,L3 → Engineering,Support_Engineer_1,Support_Level_2,,Technical Expertise Required,Engineering,2023-08-21
-ESC-000428,TICK-004468,CUST-000741,Manager,Support_Engineer_20,Support_Level_4,2023-04-09,Complex Issue,Engineering,2024-11-23
-ESC-000429,TICK-004487,CUST-000864,L1 → L2,Support_Engineer_3,Support_Level_4,,SLA Risk,L2,2023-01-21
-ESC-000430,TICK-004495,CUST-000583,Manager,Support_Engineer_16,Support_Level_4,,Severity,L3,2023-05-30
-ESC-000431,TICK-004499,CUST-000077,L1 → L2,Support_Engineer_22,Support_Level_3,,Customer Request,L3,2023-05-13
-ESC-000432,TICK-004512,CUST-000841,L3 → Engineering,Support_Engineer_10,Support_Level_4,,SLA Risk,Engineering,2025-09-15
-ESC-000433,TICK-004515,CUST-000146,L1 → L2,Support_Engineer_17,Support_Level_4,,SLA Risk,L3,2023-11-26
-ESC-000434,TICK-004516,CUST-000539,L2 → L3,Support_Engineer_25,Support_Level_3,,Complex Issue,L2,2025-02-16
-ESC-000435,TICK-004535,CUST-000768,L2 → L3,Support_Engineer_9,Support_Level_2,,Technical Expertise Required,Engineering,2024-12-06
-ESC-000436,TICK-004542,CUST-000469,Manager,Support_Engineer_18,Support_Level_2,,Severity,L3,2023-02-21
-ESC-000437,TICK-004547,CUST-000164,L2 → L3,Support_Engineer_11,Support_Level_3,,Technical Expertise Required,L3,2023-02-27
-ESC-000438,TICK-004553,CUST-000863,L2 → L3,Support_Engineer_11,Support_Level_2,,SLA Risk,L2,2025-05-08
-ESC-000439,TICK-004576,CUST-000444,L3 → Engineering,Support_Engineer_22,Support_Level_4,,SLA Risk,Engineering,2024-02-18
-ESC-000440,TICK-004586,CUST-000995,L2 → L3,Support_Engineer_19,Support_Level_2,,SLA Risk,Engineering,2023-08-10
-ESC-000441,TICK-004589,CUST-000154,L2 → L3,Support_Engineer_20,Support_Level_4,2024-08-03,Customer Request,Engineering,2025-08-14
-ESC-000442,TICK-004615,CUST-000390,Manager,Support_Engineer_14,Support_Level_3,,Customer Request,L2,2025-09-09
-ESC-000443,TICK-004618,CUST-000918,Manager,Support_Engineer_2,Support_Level_2,,Customer Request,Engineering,2024-12-02
-ESC-000444,TICK-004622,CUST-000723,L2 → L3,Support_Engineer_23,Support_Level_2,,Severity,L2,2025-01-23
-ESC-000445,TICK-004629,CUST-000097,L1 → L2,Support_Engineer_8,Support_Level_3,,Customer Request,L2,2024-03-19
-ESC-000446,TICK-004664,CUST-000341,L1 → L2,Support_Engineer_9,Support_Level_4,,Technical Expertise Required,L3,2025-01-01
-ESC-000447,TICK-004669,CUST-000082,Manager,Support_Engineer_2,Support_Level_2,,Technical Expertise Required,Engineering,2024-06-13
-ESC-000448,TICK-004675,CUST-000697,L1 → L2,Support_Engineer_20,Support_Level_4,,Severity,Engineering,2024-10-01
-ESC-000449,TICK-004681,CUST-000325,L3 → Engineering,Support_Engineer_11,Support_Level_2,,SLA Risk,L2,2024-08-22
-ESC-000450,TICK-004686,CUST-000606,L1 → L2,Support_Engineer_7,Support_Level_3,,SLA Risk,Engineering,2023-07-28
-ESC-000451,TICK-004697,CUST-000666,Manager,Support_Engineer_2,Support_Level_2,,Complex Issue,L3,2023-03-06
-ESC-000452,TICK-004701,CUST-000529,Manager,Support_Engineer_13,Support_Level_4,2023-12-14,Severity,Engineering,2024-07-10
-ESC-000453,TICK-004703,CUST-000019,Manager,Support_Engineer_1,Support_Level_3,,Severity,L2,2023-03-04
-ESC-000454,TICK-004722,CUST-000562,Manager,Support_Engineer_14,Support_Level_4,,Complex Issue,L2,2024-04-07
-ESC-000455,TICK-004737,CUST-000344,Manager,Support_Engineer_13,Support_Level_4,,Customer Request,Engineering,2023-05-06
-ESC-000456,TICK-004746,CUST-000141,Manager,Support_Engineer_9,Support_Level_3,,Customer Request,L3,2025-09-04
-ESC-000457,TICK-004755,CUST-000669,L2 → L3,Support_Engineer_17,Support_Level_2,2025-09-17,Technical Expertise Required,L2,2025-09-23
-ESC-000458,TICK-004763,CUST-000245,L2 → L3,Support_Engineer_19,Support_Level_3,,Complex Issue,L3,2024-10-01
-ESC-000459,TICK-004767,CUST-000200,L1 → L2,Support_Engineer_5,Support_Level_3,,Complex Issue,Engineering,2025-08-14
-ESC-000460,TICK-004772,CUST-000217,L3 → Engineering,Support_Engineer_13,Support_Level_3,,SLA Risk,L2,2023-08-31
-ESC-000461,TICK-004794,CUST-000384,L2 → L3,Support_Engineer_13,Support_Level_4,,SLA Risk,L2,2024-02-16
-ESC-000462,TICK-004795,CUST-000854,Manager,Support_Engineer_23,Support_Level_2,,Technical Expertise Required,L2,2023-02-05
-ESC-000463,TICK-004804,CUST-000971,L2 → L3,Support_Engineer_17,Support_Level_3,,SLA Risk,Engineering,2023-11-11
-ESC-000464,TICK-004807,CUST-000294,Manager,Support_Engineer_10,Support_Level_2,,Technical Expertise Required,Engineering,2023-09-18
-ESC-000465,TICK-004828,CUST-000984,L1 → L2,Support_Engineer_19,Support_Level_4,2025-06-30,Technical Expertise Required,L3,2025-07-11
-ESC-000466,TICK-004830,CUST-000148,L2 → L3,Support_Engineer_5,Support_Level_2,,Severity,L3,2023-12-02
-ESC-000467,TICK-004835,CUST-000694,L3 → Engineering,Support_Engineer_11,Support_Level_2,,Technical Expertise Required,L2,2024-10-12
-ESC-000468,TICK-004837,CUST-000315,L1 → L2,Support_Engineer_12,Support_Level_2,,Customer Request,Engineering,2025-06-07
-ESC-000469,TICK-004838,CUST-000213,L2 → L3,Support_Engineer_13,Support_Level_4,,Complex Issue,L3,2025-07-19
-ESC-000470,TICK-004842,CUST-000977,Manager,Support_Engineer_19,Support_Level_4,,Complex Issue,Engineering,2023-07-21
-ESC-000471,TICK-004847,CUST-000540,L2 → L3,Support_Engineer_4,Support_Level_4,,SLA Risk,L3,2023-09-05
-ESC-000472,TICK-004849,CUST-000977,L1 → L2,Support_Engineer_7,Support_Level_2,,Complex Issue,L3,2024-05-31
-ESC-000473,TICK-004852,CUST-000453,L2 → L3,Support_Engineer_17,Support_Level_4,,Severity,L2,2025-05-10
-ESC-000474,TICK-004855,CUST-000059,Manager,Support_Engineer_20,Support_Level_3,,SLA Risk,Engineering,2024-09-13
-ESC-000475,TICK-004866,CUST-000440,L3 → Engineering,Support_Engineer_9,Support_Level_4,,Severity,L2,2023-05-31
-ESC-000476,TICK-004876,CUST-000816,L3 → Engineering,Support_Engineer_12,Support_Level_4,,Severity,Engineering,2025-06-18
-ESC-000477,TICK-004881,CUST-000758,L1 → L2,Support_Engineer_17,Support_Level_4,,SLA Risk,L2,2023-07-14
-ESC-000478,TICK-004889,CUST-000935,L1 → L2,Support_Engineer_9,Support_Level_4,,Severity,L2,2025-04-25
-ESC-000479,TICK-004891,CUST-000657,L2 → L3,Support_Engineer_18,Support_Level_2,,Technical Expertise Required,Engineering,2024-09-18
-ESC-000480,TICK-004897,CUST-000539,L2 → L3,Support_Engineer_17,Support_Level_4,,Customer Request,L3,2023-09-04
-ESC-000481,TICK-004899,CUST-000574,L1 → L2,Support_Engineer_12,Support_Level_2,,Customer Request,L2,2025-05-29
-ESC-000482,TICK-004926,CUST-000576,L2 → L3,Support_Engineer_25,Support_Level_4,,Complex Issue,L3,2023-08-03
-ESC-000483,TICK-004966,CUST-000266,L1 → L2,Support_Engineer_8,Support_Level_4,,Complex Issue,L3,2023-02-26
-ESC-000484,TICK-004990,CUST-000446,L2 → L3,Support_Engineer_3,Support_Level_3,,Severity,L2,2024-04-22
-ESC-000485,TICK-004996,CUST-000484,Manager,Support_Engineer_13,Support_Level_4,,Complex Issue,L2,2025-04-26
-ESC-000486,TICK-004998,CUST-000329,L2 → L3,Support_Engineer_13,Support_Level_2,,SLA Risk,L2,2023-10-10
-ESC-000487,TICK-005002,CUST-000852,L3 → Engineering,Support_Engineer_4,Support_Level_3,,SLA Risk,Engineering,2023-02-07
-ESC-000488,TICK-005013,CUST-000939,L2 → L3,Support_Engineer_4,Support_Level_4,,Complex Issue,Engineering,2024-05-03
-ESC-000489,TICK-005021,CUST-000247,Manager,Support_Engineer_21,Support_Level_4,,Complex Issue,L3,2023-07-01
-ESC-000490,TICK-005024,CUST-000130,L1 → L2,Support_Engineer_6,Support_Level_4,,Customer Request,L2,2024-05-01
-ESC-000491,TICK-005030,CUST-000784,Manager,Support_Engineer_18,Support_Level_3,,Severity,L3,2024-03-24
-ESC-000492,TICK-005043,CUST-000878,L1 → L2,Support_Engineer_17,Support_Level_3,,Severity,L2,2023-03-11
-ESC-000493,TICK-005058,CUST-000827,L3 → Engineering,Support_Engineer_3,Support_Level_2,2023-04-18,Severity,L2,2025-09-19
-ESC-000494,TICK-005059,CUST-000545,L3 → Engineering,Support_Engineer_18,Support_Level_2,,SLA Risk,L2,2023-10-18
-ESC-000495,TICK-005080,CUST-000088,L2 → L3,Support_Engineer_11,Support_Level_2,,Complex Issue,L3,2024-10-28
-ESC-000496,TICK-005089,CUST-000538,L1 → L2,Support_Engineer_15,Support_Level_2,,Customer Request,L2,2023-02-17
-ESC-000497,TICK-005092,CUST-000621,Manager,Support_Engineer_13,Support_Level_3,,Customer Request,L3,2025-08-30
-ESC-000498,TICK-005095,CUST-000240,L2 → L3,Support_Engineer_11,Support_Level_2,,Complex Issue,Engineering,2024-08-09
-ESC-000499,TICK-005102,CUST-000868,L3 → Engineering,Support_Engineer_5,Support_Level_2,,SLA Risk,L3,2023-09-17
+escalation_id,ticket_id,customer_id,escalation_level,escalated_from,escalated_to,escalation_date,escalation_reason,resolution_date,escalation_resolved,customer_impact,priority,status
+ESC-000001,TICK-000002,CUST-000890,4,Support_Engineer_25,Support_Level_4,,Severity,2025-03-26 00:00:00,True,Medium,High,Resolved
+ESC-000002,TICK-000007,CUST-000934,4,Support_Engineer_2,Support_Level_2,,Customer Request,2023-02-05 00:00:00,True,Medium,Medium,Resolved
+ESC-000003,TICK-000016,CUST-000651,4,Support_Engineer_19,Support_Level_4,,Complex Issue,2024-02-18 00:00:00,True,Medium,Medium,Resolved
+ESC-000004,TICK-000017,CUST-000668,3,Support_Engineer_25,Support_Level_3,,Complex Issue,2023-02-09 00:00:00,True,Medium,Medium,Resolved
+ESC-000005,TICK-000018,CUST-000409,4,Support_Engineer_17,Support_Level_3,2023-05-17 00:00:00,SLA Risk,2024-07-12 00:00:00,True,High,High,Resolved
+ESC-000006,TICK-000020,CUST-000182,3,Support_Engineer_14,Support_Level_2,,SLA Risk,2023-03-10 00:00:00,True,High,High,Resolved
+ESC-000007,TICK-000023,CUST-000342,4,Support_Engineer_10,Support_Level_2,,Technical Expertise Required,2024-10-06 00:00:00,True,Medium,Medium,Resolved
+ESC-000008,TICK-000037,CUST-000181,2,Support_Engineer_20,Support_Level_2,,Severity,2025-03-16 00:00:00,True,Medium,High,Resolved
+ESC-000009,TICK-000043,CUST-000264,3,Support_Engineer_21,Support_Level_2,2023-03-03 00:00:00,SLA Risk,2025-01-09 00:00:00,True,High,High,Resolved
+ESC-000010,TICK-000053,CUST-000607,3,Support_Engineer_3,Support_Level_3,,Customer Request,2024-08-23 00:00:00,True,Medium,Medium,Resolved
+ESC-000011,TICK-000057,CUST-000959,4,Support_Engineer_17,Support_Level_4,,Customer Request,2023-08-04 00:00:00,True,Medium,Medium,Resolved
+ESC-000012,TICK-000059,CUST-000857,4,Support_Engineer_10,Support_Level_4,,Complex Issue,2023-10-08 00:00:00,True,Medium,Medium,Resolved
+ESC-000013,TICK-000063,CUST-000537,2,Support_Engineer_25,Support_Level_4,,Customer Request,2025-01-21 00:00:00,True,Medium,Medium,Resolved
+ESC-000014,TICK-000078,CUST-000860,4,Support_Engineer_2,Support_Level_2,,Customer Request,2024-07-17 00:00:00,True,Medium,Medium,Resolved
+ESC-000015,TICK-000081,CUST-000699,2,Support_Engineer_1,Support_Level_2,,SLA Risk,2025-09-04 00:00:00,True,High,High,Resolved
+ESC-000016,TICK-000083,CUST-000883,3,Support_Engineer_22,Support_Level_4,,Complex Issue,2023-04-15 00:00:00,True,Medium,Medium,Resolved
+ESC-000017,TICK-000111,CUST-000773,3,Support_Engineer_10,Support_Level_2,,Complex Issue,2023-04-22 00:00:00,True,Medium,Medium,Resolved
+ESC-000018,TICK-000118,CUST-000975,3,Support_Engineer_4,Support_Level_4,,Complex Issue,2024-06-18 00:00:00,True,Medium,Medium,Resolved
+ESC-000019,TICK-000127,CUST-000753,3,Support_Engineer_9,Support_Level_2,2024-06-02 00:00:00,Technical Expertise Required,2024-12-19 00:00:00,True,Medium,Medium,Resolved
+ESC-000020,TICK-000134,CUST-000160,3,Support_Engineer_22,Support_Level_3,,SLA Risk,2025-03-03 00:00:00,True,High,High,Resolved
+ESC-000021,TICK-000158,CUST-000572,3,Support_Engineer_3,Support_Level_4,,Customer Request,2023-09-19 00:00:00,True,Medium,Medium,Resolved
+ESC-000022,TICK-000167,CUST-000372,4,Support_Engineer_20,Support_Level_2,,Severity,2023-03-12 00:00:00,True,Medium,High,Resolved
+ESC-000023,TICK-000177,CUST-000181,3,Support_Engineer_24,Support_Level_4,,Customer Request,2023-01-14 00:00:00,True,Medium,Medium,Resolved
+ESC-000024,TICK-000179,CUST-000709,3,Support_Engineer_11,Support_Level_4,,Customer Request,2023-03-10 00:00:00,True,Medium,Medium,Resolved
+ESC-000025,TICK-000184,CUST-000586,3,Support_Engineer_9,Support_Level_4,,SLA Risk,2025-09-01 00:00:00,True,High,High,Resolved
+ESC-000026,TICK-000194,CUST-000334,2,Support_Engineer_21,Support_Level_3,,SLA Risk,2023-03-23 00:00:00,True,High,High,Resolved
+ESC-000027,TICK-000211,CUST-000277,2,Support_Engineer_18,Support_Level_3,,Customer Request,2025-04-17 00:00:00,True,Medium,Medium,Resolved
+ESC-000028,TICK-000217,CUST-000696,4,Support_Engineer_11,Support_Level_4,,Complex Issue,2025-06-11 00:00:00,True,Medium,Medium,Resolved
+ESC-000029,TICK-000222,CUST-000344,3,Support_Engineer_6,Support_Level_2,,SLA Risk,2024-01-23 00:00:00,True,High,High,Resolved
+ESC-000030,TICK-000245,CUST-000531,2,Support_Engineer_17,Support_Level_3,,SLA Risk,2023-12-17 00:00:00,True,High,High,Resolved
+ESC-000031,TICK-000255,CUST-000466,3,Support_Engineer_4,Support_Level_2,,SLA Risk,2023-10-11 00:00:00,True,High,High,Resolved
+ESC-000032,TICK-000257,CUST-000252,3,Support_Engineer_18,Support_Level_4,,Complex Issue,2025-05-03 00:00:00,True,Medium,Medium,Resolved
+ESC-000033,TICK-000274,CUST-000918,3,Support_Engineer_18,Support_Level_4,,Severity,2024-06-18 00:00:00,True,Medium,High,Resolved
+ESC-000034,TICK-000279,CUST-000989,3,Support_Engineer_20,Support_Level_2,2023-10-06 00:00:00,Complex Issue,2024-12-27 00:00:00,True,Medium,Medium,Resolved
+ESC-000035,TICK-000288,CUST-000897,3,Support_Engineer_1,Support_Level_4,,Complex Issue,2025-09-13 00:00:00,True,Medium,Medium,Resolved
+ESC-000036,TICK-000313,CUST-000506,4,Support_Engineer_17,Support_Level_3,,Customer Request,2024-03-28 00:00:00,True,Medium,Medium,Resolved
+ESC-000037,TICK-000327,CUST-000371,3,Support_Engineer_2,Support_Level_2,,Complex Issue,2023-06-20 00:00:00,True,Medium,Medium,Resolved
+ESC-000038,TICK-000346,CUST-000881,2,Support_Engineer_13,Support_Level_2,,Technical Expertise Required,2024-03-25 00:00:00,True,Medium,Medium,Resolved
+ESC-000039,TICK-000362,CUST-000421,4,Support_Engineer_4,Support_Level_2,,Severity,2025-05-05 00:00:00,True,Medium,High,Resolved
+ESC-000040,TICK-000367,CUST-000855,3,Support_Engineer_21,Support_Level_2,,Technical Expertise Required,2025-04-13 00:00:00,True,Medium,Medium,Resolved
+ESC-000041,TICK-000372,CUST-000690,3,Support_Engineer_17,Support_Level_2,,Complex Issue,2024-01-22 00:00:00,True,Medium,Medium,Resolved
+ESC-000042,TICK-000373,CUST-000263,3,Support_Engineer_25,Support_Level_4,,Complex Issue,2025-03-05 00:00:00,True,Medium,Medium,Resolved
+ESC-000043,TICK-000374,CUST-000213,4,Support_Engineer_22,Support_Level_4,,Complex Issue,2023-09-05 00:00:00,True,Medium,Medium,Resolved
+ESC-000044,TICK-000402,CUST-000330,3,Support_Engineer_21,Support_Level_4,,Complex Issue,2024-04-19 00:00:00,True,Medium,Medium,Resolved
+ESC-000045,TICK-000407,CUST-000296,3,Support_Engineer_18,Support_Level_4,,Complex Issue,2023-09-09 00:00:00,True,Medium,Medium,Resolved
+ESC-000046,TICK-000409,CUST-000046,3,Support_Engineer_15,Support_Level_2,,Technical Expertise Required,2024-09-27 00:00:00,True,Medium,Medium,Resolved
+ESC-000047,TICK-000430,CUST-000093,2,Support_Engineer_22,Support_Level_3,,Severity,2024-10-20 00:00:00,True,Medium,High,Resolved
+ESC-000048,TICK-000437,CUST-000444,2,Support_Engineer_1,Support_Level_4,,Customer Request,2024-01-06 00:00:00,True,Medium,Medium,Resolved
+ESC-000049,TICK-000440,CUST-000091,3,Support_Engineer_18,Support_Level_2,,Customer Request,2023-02-21 00:00:00,True,Medium,Medium,Resolved
+ESC-000050,TICK-000442,CUST-000040,3,Support_Engineer_19,Support_Level_3,,Severity,2024-02-26 00:00:00,True,Medium,High,Resolved
+ESC-000051,TICK-000455,CUST-000889,2,Support_Engineer_7,Support_Level_3,,SLA Risk,2024-03-31 00:00:00,True,High,High,Resolved
+ESC-000052,TICK-000459,CUST-000246,3,Support_Engineer_8,Support_Level_2,,Technical Expertise Required,2025-08-09 00:00:00,True,Medium,Medium,Resolved
+ESC-000053,TICK-000471,CUST-000593,3,Support_Engineer_21,Support_Level_3,,SLA Risk,2023-04-06 00:00:00,True,High,High,Resolved
+ESC-000054,TICK-000492,CUST-000529,4,Support_Engineer_7,Support_Level_2,,Complex Issue,2024-02-21 00:00:00,True,Medium,Medium,Resolved
+ESC-000055,TICK-000500,CUST-000727,2,Support_Engineer_7,Support_Level_3,,SLA Risk,2025-06-08 00:00:00,True,High,High,Resolved
+ESC-000056,TICK-000502,CUST-000376,2,Support_Engineer_3,Support_Level_4,,Customer Request,2023-07-04 00:00:00,True,Medium,Medium,Resolved
+ESC-000057,TICK-000506,CUST-000727,3,Support_Engineer_9,Support_Level_2,,Complex Issue,2024-11-23 00:00:00,True,Medium,Medium,Resolved
+ESC-000058,TICK-000511,CUST-000402,3,Support_Engineer_4,Support_Level_4,,SLA Risk,2025-07-15 00:00:00,True,High,High,Resolved
+ESC-000059,TICK-000514,CUST-000962,3,Support_Engineer_17,Support_Level_3,,Technical Expertise Required,2024-04-24 00:00:00,True,Medium,Medium,Resolved
+ESC-000060,TICK-000520,CUST-000609,4,Support_Engineer_13,Support_Level_4,,Complex Issue,2025-04-21 00:00:00,True,Medium,Medium,Resolved
+ESC-000061,TICK-000527,CUST-000422,4,Support_Engineer_24,Support_Level_2,,Complex Issue,2024-01-17 00:00:00,True,Medium,Medium,Resolved
+ESC-000062,TICK-000533,CUST-000096,4,Support_Engineer_12,Support_Level_2,,Complex Issue,2025-04-30 00:00:00,True,Medium,Medium,Resolved
+ESC-000063,TICK-000538,CUST-000331,2,Support_Engineer_8,Support_Level_4,2023-08-16 00:00:00,SLA Risk,2024-12-14 00:00:00,True,High,High,Resolved
+ESC-000064,TICK-000547,CUST-000026,3,Support_Engineer_16,Support_Level_3,,Technical Expertise Required,2023-02-25 00:00:00,True,Medium,Medium,Resolved
+ESC-000065,TICK-000564,CUST-000352,4,Support_Engineer_3,Support_Level_3,2023-01-14 00:00:00,Customer Request,2025-07-23 00:00:00,True,Medium,Medium,Resolved
+ESC-000066,TICK-000592,CUST-000499,4,Support_Engineer_19,Support_Level_2,,Technical Expertise Required,2025-09-02 00:00:00,True,Medium,Medium,Resolved
+ESC-000067,TICK-000612,CUST-000828,3,Support_Engineer_11,Support_Level_3,,SLA Risk,2023-02-13 00:00:00,True,High,High,Resolved
+ESC-000068,TICK-000631,CUST-000117,3,Support_Engineer_8,Support_Level_3,,Complex Issue,2023-08-24 00:00:00,True,Medium,Medium,Resolved
+ESC-000069,TICK-000638,CUST-000280,4,Support_Engineer_23,Support_Level_3,,Complex Issue,2024-01-29 00:00:00,True,Medium,Medium,Resolved
+ESC-000070,TICK-000653,CUST-000432,4,Support_Engineer_23,Support_Level_4,,SLA Risk,2024-05-03 00:00:00,True,High,High,Resolved
+ESC-000071,TICK-000668,CUST-000614,3,Support_Engineer_17,Support_Level_3,,SLA Risk,2025-05-06 00:00:00,True,High,High,Resolved
+ESC-000072,TICK-000691,CUST-000373,2,Support_Engineer_25,Support_Level_3,2023-01-10 00:00:00,SLA Risk,2024-09-28 00:00:00,True,High,High,Resolved
+ESC-000073,TICK-000692,CUST-000436,3,Support_Engineer_10,Support_Level_2,2023-06-10 00:00:00,SLA Risk,2025-05-24 00:00:00,True,High,High,Resolved
+ESC-000074,TICK-000700,CUST-000729,3,Support_Engineer_4,Support_Level_2,,Complex Issue,2024-09-12 00:00:00,True,Medium,Medium,Resolved
+ESC-000075,TICK-000703,CUST-000018,2,Support_Engineer_8,Support_Level_2,,Technical Expertise Required,2024-06-23 00:00:00,True,Medium,Medium,Resolved
+ESC-000076,TICK-000705,CUST-000745,3,Support_Engineer_11,Support_Level_4,,Customer Request,2024-03-18 00:00:00,True,Medium,Medium,Resolved
+ESC-000077,TICK-000706,CUST-000052,2,Support_Engineer_16,Support_Level_2,2023-06-10 00:00:00,Complex Issue,2023-06-10 00:00:00,True,Medium,Medium,Resolved
+ESC-000078,TICK-000716,CUST-000737,3,Support_Engineer_25,Support_Level_3,,Technical Expertise Required,2024-04-10 00:00:00,True,Medium,Medium,Resolved
+ESC-000079,TICK-000729,CUST-000833,4,Support_Engineer_19,Support_Level_4,,Complex Issue,2023-06-01 00:00:00,True,Medium,Medium,Resolved
+ESC-000080,TICK-000732,CUST-000196,2,Support_Engineer_4,Support_Level_2,2023-04-15 00:00:00,Complex Issue,2023-04-19 00:00:00,True,Medium,Medium,Resolved
+ESC-000081,TICK-000762,CUST-000398,3,Support_Engineer_18,Support_Level_4,,Technical Expertise Required,2024-06-07 00:00:00,True,Medium,Medium,Resolved
+ESC-000082,TICK-000788,CUST-000351,4,Support_Engineer_22,Support_Level_4,,Customer Request,2025-07-23 00:00:00,True,Medium,Medium,Resolved
+ESC-000083,TICK-000795,CUST-000653,4,Support_Engineer_8,Support_Level_2,,Technical Expertise Required,2023-11-06 00:00:00,True,Medium,Medium,Resolved
+ESC-000084,TICK-000842,CUST-000553,3,Support_Engineer_19,Support_Level_2,2025-09-17 00:00:00,Customer Request,2025-09-21 00:00:00,True,Medium,Medium,Resolved
+ESC-000085,TICK-000845,CUST-000244,4,Support_Engineer_23,Support_Level_4,,Complex Issue,2024-03-03 00:00:00,True,Medium,Medium,Resolved
+ESC-000086,TICK-000853,CUST-000263,4,Support_Engineer_4,Support_Level_2,,SLA Risk,2024-11-26 00:00:00,True,High,High,Resolved
+ESC-000087,TICK-000860,CUST-000262,2,Support_Engineer_14,Support_Level_2,,SLA Risk,2023-08-27 00:00:00,True,High,High,Resolved
+ESC-000088,TICK-000876,CUST-000590,4,Support_Engineer_21,Support_Level_2,,Severity,2025-09-23 00:00:00,True,Medium,High,Resolved
+ESC-000089,TICK-000877,CUST-000554,3,Support_Engineer_11,Support_Level_3,,Complex Issue,2023-03-13 00:00:00,True,Medium,Medium,Resolved
+ESC-000090,TICK-000882,CUST-000992,3,Support_Engineer_2,Support_Level_2,,Technical Expertise Required,2023-01-13 00:00:00,True,Medium,Medium,Resolved
+ESC-000091,TICK-000890,CUST-000224,4,Support_Engineer_22,Support_Level_3,,Technical Expertise Required,2023-08-08 00:00:00,True,Medium,Medium,Resolved
+ESC-000092,TICK-000901,CUST-000792,4,Support_Engineer_8,Support_Level_4,2025-05-18 00:00:00,SLA Risk,2025-06-03 00:00:00,True,High,High,Resolved
+ESC-000093,TICK-000906,CUST-000441,3,Support_Engineer_18,Support_Level_4,,Customer Request,2023-05-16 00:00:00,True,Medium,Medium,Resolved
+ESC-000094,TICK-000918,CUST-000898,3,Support_Engineer_12,Support_Level_3,,Severity,2023-08-16 00:00:00,True,Medium,High,Resolved
+ESC-000095,TICK-000925,CUST-000600,2,Support_Engineer_1,Support_Level_2,,Complex Issue,2024-02-25 00:00:00,True,Medium,Medium,Resolved
+ESC-000096,TICK-000927,CUST-000713,4,Support_Engineer_14,Support_Level_4,,Technical Expertise Required,2024-03-30 00:00:00,True,Medium,Medium,Resolved
+ESC-000097,TICK-000948,CUST-000760,3,Support_Engineer_15,Support_Level_2,,Severity,2024-03-31 00:00:00,True,Medium,High,Resolved
+ESC-000098,TICK-000969,CUST-000561,2,Support_Engineer_18,Support_Level_3,,Technical Expertise Required,2025-09-12 00:00:00,True,Medium,Medium,Resolved
+ESC-000099,TICK-000975,CUST-000075,2,Support_Engineer_23,Support_Level_2,,Customer Request,2023-05-15 00:00:00,True,Medium,Medium,Resolved
+ESC-000100,TICK-000988,CUST-000730,2,Support_Engineer_7,Support_Level_4,,Severity,2023-07-27 00:00:00,True,Medium,High,Resolved
+ESC-000101,TICK-001009,CUST-000664,4,Support_Engineer_15,Support_Level_4,,Customer Request,2024-04-07 00:00:00,True,Medium,Medium,Resolved
+ESC-000102,TICK-001024,CUST-000274,3,Support_Engineer_17,Support_Level_2,,Complex Issue,2025-07-31 00:00:00,True,Medium,Medium,Resolved
+ESC-000103,TICK-001029,CUST-000090,3,Support_Engineer_8,Support_Level_4,,Severity,2024-06-22 00:00:00,True,Medium,High,Resolved
+ESC-000104,TICK-001033,CUST-000922,3,Support_Engineer_10,Support_Level_4,,SLA Risk,2025-04-01 00:00:00,True,High,High,Resolved
+ESC-000105,TICK-001034,CUST-000726,3,Support_Engineer_14,Support_Level_3,,Customer Request,2025-05-18 00:00:00,True,Medium,Medium,Resolved
+ESC-000106,TICK-001088,CUST-000183,3,Support_Engineer_1,Support_Level_4,2024-06-04 00:00:00,SLA Risk,2025-08-19 00:00:00,True,High,High,Resolved
+ESC-000107,TICK-001098,CUST-000363,3,Support_Engineer_10,Support_Level_3,,Complex Issue,2023-02-18 00:00:00,True,Medium,Medium,Resolved
+ESC-000108,TICK-001101,CUST-000639,2,Support_Engineer_5,Support_Level_4,,Technical Expertise Required,2023-03-16 00:00:00,True,Medium,Medium,Resolved
+ESC-000109,TICK-001111,CUST-000108,3,Support_Engineer_25,Support_Level_2,,Technical Expertise Required,2023-04-10 00:00:00,True,Medium,Medium,Resolved
+ESC-000110,TICK-001112,CUST-000381,4,Support_Engineer_9,Support_Level_2,,Customer Request,2023-04-20 00:00:00,True,Medium,Medium,Resolved
+ESC-000111,TICK-001135,CUST-000881,2,Support_Engineer_8,Support_Level_2,,SLA Risk,2023-11-02 00:00:00,True,High,High,Resolved
+ESC-000112,TICK-001144,CUST-000987,2,Support_Engineer_2,Support_Level_3,,SLA Risk,2023-06-26 00:00:00,True,High,High,Resolved
+ESC-000113,TICK-001146,CUST-000251,2,Support_Engineer_4,Support_Level_2,,Technical Expertise Required,2023-02-11 00:00:00,True,Medium,Medium,Resolved
+ESC-000114,TICK-001153,CUST-000639,2,Support_Engineer_20,Support_Level_3,,Severity,2023-02-03 00:00:00,True,Medium,High,Resolved
+ESC-000115,TICK-001172,CUST-000576,2,Support_Engineer_11,Support_Level_4,,SLA Risk,2023-07-27 00:00:00,True,High,High,Resolved
+ESC-000116,TICK-001182,CUST-000128,3,Support_Engineer_11,Support_Level_3,,Technical Expertise Required,2025-04-17 00:00:00,True,Medium,Medium,Resolved
+ESC-000117,TICK-001190,CUST-000496,2,Support_Engineer_18,Support_Level_2,,Complex Issue,2025-01-02 00:00:00,True,Medium,Medium,Resolved
+ESC-000118,TICK-001191,CUST-000082,4,Support_Engineer_6,Support_Level_4,2025-06-05 00:00:00,Severity,2025-08-31 00:00:00,True,Medium,High,Resolved
+ESC-000119,TICK-001201,CUST-000473,3,Support_Engineer_24,Support_Level_3,,Technical Expertise Required,2023-02-07 00:00:00,True,Medium,Medium,Resolved
+ESC-000120,TICK-001217,CUST-000486,4,Support_Engineer_20,Support_Level_4,,Technical Expertise Required,2025-03-24 00:00:00,True,Medium,Medium,Resolved
+ESC-000121,TICK-001218,CUST-000451,3,Support_Engineer_21,Support_Level_4,,Severity,2024-07-24 00:00:00,True,Medium,High,Resolved
+ESC-000122,TICK-001223,CUST-000450,4,Support_Engineer_1,Support_Level_3,,Severity,2024-09-14 00:00:00,True,Medium,High,Resolved
+ESC-000123,TICK-001230,CUST-000468,4,Support_Engineer_25,Support_Level_3,,Severity,2024-09-13 00:00:00,True,Medium,High,Resolved
+ESC-000124,TICK-001257,CUST-000873,3,Support_Engineer_15,Support_Level_2,,Severity,2023-05-01 00:00:00,True,Medium,High,Resolved
+ESC-000125,TICK-001269,CUST-000419,4,Support_Engineer_13,Support_Level_4,,SLA Risk,2024-10-25 00:00:00,True,High,High,Resolved
+ESC-000126,TICK-001276,CUST-000042,3,Support_Engineer_15,Support_Level_3,,Technical Expertise Required,2025-01-01 00:00:00,True,Medium,Medium,Resolved
+ESC-000127,TICK-001306,CUST-000753,2,Support_Engineer_25,Support_Level_3,,Technical Expertise Required,2023-09-17 00:00:00,True,Medium,Medium,Resolved
+ESC-000128,TICK-001315,CUST-000947,4,Support_Engineer_7,Support_Level_3,,SLA Risk,2024-05-26 00:00:00,True,High,High,Resolved
+ESC-000129,TICK-001320,CUST-000840,3,Support_Engineer_19,Support_Level_3,,Customer Request,2024-03-28 00:00:00,True,Medium,Medium,Resolved
+ESC-000130,TICK-001329,CUST-000804,4,Support_Engineer_6,Support_Level_2,,Customer Request,2025-05-22 00:00:00,True,Medium,Medium,Resolved
+ESC-000131,TICK-001363,CUST-000585,4,Support_Engineer_21,Support_Level_2,,Complex Issue,2023-03-29 00:00:00,True,Medium,Medium,Resolved
+ESC-000132,TICK-001365,CUST-000084,3,Support_Engineer_8,Support_Level_3,,Customer Request,2024-09-18 00:00:00,True,Medium,Medium,Resolved
+ESC-000133,TICK-001366,CUST-000470,3,Support_Engineer_8,Support_Level_3,,Technical Expertise Required,2024-04-26 00:00:00,True,Medium,Medium,Resolved
+ESC-000134,TICK-001371,CUST-000656,3,Support_Engineer_13,Support_Level_3,2023-04-28 00:00:00,Severity,2024-03-12 00:00:00,True,Medium,High,Resolved
+ESC-000135,TICK-001373,CUST-000939,3,Support_Engineer_10,Support_Level_2,,SLA Risk,2025-07-19 00:00:00,True,High,High,Resolved
+ESC-000136,TICK-001381,CUST-000699,2,Support_Engineer_4,Support_Level_4,,Customer Request,2023-03-21 00:00:00,True,Medium,Medium,Resolved
+ESC-000137,TICK-001385,CUST-000330,3,Support_Engineer_1,Support_Level_3,,Technical Expertise Required,2023-08-13 00:00:00,True,Medium,Medium,Resolved
+ESC-000138,TICK-001400,CUST-000155,3,Support_Engineer_8,Support_Level_4,,SLA Risk,2024-12-28 00:00:00,True,High,High,Resolved
+ESC-000139,TICK-001408,CUST-000008,2,Support_Engineer_20,Support_Level_4,,Customer Request,2023-01-04 00:00:00,True,Medium,Medium,Resolved
+ESC-000140,TICK-001409,CUST-000916,3,Support_Engineer_10,Support_Level_3,,Severity,2023-02-04 00:00:00,True,Medium,High,Resolved
+ESC-000141,TICK-001437,CUST-000483,4,Support_Engineer_10,Support_Level_2,,Customer Request,2025-08-10 00:00:00,True,Medium,Medium,Resolved
+ESC-000142,TICK-001438,CUST-000397,2,Support_Engineer_15,Support_Level_4,2025-01-03 00:00:00,Complex Issue,2025-09-04 00:00:00,True,Medium,Medium,Resolved
+ESC-000143,TICK-001443,CUST-000522,4,Support_Engineer_3,Support_Level_2,,Severity,2025-07-29 00:00:00,True,Medium,High,Resolved
+ESC-000144,TICK-001446,CUST-000227,2,Support_Engineer_11,Support_Level_4,,Customer Request,2023-01-21 00:00:00,True,Medium,Medium,Resolved
+ESC-000145,TICK-001453,CUST-000529,3,Support_Engineer_17,Support_Level_4,,SLA Risk,2024-04-07 00:00:00,True,High,High,Resolved
+ESC-000146,TICK-001463,CUST-000719,2,Support_Engineer_25,Support_Level_2,2023-01-30 00:00:00,Customer Request,2025-08-16 00:00:00,True,Medium,Medium,Resolved
+ESC-000147,TICK-001481,CUST-000278,3,Support_Engineer_4,Support_Level_3,,Customer Request,2023-01-15 00:00:00,True,Medium,Medium,Resolved
+ESC-000148,TICK-001491,CUST-000923,4,Support_Engineer_5,Support_Level_4,,SLA Risk,2023-03-26 00:00:00,True,High,High,Resolved
+ESC-000149,TICK-001492,CUST-000200,3,Support_Engineer_24,Support_Level_2,,Complex Issue,2023-02-28 00:00:00,True,Medium,Medium,Resolved
+ESC-000150,TICK-001498,CUST-000962,4,Support_Engineer_8,Support_Level_2,,SLA Risk,2023-07-18 00:00:00,True,High,High,Resolved
+ESC-000151,TICK-001503,CUST-000880,4,Support_Engineer_10,Support_Level_2,,Technical Expertise Required,2024-10-19 00:00:00,True,Medium,Medium,Resolved
+ESC-000152,TICK-001517,CUST-000687,4,Support_Engineer_9,Support_Level_4,,Technical Expertise Required,2025-03-29 00:00:00,True,Medium,Medium,Resolved
+ESC-000153,TICK-001526,CUST-000066,2,Support_Engineer_23,Support_Level_2,,SLA Risk,2024-05-01 00:00:00,True,High,High,Resolved
+ESC-000154,TICK-001546,CUST-000577,3,Support_Engineer_5,Support_Level_3,,Severity,2025-03-28 00:00:00,True,Medium,High,Resolved
+ESC-000155,TICK-001548,CUST-000666,4,Support_Engineer_24,Support_Level_3,,Complex Issue,2024-03-26 00:00:00,True,Medium,Medium,Resolved
+ESC-000156,TICK-001554,CUST-000334,4,Support_Engineer_25,Support_Level_4,,Severity,2023-03-10 00:00:00,True,Medium,High,Resolved
+ESC-000157,TICK-001555,CUST-000423,4,Support_Engineer_18,Support_Level_2,,Severity,2024-05-16 00:00:00,True,Medium,High,Resolved
+ESC-000158,TICK-001573,CUST-000878,2,Support_Engineer_6,Support_Level_3,,Complex Issue,2024-02-12 00:00:00,True,Medium,Medium,Resolved
+ESC-000159,TICK-001584,CUST-000446,3,Support_Engineer_21,Support_Level_3,,Customer Request,2024-05-19 00:00:00,True,Medium,Medium,Resolved
+ESC-000160,TICK-001606,CUST-000327,2,Support_Engineer_1,Support_Level_2,,Severity,2025-08-12 00:00:00,True,Medium,High,Resolved
+ESC-000161,TICK-001616,CUST-000920,3,Support_Engineer_22,Support_Level_2,,SLA Risk,2023-03-16 00:00:00,True,High,High,Resolved
+ESC-000162,TICK-001639,CUST-000107,3,Support_Engineer_21,Support_Level_2,,Customer Request,2025-03-02 00:00:00,True,Medium,Medium,Resolved
+ESC-000163,TICK-001649,CUST-000186,4,Support_Engineer_14,Support_Level_4,,Complex Issue,2025-05-13 00:00:00,True,Medium,Medium,Resolved
+ESC-000164,TICK-001653,CUST-000540,4,Support_Engineer_23,Support_Level_2,,Severity,2023-04-22 00:00:00,True,Medium,High,Resolved
+ESC-000165,TICK-001660,CUST-000690,4,Support_Engineer_12,Support_Level_3,,SLA Risk,2025-09-13 00:00:00,True,High,High,Resolved
+ESC-000166,TICK-001662,CUST-000473,3,Support_Engineer_15,Support_Level_4,,Customer Request,2023-01-28 00:00:00,True,Medium,Medium,Resolved
+ESC-000167,TICK-001676,CUST-000468,4,Support_Engineer_20,Support_Level_4,,Severity,2023-04-05 00:00:00,True,Medium,High,Resolved
+ESC-000168,TICK-001686,CUST-000781,4,Support_Engineer_11,Support_Level_4,,Customer Request,2023-11-28 00:00:00,True,Medium,Medium,Resolved
+ESC-000169,TICK-001689,CUST-000674,3,Support_Engineer_18,Support_Level_4,,Customer Request,2023-04-26 00:00:00,True,Medium,Medium,Resolved
+ESC-000170,TICK-001719,CUST-000425,3,Support_Engineer_20,Support_Level_2,,Severity,2023-05-10 00:00:00,True,Medium,High,Resolved
+ESC-000171,TICK-001725,CUST-000552,4,Support_Engineer_23,Support_Level_4,,Severity,2024-04-26 00:00:00,True,Medium,High,Resolved
+ESC-000172,TICK-001727,CUST-000430,2,Support_Engineer_5,Support_Level_2,,Customer Request,2024-09-25 00:00:00,True,Medium,Medium,Resolved
+ESC-000173,TICK-001733,CUST-000187,4,Support_Engineer_1,Support_Level_3,,Complex Issue,2024-12-08 00:00:00,True,Medium,Medium,Resolved
+ESC-000174,TICK-001739,CUST-000866,3,Support_Engineer_14,Support_Level_4,,Technical Expertise Required,2025-05-12 00:00:00,True,Medium,Medium,Resolved
+ESC-000175,TICK-001752,CUST-000373,3,Support_Engineer_16,Support_Level_3,,Technical Expertise Required,2025-09-22 00:00:00,True,Medium,Medium,Resolved
+ESC-000176,TICK-001772,CUST-000374,3,Support_Engineer_18,Support_Level_4,,Customer Request,2024-06-02 00:00:00,True,Medium,Medium,Resolved
+ESC-000177,TICK-001773,CUST-000214,3,Support_Engineer_14,Support_Level_2,,Technical Expertise Required,2024-07-30 00:00:00,True,Medium,Medium,Resolved
+ESC-000178,TICK-001788,CUST-000950,2,Support_Engineer_4,Support_Level_4,2023-12-15 00:00:00,Severity,2025-07-29 00:00:00,True,Medium,High,Resolved
+ESC-000179,TICK-001793,CUST-000801,3,Support_Engineer_12,Support_Level_3,,Technical Expertise Required,2025-07-16 00:00:00,True,Medium,Medium,Resolved
+ESC-000180,TICK-001797,CUST-000181,3,Support_Engineer_22,Support_Level_2,,Complex Issue,2023-03-11 00:00:00,True,Medium,Medium,Resolved
+ESC-000181,TICK-001800,CUST-000161,2,Support_Engineer_5,Support_Level_4,,SLA Risk,2025-04-05 00:00:00,True,High,High,Resolved
+ESC-000182,TICK-001830,CUST-000061,4,Support_Engineer_12,Support_Level_2,,Complex Issue,2025-01-19 00:00:00,True,Medium,Medium,Resolved
+ESC-000183,TICK-001832,CUST-000947,2,Support_Engineer_2,Support_Level_4,,SLA Risk,2024-12-29 00:00:00,True,High,High,Resolved
+ESC-000184,TICK-001835,CUST-000113,3,Support_Engineer_11,Support_Level_3,,Severity,2024-01-22 00:00:00,True,Medium,High,Resolved
+ESC-000185,TICK-001845,CUST-000906,3,Support_Engineer_22,Support_Level_2,,Technical Expertise Required,2024-07-27 00:00:00,True,Medium,Medium,Resolved
+ESC-000186,TICK-001849,CUST-000930,3,Support_Engineer_12,Support_Level_3,,Severity,2024-10-03 00:00:00,True,Medium,High,Resolved
+ESC-000187,TICK-001853,CUST-000972,4,Support_Engineer_17,Support_Level_2,,SLA Risk,2025-02-11 00:00:00,True,High,High,Resolved
+ESC-000188,TICK-001861,CUST-000885,3,Support_Engineer_3,Support_Level_2,,Severity,2024-03-01 00:00:00,True,Medium,High,Resolved
+ESC-000189,TICK-001863,CUST-000302,4,Support_Engineer_14,Support_Level_3,,SLA Risk,2023-03-31 00:00:00,True,High,High,Resolved
+ESC-000190,TICK-001886,CUST-000823,3,Support_Engineer_15,Support_Level_2,,SLA Risk,2023-12-04 00:00:00,True,High,High,Resolved
+ESC-000191,TICK-001887,CUST-000606,3,Support_Engineer_18,Support_Level_3,,Technical Expertise Required,2023-10-02 00:00:00,True,Medium,Medium,Resolved
+ESC-000192,TICK-001888,CUST-000898,3,Support_Engineer_24,Support_Level_3,,Complex Issue,2023-03-16 00:00:00,True,Medium,Medium,Resolved
+ESC-000193,TICK-001891,CUST-000088,4,Support_Engineer_21,Support_Level_2,,Severity,2024-03-22 00:00:00,True,Medium,High,Resolved
+ESC-000194,TICK-001894,CUST-000963,3,Support_Engineer_19,Support_Level_3,2025-03-19 00:00:00,Technical Expertise Required,2025-09-13 00:00:00,True,Medium,Medium,Resolved
+ESC-000195,TICK-001897,CUST-000650,3,Support_Engineer_5,Support_Level_4,2024-12-29 00:00:00,Severity,2025-06-08 00:00:00,True,Medium,High,Resolved
+ESC-000196,TICK-001908,CUST-000574,4,Support_Engineer_12,Support_Level_3,,Complex Issue,2023-03-23 00:00:00,True,Medium,Medium,Resolved
+ESC-000197,TICK-001921,CUST-000691,2,Support_Engineer_11,Support_Level_3,,Severity,2025-07-22 00:00:00,True,Medium,High,Resolved
+ESC-000198,TICK-001922,CUST-000721,2,Support_Engineer_21,Support_Level_4,,SLA Risk,2024-12-19 00:00:00,True,High,High,Resolved
+ESC-000199,TICK-001923,CUST-000892,4,Support_Engineer_11,Support_Level_2,,Technical Expertise Required,2023-12-08 00:00:00,True,Medium,Medium,Resolved
+ESC-000200,TICK-001942,CUST-000964,2,Support_Engineer_25,Support_Level_2,,Customer Request,2023-01-04 00:00:00,True,Medium,Medium,Resolved
+ESC-000201,TICK-001945,CUST-000972,2,Support_Engineer_11,Support_Level_2,,Customer Request,2023-01-15 00:00:00,True,Medium,Medium,Resolved
+ESC-000202,TICK-001960,CUST-000293,4,Support_Engineer_9,Support_Level_4,,Complex Issue,2025-06-24 00:00:00,True,Medium,Medium,Resolved
+ESC-000203,TICK-001968,CUST-000276,4,Support_Engineer_21,Support_Level_4,,Customer Request,2025-05-02 00:00:00,True,Medium,Medium,Resolved
+ESC-000204,TICK-001980,CUST-000474,3,Support_Engineer_20,Support_Level_4,,Complex Issue,2024-02-13 00:00:00,True,Medium,Medium,Resolved
+ESC-000205,TICK-001983,CUST-000034,3,Support_Engineer_2,Support_Level_4,,SLA Risk,2023-06-25 00:00:00,True,High,High,Resolved
+ESC-000206,TICK-001986,CUST-000890,3,Support_Engineer_24,Support_Level_3,,Customer Request,2023-12-10 00:00:00,True,Medium,Medium,Resolved
+ESC-000207,TICK-001991,CUST-000352,3,Support_Engineer_8,Support_Level_2,,SLA Risk,2025-01-07 00:00:00,True,High,High,Resolved
+ESC-000208,TICK-001996,CUST-000593,4,Support_Engineer_23,Support_Level_2,,SLA Risk,2024-07-27 00:00:00,True,High,High,Resolved
+ESC-000209,TICK-002005,CUST-000859,3,Support_Engineer_9,Support_Level_3,,SLA Risk,2025-05-28 00:00:00,True,High,High,Resolved
+ESC-000210,TICK-002032,CUST-000270,2,Support_Engineer_15,Support_Level_3,,Technical Expertise Required,2025-09-01 00:00:00,True,Medium,Medium,Resolved
+ESC-000211,TICK-002039,CUST-000659,4,Support_Engineer_4,Support_Level_3,,Technical Expertise Required,2023-09-23 00:00:00,True,Medium,Medium,Resolved
+ESC-000212,TICK-002041,CUST-000873,3,Support_Engineer_11,Support_Level_4,,Severity,2023-02-25 00:00:00,True,Medium,High,Resolved
+ESC-000213,TICK-002046,CUST-000573,3,Support_Engineer_19,Support_Level_2,,Complex Issue,2024-10-15 00:00:00,True,Medium,Medium,Resolved
+ESC-000214,TICK-002057,CUST-000384,2,Support_Engineer_9,Support_Level_2,,Customer Request,2023-11-10 00:00:00,True,Medium,Medium,Resolved
+ESC-000215,TICK-002068,CUST-000810,2,Support_Engineer_2,Support_Level_4,,Complex Issue,2024-04-05 00:00:00,True,Medium,Medium,Resolved
+ESC-000216,TICK-002069,CUST-000063,3,Support_Engineer_25,Support_Level_2,,Customer Request,2024-01-30 00:00:00,True,Medium,Medium,Resolved
+ESC-000217,TICK-002080,CUST-000019,4,Support_Engineer_23,Support_Level_4,,Customer Request,2023-05-15 00:00:00,True,Medium,Medium,Resolved
+ESC-000218,TICK-002081,CUST-000447,3,Support_Engineer_11,Support_Level_4,2023-09-13 00:00:00,Complex Issue,2025-03-15 00:00:00,True,Medium,Medium,Resolved
+ESC-000219,TICK-002082,CUST-000501,4,Support_Engineer_15,Support_Level_4,2023-03-26 00:00:00,Customer Request,2024-02-12 00:00:00,True,Medium,Medium,Resolved
+ESC-000220,TICK-002093,CUST-000811,3,Support_Engineer_9,Support_Level_2,2024-05-19 00:00:00,Severity,2024-05-22 00:00:00,True,Medium,High,Resolved
+ESC-000221,TICK-002099,CUST-000893,4,Support_Engineer_18,Support_Level_3,,Customer Request,2024-01-21 00:00:00,True,Medium,Medium,Resolved
+ESC-000222,TICK-002106,CUST-000220,3,Support_Engineer_19,Support_Level_4,,SLA Risk,2023-11-08 00:00:00,True,High,High,Resolved
+ESC-000223,TICK-002108,CUST-000696,2,Support_Engineer_20,Support_Level_4,,Severity,2023-06-20 00:00:00,True,Medium,High,Resolved
+ESC-000224,TICK-002126,CUST-000808,3,Support_Engineer_23,Support_Level_4,2023-12-27 00:00:00,Complex Issue,2024-07-14 00:00:00,True,Medium,Medium,Resolved
+ESC-000225,TICK-002144,CUST-000890,4,Support_Engineer_21,Support_Level_3,,Customer Request,2023-11-28 00:00:00,True,Medium,Medium,Resolved
+ESC-000226,TICK-002149,CUST-000070,2,Support_Engineer_14,Support_Level_4,,Complex Issue,2024-03-08 00:00:00,True,Medium,Medium,Resolved
+ESC-000227,TICK-002152,CUST-000359,4,Support_Engineer_20,Support_Level_2,,Complex Issue,2023-07-01 00:00:00,True,Medium,Medium,Resolved
+ESC-000228,TICK-002160,CUST-000833,3,Support_Engineer_15,Support_Level_2,,Severity,2025-09-29 00:00:00,True,Medium,High,Resolved
+ESC-000229,TICK-002167,CUST-000283,3,Support_Engineer_23,Support_Level_4,,Severity,2025-06-16 00:00:00,True,Medium,High,Resolved
+ESC-000230,TICK-002180,CUST-000705,3,Support_Engineer_22,Support_Level_3,,Severity,2023-11-06 00:00:00,True,Medium,High,Resolved
+ESC-000231,TICK-002196,CUST-000968,3,Support_Engineer_8,Support_Level_3,,Complex Issue,2025-03-17 00:00:00,True,Medium,Medium,Resolved
+ESC-000232,TICK-002217,CUST-000311,2,Support_Engineer_2,Support_Level_3,,Technical Expertise Required,2025-01-24 00:00:00,True,Medium,Medium,Resolved
+ESC-000233,TICK-002260,CUST-000386,2,Support_Engineer_16,Support_Level_4,2024-10-05 00:00:00,Technical Expertise Required,2025-04-22 00:00:00,True,Medium,Medium,Resolved
+ESC-000234,TICK-002270,CUST-000732,3,Support_Engineer_11,Support_Level_4,,Technical Expertise Required,2023-04-16 00:00:00,True,Medium,Medium,Resolved
+ESC-000235,TICK-002288,CUST-000727,3,Support_Engineer_10,Support_Level_3,,Technical Expertise Required,2024-11-03 00:00:00,True,Medium,Medium,Resolved
+ESC-000236,TICK-002289,CUST-000607,2,Support_Engineer_6,Support_Level_4,,Complex Issue,2023-08-16 00:00:00,True,Medium,Medium,Resolved
+ESC-000237,TICK-002306,CUST-000237,4,Support_Engineer_20,Support_Level_4,,Severity,2024-05-05 00:00:00,True,Medium,High,Resolved
+ESC-000238,TICK-002314,CUST-000411,3,Support_Engineer_10,Support_Level_2,,SLA Risk,2025-01-01 00:00:00,True,High,High,Resolved
+ESC-000239,TICK-002318,CUST-000484,4,Support_Engineer_19,Support_Level_3,,Severity,2024-11-25 00:00:00,True,Medium,High,Resolved
+ESC-000240,TICK-002322,CUST-000052,3,Support_Engineer_25,Support_Level_3,,Customer Request,2025-04-02 00:00:00,True,Medium,Medium,Resolved
+ESC-000241,TICK-002344,CUST-000830,2,Support_Engineer_19,Support_Level_4,,Severity,2023-10-31 00:00:00,True,Medium,High,Resolved
+ESC-000242,TICK-002361,CUST-000059,2,Support_Engineer_1,Support_Level_2,,Technical Expertise Required,2023-05-11 00:00:00,True,Medium,Medium,Resolved
+ESC-000243,TICK-002362,CUST-000869,2,Support_Engineer_23,Support_Level_4,,Complex Issue,2025-07-26 00:00:00,True,Medium,Medium,Resolved
+ESC-000244,TICK-002365,CUST-000601,4,Support_Engineer_20,Support_Level_2,,Technical Expertise Required,2023-08-26 00:00:00,True,Medium,Medium,Resolved
+ESC-000245,TICK-002407,CUST-000903,3,Support_Engineer_25,Support_Level_4,,Customer Request,2024-05-08 00:00:00,True,Medium,Medium,Resolved
+ESC-000246,TICK-002411,CUST-000880,2,Support_Engineer_10,Support_Level_3,,SLA Risk,2023-01-03 00:00:00,True,High,High,Resolved
+ESC-000247,TICK-002413,CUST-000606,3,Support_Engineer_7,Support_Level_2,,Technical Expertise Required,2025-01-14 00:00:00,True,Medium,Medium,Resolved
+ESC-000248,TICK-002415,CUST-000029,3,Support_Engineer_22,Support_Level_4,,Complex Issue,2023-12-10 00:00:00,True,Medium,Medium,Resolved
+ESC-000249,TICK-002435,CUST-000168,3,Support_Engineer_20,Support_Level_2,,Customer Request,2024-10-05 00:00:00,True,Medium,Medium,Resolved
+ESC-000250,TICK-002439,CUST-000698,3,Support_Engineer_6,Support_Level_4,,Customer Request,2023-03-26 00:00:00,True,Medium,Medium,Resolved
+ESC-000251,TICK-002463,CUST-000682,4,Support_Engineer_3,Support_Level_3,,Severity,2023-04-02 00:00:00,True,Medium,High,Resolved
+ESC-000252,TICK-002464,CUST-000948,2,Support_Engineer_4,Support_Level_3,,Technical Expertise Required,2024-02-06 00:00:00,True,Medium,Medium,Resolved
+ESC-000253,TICK-002473,CUST-000537,4,Support_Engineer_8,Support_Level_2,,Technical Expertise Required,2024-12-26 00:00:00,True,Medium,Medium,Resolved
+ESC-000254,TICK-002478,CUST-000872,3,Support_Engineer_16,Support_Level_4,,Technical Expertise Required,2025-03-25 00:00:00,True,Medium,Medium,Resolved
+ESC-000255,TICK-002513,CUST-000724,3,Support_Engineer_20,Support_Level_2,,Complex Issue,2025-01-02 00:00:00,True,Medium,Medium,Resolved
+ESC-000256,TICK-002524,CUST-000750,2,Support_Engineer_24,Support_Level_4,,SLA Risk,2023-04-03 00:00:00,True,High,High,Resolved
+ESC-000257,TICK-002525,CUST-000356,3,Support_Engineer_24,Support_Level_2,,SLA Risk,2025-06-17 00:00:00,True,High,High,Resolved
+ESC-000258,TICK-002532,CUST-000149,2,Support_Engineer_11,Support_Level_3,,Customer Request,2023-06-04 00:00:00,True,Medium,Medium,Resolved
+ESC-000259,TICK-002541,CUST-000958,4,Support_Engineer_13,Support_Level_4,,Severity,2025-06-28 00:00:00,True,Medium,High,Resolved
+ESC-000260,TICK-002542,CUST-000719,2,Support_Engineer_24,Support_Level_4,,Customer Request,2025-07-03 00:00:00,True,Medium,Medium,Resolved
+ESC-000261,TICK-002553,CUST-000769,2,Support_Engineer_10,Support_Level_3,2025-03-09 00:00:00,Customer Request,2025-07-20 00:00:00,True,Medium,Medium,Resolved
+ESC-000262,TICK-002554,CUST-000921,4,Support_Engineer_20,Support_Level_3,,Customer Request,2024-03-18 00:00:00,True,Medium,Medium,Resolved
+ESC-000263,TICK-002574,CUST-000291,2,Support_Engineer_2,Support_Level_4,,Complex Issue,2024-11-29 00:00:00,True,Medium,Medium,Resolved
+ESC-000264,TICK-002582,CUST-000823,3,Support_Engineer_5,Support_Level_4,,Customer Request,2024-01-25 00:00:00,True,Medium,Medium,Resolved
+ESC-000265,TICK-002587,CUST-000886,2,Support_Engineer_5,Support_Level_3,,Complex Issue,2025-01-28 00:00:00,True,Medium,Medium,Resolved
+ESC-000266,TICK-002600,CUST-000666,3,Support_Engineer_22,Support_Level_3,,Severity,2023-04-07 00:00:00,True,Medium,High,Resolved
+ESC-000267,TICK-002602,CUST-000724,3,Support_Engineer_10,Support_Level_3,,SLA Risk,2023-04-20 00:00:00,True,High,High,Resolved
+ESC-000268,TICK-002615,CUST-000634,2,Support_Engineer_11,Support_Level_2,,SLA Risk,2023-03-21 00:00:00,True,High,High,Resolved
+ESC-000269,TICK-002624,CUST-000207,3,Support_Engineer_2,Support_Level_3,,Technical Expertise Required,2023-07-27 00:00:00,True,Medium,Medium,Resolved
+ESC-000270,TICK-002647,CUST-000833,3,Support_Engineer_16,Support_Level_3,,Severity,2023-02-03 00:00:00,True,Medium,High,Resolved
+ESC-000271,TICK-002649,CUST-000822,3,Support_Engineer_17,Support_Level_4,2025-07-05 00:00:00,Customer Request,2025-08-08 00:00:00,True,Medium,Medium,Resolved
+ESC-000272,TICK-002659,CUST-000017,3,Support_Engineer_21,Support_Level_4,,Technical Expertise Required,2023-12-04 00:00:00,True,Medium,Medium,Resolved
+ESC-000273,TICK-002660,CUST-000296,3,Support_Engineer_6,Support_Level_3,,Customer Request,2023-02-08 00:00:00,True,Medium,Medium,Resolved
+ESC-000274,TICK-002724,CUST-000174,2,Support_Engineer_11,Support_Level_3,,Severity,2024-06-20 00:00:00,True,Medium,High,Resolved
+ESC-000275,TICK-002752,CUST-000084,3,Support_Engineer_1,Support_Level_3,,SLA Risk,2024-09-28 00:00:00,True,High,High,Resolved
+ESC-000276,TICK-002759,CUST-000825,2,Support_Engineer_17,Support_Level_4,,Technical Expertise Required,2024-12-24 00:00:00,True,Medium,Medium,Resolved
+ESC-000277,TICK-002769,CUST-000099,2,Support_Engineer_1,Support_Level_3,,Complex Issue,2025-05-04 00:00:00,True,Medium,Medium,Resolved
+ESC-000278,TICK-002775,CUST-000560,4,Support_Engineer_9,Support_Level_2,,Technical Expertise Required,2023-09-10 00:00:00,True,Medium,Medium,Resolved
+ESC-000279,TICK-002776,CUST-000581,3,Support_Engineer_21,Support_Level_4,,Severity,2023-07-19 00:00:00,True,Medium,High,Resolved
+ESC-000280,TICK-002792,CUST-000721,4,Support_Engineer_25,Support_Level_2,,Customer Request,2023-01-09 00:00:00,True,Medium,Medium,Resolved
+ESC-000281,TICK-002794,CUST-000453,2,Support_Engineer_16,Support_Level_2,,Severity,2024-10-04 00:00:00,True,Medium,High,Resolved
+ESC-000282,TICK-002796,CUST-000068,3,Support_Engineer_10,Support_Level_2,,SLA Risk,2024-09-26 00:00:00,True,High,High,Resolved
+ESC-000283,TICK-002809,CUST-000097,4,Support_Engineer_19,Support_Level_4,,Technical Expertise Required,2023-01-19 00:00:00,True,Medium,Medium,Resolved
+ESC-000284,TICK-002822,CUST-000826,2,Support_Engineer_13,Support_Level_4,,Severity,2025-05-14 00:00:00,True,Medium,High,Resolved
+ESC-000285,TICK-002823,CUST-000041,3,Support_Engineer_10,Support_Level_3,,Complex Issue,2024-01-06 00:00:00,True,Medium,Medium,Resolved
+ESC-000286,TICK-002836,CUST-000241,3,Support_Engineer_20,Support_Level_3,,SLA Risk,2023-07-12 00:00:00,True,High,High,Resolved
+ESC-000287,TICK-002840,CUST-000444,3,Support_Engineer_22,Support_Level_3,,Severity,2025-07-04 00:00:00,True,Medium,High,Resolved
+ESC-000288,TICK-002842,CUST-000283,4,Support_Engineer_20,Support_Level_4,,Technical Expertise Required,2025-01-24 00:00:00,True,Medium,Medium,Resolved
+ESC-000289,TICK-002851,CUST-000113,3,Support_Engineer_1,Support_Level_3,,Severity,2025-03-25 00:00:00,True,Medium,High,Resolved
+ESC-000290,TICK-002854,CUST-000199,3,Support_Engineer_12,Support_Level_4,,Complex Issue,2023-12-11 00:00:00,True,Medium,Medium,Resolved
+ESC-000291,TICK-002856,CUST-000936,2,Support_Engineer_18,Support_Level_4,,Technical Expertise Required,2024-08-23 00:00:00,True,Medium,Medium,Resolved
+ESC-000292,TICK-002894,CUST-000406,3,Support_Engineer_10,Support_Level_4,2024-02-14 00:00:00,Technical Expertise Required,2025-02-14 00:00:00,True,Medium,Medium,Resolved
+ESC-000293,TICK-002899,CUST-000554,4,Support_Engineer_24,Support_Level_2,,SLA Risk,2024-02-04 00:00:00,True,High,High,Resolved
+ESC-000294,TICK-002900,CUST-000162,4,Support_Engineer_24,Support_Level_2,,Customer Request,2023-04-10 00:00:00,True,Medium,Medium,Resolved
+ESC-000295,TICK-002915,CUST-000914,2,Support_Engineer_6,Support_Level_2,,Complex Issue,2025-05-23 00:00:00,True,Medium,Medium,Resolved
+ESC-000296,TICK-002919,CUST-000830,3,Support_Engineer_15,Support_Level_2,,Technical Expertise Required,2023-01-05 00:00:00,True,Medium,Medium,Resolved
+ESC-000297,TICK-002922,CUST-000423,3,Support_Engineer_2,Support_Level_2,,Complex Issue,2023-10-10 00:00:00,True,Medium,Medium,Resolved
+ESC-000298,TICK-002929,CUST-000905,4,Support_Engineer_9,Support_Level_3,,Severity,2024-11-11 00:00:00,True,Medium,High,Resolved
+ESC-000299,TICK-002942,CUST-000016,4,Support_Engineer_19,Support_Level_4,,Technical Expertise Required,2025-01-19 00:00:00,True,Medium,Medium,Resolved
+ESC-000300,TICK-002968,CUST-000077,2,Support_Engineer_9,Support_Level_3,,Customer Request,2023-02-27 00:00:00,True,Medium,Medium,Resolved
+ESC-000301,TICK-002987,CUST-000693,2,Support_Engineer_6,Support_Level_4,,Complex Issue,2023-05-01 00:00:00,True,Medium,Medium,Resolved
+ESC-000302,TICK-003005,CUST-000121,3,Support_Engineer_5,Support_Level_4,,Technical Expertise Required,2024-03-20 00:00:00,True,Medium,Medium,Resolved
+ESC-000303,TICK-003008,CUST-000958,4,Support_Engineer_21,Support_Level_2,,SLA Risk,2025-02-27 00:00:00,True,High,High,Resolved
+ESC-000304,TICK-003014,CUST-000549,3,Support_Engineer_8,Support_Level_3,,Complex Issue,2025-05-14 00:00:00,True,Medium,Medium,Resolved
+ESC-000305,TICK-003024,CUST-000316,4,Support_Engineer_25,Support_Level_2,,SLA Risk,2023-07-27 00:00:00,True,High,High,Resolved
+ESC-000306,TICK-003037,CUST-000288,3,Support_Engineer_24,Support_Level_4,,Complex Issue,2025-04-06 00:00:00,True,Medium,Medium,Resolved
+ESC-000307,TICK-003097,CUST-000768,2,Support_Engineer_15,Support_Level_4,,Complex Issue,2023-08-27 00:00:00,True,Medium,Medium,Resolved
+ESC-000308,TICK-003101,CUST-000236,3,Support_Engineer_25,Support_Level_3,,Complex Issue,2025-06-22 00:00:00,True,Medium,Medium,Resolved
+ESC-000309,TICK-003106,CUST-000184,3,Support_Engineer_18,Support_Level_4,,SLA Risk,2025-03-25 00:00:00,True,High,High,Resolved
+ESC-000310,TICK-003108,CUST-000076,3,Support_Engineer_21,Support_Level_4,2023-08-23 00:00:00,Customer Request,2025-05-24 00:00:00,True,Medium,Medium,Resolved
+ESC-000311,TICK-003126,CUST-000167,4,Support_Engineer_17,Support_Level_3,,Severity,2023-03-02 00:00:00,True,Medium,High,Resolved
+ESC-000312,TICK-003141,CUST-000532,4,Support_Engineer_11,Support_Level_2,,Severity,2025-09-07 00:00:00,True,Medium,High,Resolved
+ESC-000313,TICK-003149,CUST-000099,3,Support_Engineer_20,Support_Level_2,,Technical Expertise Required,2023-02-17 00:00:00,True,Medium,Medium,Resolved
+ESC-000314,TICK-003153,CUST-000041,4,Support_Engineer_10,Support_Level_4,,SLA Risk,2025-08-15 00:00:00,True,High,High,Resolved
+ESC-000315,TICK-003176,CUST-000043,3,Support_Engineer_21,Support_Level_3,,Complex Issue,2025-04-06 00:00:00,True,Medium,Medium,Resolved
+ESC-000316,TICK-003188,CUST-000478,3,Support_Engineer_4,Support_Level_2,,Customer Request,2023-10-03 00:00:00,True,Medium,Medium,Resolved
+ESC-000317,TICK-003210,CUST-000466,2,Support_Engineer_16,Support_Level_4,,Severity,2025-08-18 00:00:00,True,Medium,High,Resolved
+ESC-000318,TICK-003224,CUST-000759,2,Support_Engineer_17,Support_Level_3,,Customer Request,2024-12-23 00:00:00,True,Medium,Medium,Resolved
+ESC-000319,TICK-003232,CUST-000280,3,Support_Engineer_18,Support_Level_2,,Customer Request,2023-03-04 00:00:00,True,Medium,Medium,Resolved
+ESC-000320,TICK-003240,CUST-000479,4,Support_Engineer_14,Support_Level_4,,Severity,2023-04-13 00:00:00,True,Medium,High,Resolved
+ESC-000321,TICK-003258,CUST-000761,3,Support_Engineer_13,Support_Level_4,,SLA Risk,2023-10-13 00:00:00,True,High,High,Resolved
+ESC-000322,TICK-003259,CUST-000892,3,Support_Engineer_16,Support_Level_3,,SLA Risk,2024-02-21 00:00:00,True,High,High,Resolved
+ESC-000323,TICK-003276,CUST-000232,3,Support_Engineer_11,Support_Level_4,,SLA Risk,2023-03-05 00:00:00,True,High,High,Resolved
+ESC-000324,TICK-003288,CUST-000689,3,Support_Engineer_11,Support_Level_4,,SLA Risk,2025-06-01 00:00:00,True,High,High,Resolved
+ESC-000325,TICK-003290,CUST-000323,2,Support_Engineer_6,Support_Level_2,,Severity,2023-05-02 00:00:00,True,Medium,High,Resolved
+ESC-000326,TICK-003303,CUST-000445,3,Support_Engineer_23,Support_Level_3,,SLA Risk,2025-08-19 00:00:00,True,High,High,Resolved
+ESC-000327,TICK-003345,CUST-000186,4,Support_Engineer_19,Support_Level_2,,Complex Issue,2024-05-10 00:00:00,True,Medium,Medium,Resolved
+ESC-000328,TICK-003356,CUST-000364,3,Support_Engineer_12,Support_Level_2,,Complex Issue,2023-12-17 00:00:00,True,Medium,Medium,Resolved
+ESC-000329,TICK-003375,CUST-000233,3,Support_Engineer_24,Support_Level_2,,Technical Expertise Required,2023-06-12 00:00:00,True,Medium,Medium,Resolved
+ESC-000330,TICK-003376,CUST-000735,4,Support_Engineer_15,Support_Level_4,,Technical Expertise Required,2024-03-05 00:00:00,True,Medium,Medium,Resolved
+ESC-000331,TICK-003395,CUST-000376,2,Support_Engineer_2,Support_Level_4,,Technical Expertise Required,2023-02-10 00:00:00,True,Medium,Medium,Resolved
+ESC-000332,TICK-003416,CUST-000147,4,Support_Engineer_7,Support_Level_2,,Technical Expertise Required,2024-01-15 00:00:00,True,Medium,Medium,Resolved
+ESC-000333,TICK-003437,CUST-000711,3,Support_Engineer_14,Support_Level_2,,SLA Risk,2023-01-25 00:00:00,True,High,High,Resolved
+ESC-000334,TICK-003439,CUST-000286,3,Support_Engineer_14,Support_Level_4,,Technical Expertise Required,2024-03-14 00:00:00,True,Medium,Medium,Resolved
+ESC-000335,TICK-003469,CUST-000541,4,Support_Engineer_14,Support_Level_2,2023-04-01 00:00:00,Customer Request,2024-01-28 00:00:00,True,Medium,Medium,Resolved
+ESC-000336,TICK-003480,CUST-000933,2,Support_Engineer_1,Support_Level_2,,SLA Risk,2024-11-18 00:00:00,True,High,High,Resolved
+ESC-000337,TICK-003495,CUST-000028,4,Support_Engineer_5,Support_Level_3,,Severity,2023-11-05 00:00:00,True,Medium,High,Resolved
+ESC-000338,TICK-003499,CUST-000366,3,Support_Engineer_23,Support_Level_2,,Severity,2024-05-16 00:00:00,True,Medium,High,Resolved
+ESC-000339,TICK-003501,CUST-000289,2,Support_Engineer_13,Support_Level_4,,Severity,2023-06-09 00:00:00,True,Medium,High,Resolved
+ESC-000340,TICK-003502,CUST-000479,3,Support_Engineer_21,Support_Level_3,2024-03-15 00:00:00,Severity,2025-08-17 00:00:00,True,Medium,High,Resolved
+ESC-000341,TICK-003515,CUST-000534,3,Support_Engineer_3,Support_Level_2,,Severity,2025-09-03 00:00:00,True,Medium,High,Resolved
+ESC-000342,TICK-003546,CUST-000734,3,Support_Engineer_25,Support_Level_2,,SLA Risk,2025-03-05 00:00:00,True,High,High,Resolved
+ESC-000343,TICK-003559,CUST-000435,2,Support_Engineer_24,Support_Level_3,,Customer Request,2025-01-25 00:00:00,True,Medium,Medium,Resolved
+ESC-000344,TICK-003575,CUST-000117,3,Support_Engineer_21,Support_Level_4,2023-03-02 00:00:00,Complex Issue,2023-03-07 00:00:00,True,Medium,Medium,Resolved
+ESC-000345,TICK-003595,CUST-000641,3,Support_Engineer_24,Support_Level_2,,SLA Risk,2024-05-03 00:00:00,True,High,High,Resolved
+ESC-000346,TICK-003596,CUST-000541,3,Support_Engineer_5,Support_Level_2,,Customer Request,2024-03-19 00:00:00,True,Medium,Medium,Resolved
+ESC-000347,TICK-003599,CUST-000719,3,Support_Engineer_24,Support_Level_2,2025-10-05 00:00:00,SLA Risk,2025-10-06 00:00:00,True,High,High,Resolved
+ESC-000348,TICK-003607,CUST-000469,3,Support_Engineer_13,Support_Level_2,,Severity,2025-07-11 00:00:00,True,Medium,High,Resolved
+ESC-000349,TICK-003614,CUST-000751,3,Support_Engineer_20,Support_Level_4,,Complex Issue,2023-11-06 00:00:00,True,Medium,Medium,Resolved
+ESC-000350,TICK-003644,CUST-000074,3,Support_Engineer_6,Support_Level_2,,Complex Issue,2024-11-21 00:00:00,True,Medium,Medium,Resolved
+ESC-000351,TICK-003666,CUST-000694,4,Support_Engineer_6,Support_Level_2,,Technical Expertise Required,2025-01-03 00:00:00,True,Medium,Medium,Resolved
+ESC-000352,TICK-003697,CUST-000535,4,Support_Engineer_17,Support_Level_4,,SLA Risk,2024-10-14 00:00:00,True,High,High,Resolved
+ESC-000353,TICK-003722,CUST-000778,3,Support_Engineer_4,Support_Level_3,,SLA Risk,2023-04-29 00:00:00,True,High,High,Resolved
+ESC-000354,TICK-003737,CUST-000905,3,Support_Engineer_17,Support_Level_4,,Complex Issue,2023-01-14 00:00:00,True,Medium,Medium,Resolved
+ESC-000355,TICK-003738,CUST-000526,4,Support_Engineer_6,Support_Level_2,,Customer Request,2023-01-13 00:00:00,True,Medium,Medium,Resolved
+ESC-000356,TICK-003761,CUST-000480,2,Support_Engineer_22,Support_Level_4,,Technical Expertise Required,2024-08-21 00:00:00,True,Medium,Medium,Resolved
+ESC-000357,TICK-003765,CUST-000631,3,Support_Engineer_12,Support_Level_4,,Severity,2025-01-21 00:00:00,True,Medium,High,Resolved
+ESC-000358,TICK-003791,CUST-000361,4,Support_Engineer_3,Support_Level_2,2023-10-02 00:00:00,Complex Issue,2024-02-27 00:00:00,True,Medium,Medium,Resolved
+ESC-000359,TICK-003807,CUST-000282,2,Support_Engineer_3,Support_Level_3,,Complex Issue,2025-06-01 00:00:00,True,Medium,Medium,Resolved
+ESC-000360,TICK-003832,CUST-000338,3,Support_Engineer_3,Support_Level_4,,Severity,2023-09-23 00:00:00,True,Medium,High,Resolved
+ESC-000361,TICK-003835,CUST-000711,2,Support_Engineer_4,Support_Level_2,,Complex Issue,2023-09-17 00:00:00,True,Medium,Medium,Resolved
+ESC-000362,TICK-003837,CUST-000078,3,Support_Engineer_16,Support_Level_4,,Complex Issue,2023-06-15 00:00:00,True,Medium,Medium,Resolved
+ESC-000363,TICK-003850,CUST-000977,3,Support_Engineer_5,Support_Level_2,,Severity,2024-08-20 00:00:00,True,Medium,High,Resolved
+ESC-000364,TICK-003857,CUST-000104,3,Support_Engineer_22,Support_Level_2,,SLA Risk,2023-06-19 00:00:00,True,High,High,Resolved
+ESC-000365,TICK-003860,CUST-000020,3,Support_Engineer_19,Support_Level_4,,Customer Request,2024-01-03 00:00:00,True,Medium,Medium,Resolved
+ESC-000366,TICK-003862,CUST-000353,2,Support_Engineer_3,Support_Level_2,,Technical Expertise Required,2025-07-08 00:00:00,True,Medium,Medium,Resolved
+ESC-000367,TICK-003889,CUST-000075,3,Support_Engineer_6,Support_Level_3,2023-11-11 00:00:00,Severity,2025-09-10 00:00:00,True,Medium,High,Resolved
+ESC-000368,TICK-003898,CUST-000951,3,Support_Engineer_13,Support_Level_4,,Technical Expertise Required,2023-07-07 00:00:00,True,Medium,Medium,Resolved
+ESC-000369,TICK-003901,CUST-000100,3,Support_Engineer_10,Support_Level_2,,Customer Request,2025-01-15 00:00:00,True,Medium,Medium,Resolved
+ESC-000370,TICK-003917,CUST-000425,4,Support_Engineer_22,Support_Level_3,,Customer Request,2023-06-11 00:00:00,True,Medium,Medium,Resolved
+ESC-000371,TICK-003920,CUST-000788,4,Support_Engineer_16,Support_Level_3,,Complex Issue,2023-10-22 00:00:00,True,Medium,Medium,Resolved
+ESC-000372,TICK-003930,CUST-000217,3,Support_Engineer_17,Support_Level_2,,Customer Request,2023-10-21 00:00:00,True,Medium,Medium,Resolved
+ESC-000373,TICK-003937,CUST-000492,3,Support_Engineer_22,Support_Level_3,,Severity,2024-02-04 00:00:00,True,Medium,High,Resolved
+ESC-000374,TICK-003957,CUST-000693,2,Support_Engineer_21,Support_Level_3,,Customer Request,2024-05-30 00:00:00,True,Medium,Medium,Resolved
+ESC-000375,TICK-003982,CUST-000533,3,Support_Engineer_5,Support_Level_3,,Customer Request,2024-05-27 00:00:00,True,Medium,Medium,Resolved
+ESC-000376,TICK-003991,CUST-000305,3,Support_Engineer_7,Support_Level_4,,Technical Expertise Required,2023-06-12 00:00:00,True,Medium,Medium,Resolved
+ESC-000377,TICK-004001,CUST-000523,2,Support_Engineer_12,Support_Level_2,,Customer Request,2024-04-15 00:00:00,True,Medium,Medium,Resolved
+ESC-000378,TICK-004005,CUST-000861,3,Support_Engineer_21,Support_Level_3,,Technical Expertise Required,2023-12-24 00:00:00,True,Medium,Medium,Resolved
+ESC-000379,TICK-004009,CUST-000485,3,Support_Engineer_6,Support_Level_2,,Technical Expertise Required,2023-05-07 00:00:00,True,Medium,Medium,Resolved
+ESC-000380,TICK-004013,CUST-000976,2,Support_Engineer_16,Support_Level_2,2024-07-21 00:00:00,Complex Issue,2025-09-13 00:00:00,True,Medium,Medium,Resolved
+ESC-000381,TICK-004014,CUST-000019,3,Support_Engineer_6,Support_Level_2,,Complex Issue,2023-04-18 00:00:00,True,Medium,Medium,Resolved
+ESC-000382,TICK-004020,CUST-000307,4,Support_Engineer_19,Support_Level_2,,Severity,2023-05-23 00:00:00,True,Medium,High,Resolved
+ESC-000383,TICK-004041,CUST-000931,3,Support_Engineer_14,Support_Level_2,,Technical Expertise Required,2023-07-31 00:00:00,True,Medium,Medium,Resolved
+ESC-000384,TICK-004042,CUST-000587,2,Support_Engineer_4,Support_Level_4,,Complex Issue,2025-03-23 00:00:00,True,Medium,Medium,Resolved
+ESC-000385,TICK-004044,CUST-000703,3,Support_Engineer_5,Support_Level_2,,Complex Issue,2024-03-23 00:00:00,True,Medium,Medium,Resolved
+ESC-000386,TICK-004054,CUST-000472,3,Support_Engineer_4,Support_Level_2,,Technical Expertise Required,2023-01-01 00:00:00,True,Medium,Medium,Resolved
+ESC-000387,TICK-004064,CUST-000109,2,Support_Engineer_15,Support_Level_3,,Customer Request,2024-07-13 00:00:00,True,Medium,Medium,Resolved
+ESC-000388,TICK-004077,CUST-000309,4,Support_Engineer_22,Support_Level_2,2024-07-30 00:00:00,Complex Issue,2024-12-07 00:00:00,True,Medium,Medium,Resolved
+ESC-000389,TICK-004090,CUST-000262,3,Support_Engineer_20,Support_Level_2,,Customer Request,2025-06-12 00:00:00,True,Medium,Medium,Resolved
+ESC-000390,TICK-004104,CUST-000936,2,Support_Engineer_11,Support_Level_2,,Technical Expertise Required,2024-02-23 00:00:00,True,Medium,Medium,Resolved
+ESC-000391,TICK-004114,CUST-000802,4,Support_Engineer_12,Support_Level_3,,Technical Expertise Required,2023-03-21 00:00:00,True,Medium,Medium,Resolved
+ESC-000392,TICK-004118,CUST-000658,3,Support_Engineer_19,Support_Level_2,,Technical Expertise Required,2025-09-01 00:00:00,True,Medium,Medium,Resolved
+ESC-000393,TICK-004125,CUST-000956,4,Support_Engineer_1,Support_Level_2,,SLA Risk,2025-02-28 00:00:00,True,High,High,Resolved
+ESC-000394,TICK-004127,CUST-000813,3,Support_Engineer_16,Support_Level_4,,SLA Risk,2023-10-10 00:00:00,True,High,High,Resolved
+ESC-000395,TICK-004128,CUST-000966,4,Support_Engineer_9,Support_Level_4,,Customer Request,2024-08-04 00:00:00,True,Medium,Medium,Resolved
+ESC-000396,TICK-004142,CUST-000037,3,Support_Engineer_9,Support_Level_3,,Customer Request,2025-08-12 00:00:00,True,Medium,Medium,Resolved
+ESC-000397,TICK-004143,CUST-000847,3,Support_Engineer_1,Support_Level_2,,Customer Request,2024-06-19 00:00:00,True,Medium,Medium,Resolved
+ESC-000398,TICK-004178,CUST-000371,3,Support_Engineer_16,Support_Level_2,,Severity,2023-06-03 00:00:00,True,Medium,High,Resolved
+ESC-000399,TICK-004190,CUST-000781,3,Support_Engineer_23,Support_Level_3,2025-05-18 00:00:00,Technical Expertise Required,2025-08-30 00:00:00,True,Medium,Medium,Resolved
+ESC-000400,TICK-004196,CUST-000432,3,Support_Engineer_7,Support_Level_4,,Technical Expertise Required,2023-02-28 00:00:00,True,Medium,Medium,Resolved
+ESC-000401,TICK-004230,CUST-000062,4,Support_Engineer_25,Support_Level_3,,SLA Risk,2024-09-12 00:00:00,True,High,High,Resolved
+ESC-000402,TICK-004242,CUST-000912,3,Support_Engineer_17,Support_Level_3,,SLA Risk,2023-02-03 00:00:00,True,High,High,Resolved
+ESC-000403,TICK-004250,CUST-000175,2,Support_Engineer_8,Support_Level_4,,Technical Expertise Required,2023-04-14 00:00:00,True,Medium,Medium,Resolved
+ESC-000404,TICK-004255,CUST-000703,4,Support_Engineer_25,Support_Level_2,,Severity,2023-12-15 00:00:00,True,Medium,High,Resolved
+ESC-000405,TICK-004266,CUST-000367,2,Support_Engineer_4,Support_Level_3,,Complex Issue,2023-05-19 00:00:00,True,Medium,Medium,Resolved
+ESC-000406,TICK-004280,CUST-000781,2,Support_Engineer_14,Support_Level_2,,Technical Expertise Required,2023-02-16 00:00:00,True,Medium,Medium,Resolved
+ESC-000407,TICK-004293,CUST-000529,4,Support_Engineer_21,Support_Level_3,,Technical Expertise Required,2023-06-14 00:00:00,True,Medium,Medium,Resolved
+ESC-000408,TICK-004298,CUST-000695,3,Support_Engineer_11,Support_Level_2,,Severity,2024-11-26 00:00:00,True,Medium,High,Resolved
+ESC-000409,TICK-004299,CUST-000164,3,Support_Engineer_6,Support_Level_4,,Customer Request,2024-09-23 00:00:00,True,Medium,Medium,Resolved
+ESC-000410,TICK-004304,CUST-000061,3,Support_Engineer_9,Support_Level_2,,Severity,2023-12-09 00:00:00,True,Medium,High,Resolved
+ESC-000411,TICK-004318,CUST-000280,4,Support_Engineer_14,Support_Level_4,,Severity,2023-10-07 00:00:00,True,Medium,High,Resolved
+ESC-000412,TICK-004332,CUST-000252,2,Support_Engineer_4,Support_Level_3,,SLA Risk,2024-02-10 00:00:00,True,High,High,Resolved
+ESC-000413,TICK-004336,CUST-000083,4,Support_Engineer_22,Support_Level_4,,Severity,2024-04-11 00:00:00,True,Medium,High,Resolved
+ESC-000414,TICK-004338,CUST-000976,2,Support_Engineer_8,Support_Level_4,,SLA Risk,2024-03-31 00:00:00,True,High,High,Resolved
+ESC-000415,TICK-004347,CUST-000834,3,Support_Engineer_23,Support_Level_3,,Technical Expertise Required,2023-09-01 00:00:00,True,Medium,Medium,Resolved
+ESC-000416,TICK-004349,CUST-000421,3,Support_Engineer_1,Support_Level_4,,Complex Issue,2024-02-23 00:00:00,True,Medium,Medium,Resolved
+ESC-000417,TICK-004359,CUST-000586,4,Support_Engineer_15,Support_Level_2,,Technical Expertise Required,2024-08-13 00:00:00,True,Medium,Medium,Resolved
+ESC-000418,TICK-004379,CUST-000490,3,Support_Engineer_14,Support_Level_4,,Severity,2024-01-14 00:00:00,True,Medium,High,Resolved
+ESC-000419,TICK-004387,CUST-000064,2,Support_Engineer_24,Support_Level_2,,SLA Risk,2023-06-22 00:00:00,True,High,High,Resolved
+ESC-000420,TICK-004393,CUST-000559,4,Support_Engineer_18,Support_Level_4,,SLA Risk,2023-07-21 00:00:00,True,High,High,Resolved
+ESC-000421,TICK-004407,CUST-000683,3,Support_Engineer_5,Support_Level_4,,Severity,2025-08-04 00:00:00,True,Medium,High,Resolved
+ESC-000422,TICK-004417,CUST-000141,3,Support_Engineer_24,Support_Level_3,,Complex Issue,2023-06-05 00:00:00,True,Medium,Medium,Resolved
+ESC-000423,TICK-004434,CUST-000001,4,Support_Engineer_1,Support_Level_2,,Technical Expertise Required,2024-11-23 00:00:00,True,Medium,Medium,Resolved
+ESC-000424,TICK-004449,CUST-000510,3,Support_Engineer_23,Support_Level_3,,Customer Request,2023-02-07 00:00:00,True,Medium,Medium,Resolved
+ESC-000425,TICK-004451,CUST-000961,3,Support_Engineer_13,Support_Level_4,,Severity,2024-03-26 00:00:00,True,Medium,High,Resolved
+ESC-000426,TICK-004457,CUST-000325,3,Support_Engineer_12,Support_Level_3,,Technical Expertise Required,2024-08-02 00:00:00,True,Medium,Medium,Resolved
+ESC-000427,TICK-004463,CUST-000046,3,Support_Engineer_1,Support_Level_2,,Technical Expertise Required,2023-08-21 00:00:00,True,Medium,Medium,Resolved
+ESC-000428,TICK-004468,CUST-000741,4,Support_Engineer_20,Support_Level_4,2023-04-09 00:00:00,Complex Issue,2024-11-23 00:00:00,True,Medium,Medium,Resolved
+ESC-000429,TICK-004487,CUST-000864,2,Support_Engineer_3,Support_Level_4,,SLA Risk,2023-01-21 00:00:00,True,High,High,Resolved
+ESC-000430,TICK-004495,CUST-000583,4,Support_Engineer_16,Support_Level_4,,Severity,2023-05-30 00:00:00,True,Medium,High,Resolved
+ESC-000431,TICK-004499,CUST-000077,2,Support_Engineer_22,Support_Level_3,,Customer Request,2023-05-13 00:00:00,True,Medium,Medium,Resolved
+ESC-000432,TICK-004512,CUST-000841,3,Support_Engineer_10,Support_Level_4,,SLA Risk,2025-09-15 00:00:00,True,High,High,Resolved
+ESC-000433,TICK-004515,CUST-000146,2,Support_Engineer_17,Support_Level_4,,SLA Risk,2023-11-26 00:00:00,True,High,High,Resolved
+ESC-000434,TICK-004516,CUST-000539,3,Support_Engineer_25,Support_Level_3,,Complex Issue,2025-02-16 00:00:00,True,Medium,Medium,Resolved
+ESC-000435,TICK-004535,CUST-000768,3,Support_Engineer_9,Support_Level_2,,Technical Expertise Required,2024-12-06 00:00:00,True,Medium,Medium,Resolved
+ESC-000436,TICK-004542,CUST-000469,4,Support_Engineer_18,Support_Level_2,,Severity,2023-02-21 00:00:00,True,Medium,High,Resolved
+ESC-000437,TICK-004547,CUST-000164,3,Support_Engineer_11,Support_Level_3,,Technical Expertise Required,2023-02-27 00:00:00,True,Medium,Medium,Resolved
+ESC-000438,TICK-004553,CUST-000863,3,Support_Engineer_11,Support_Level_2,,SLA Risk,2025-05-08 00:00:00,True,High,High,Resolved
+ESC-000439,TICK-004576,CUST-000444,3,Support_Engineer_22,Support_Level_4,,SLA Risk,2024-02-18 00:00:00,True,High,High,Resolved
+ESC-000440,TICK-004586,CUST-000995,3,Support_Engineer_19,Support_Level_2,,SLA Risk,2023-08-10 00:00:00,True,High,High,Resolved
+ESC-000441,TICK-004589,CUST-000154,3,Support_Engineer_20,Support_Level_4,2024-08-03 00:00:00,Customer Request,2025-08-14 00:00:00,True,Medium,Medium,Resolved
+ESC-000442,TICK-004615,CUST-000390,4,Support_Engineer_14,Support_Level_3,,Customer Request,2025-09-09 00:00:00,True,Medium,Medium,Resolved
+ESC-000443,TICK-004618,CUST-000918,4,Support_Engineer_2,Support_Level_2,,Customer Request,2024-12-02 00:00:00,True,Medium,Medium,Resolved
+ESC-000444,TICK-004622,CUST-000723,3,Support_Engineer_23,Support_Level_2,,Severity,2025-01-23 00:00:00,True,Medium,High,Resolved
+ESC-000445,TICK-004629,CUST-000097,2,Support_Engineer_8,Support_Level_3,,Customer Request,2024-03-19 00:00:00,True,Medium,Medium,Resolved
+ESC-000446,TICK-004664,CUST-000341,2,Support_Engineer_9,Support_Level_4,,Technical Expertise Required,2025-01-01 00:00:00,True,Medium,Medium,Resolved
+ESC-000447,TICK-004669,CUST-000082,4,Support_Engineer_2,Support_Level_2,,Technical Expertise Required,2024-06-13 00:00:00,True,Medium,Medium,Resolved
+ESC-000448,TICK-004675,CUST-000697,2,Support_Engineer_20,Support_Level_4,,Severity,2024-10-01 00:00:00,True,Medium,High,Resolved
+ESC-000449,TICK-004681,CUST-000325,3,Support_Engineer_11,Support_Level_2,,SLA Risk,2024-08-22 00:00:00,True,High,High,Resolved
+ESC-000450,TICK-004686,CUST-000606,2,Support_Engineer_7,Support_Level_3,,SLA Risk,2023-07-28 00:00:00,True,High,High,Resolved
+ESC-000451,TICK-004697,CUST-000666,4,Support_Engineer_2,Support_Level_2,,Complex Issue,2023-03-06 00:00:00,True,Medium,Medium,Resolved
+ESC-000452,TICK-004701,CUST-000529,4,Support_Engineer_13,Support_Level_4,2023-12-14 00:00:00,Severity,2024-07-10 00:00:00,True,Medium,High,Resolved
+ESC-000453,TICK-004703,CUST-000019,4,Support_Engineer_1,Support_Level_3,,Severity,2023-03-04 00:00:00,True,Medium,High,Resolved
+ESC-000454,TICK-004722,CUST-000562,4,Support_Engineer_14,Support_Level_4,,Complex Issue,2024-04-07 00:00:00,True,Medium,Medium,Resolved
+ESC-000455,TICK-004737,CUST-000344,4,Support_Engineer_13,Support_Level_4,,Customer Request,2023-05-06 00:00:00,True,Medium,Medium,Resolved
+ESC-000456,TICK-004746,CUST-000141,4,Support_Engineer_9,Support_Level_3,,Customer Request,2025-09-04 00:00:00,True,Medium,Medium,Resolved
+ESC-000457,TICK-004755,CUST-000669,3,Support_Engineer_17,Support_Level_2,2025-09-17 00:00:00,Technical Expertise Required,2025-09-23 00:00:00,True,Medium,Medium,Resolved
+ESC-000458,TICK-004763,CUST-000245,3,Support_Engineer_19,Support_Level_3,,Complex Issue,2024-10-01 00:00:00,True,Medium,Medium,Resolved
+ESC-000459,TICK-004767,CUST-000200,2,Support_Engineer_5,Support_Level_3,,Complex Issue,2025-08-14 00:00:00,True,Medium,Medium,Resolved
+ESC-000460,TICK-004772,CUST-000217,3,Support_Engineer_13,Support_Level_3,,SLA Risk,2023-08-31 00:00:00,True,High,High,Resolved
+ESC-000461,TICK-004794,CUST-000384,3,Support_Engineer_13,Support_Level_4,,SLA Risk,2024-02-16 00:00:00,True,High,High,Resolved
+ESC-000462,TICK-004795,CUST-000854,4,Support_Engineer_23,Support_Level_2,,Technical Expertise Required,2023-02-05 00:00:00,True,Medium,Medium,Resolved
+ESC-000463,TICK-004804,CUST-000971,3,Support_Engineer_17,Support_Level_3,,SLA Risk,2023-11-11 00:00:00,True,High,High,Resolved
+ESC-000464,TICK-004807,CUST-000294,4,Support_Engineer_10,Support_Level_2,,Technical Expertise Required,2023-09-18 00:00:00,True,Medium,Medium,Resolved
+ESC-000465,TICK-004828,CUST-000984,2,Support_Engineer_19,Support_Level_4,2025-06-30 00:00:00,Technical Expertise Required,2025-07-11 00:00:00,True,Medium,Medium,Resolved
+ESC-000466,TICK-004830,CUST-000148,3,Support_Engineer_5,Support_Level_2,,Severity,2023-12-02 00:00:00,True,Medium,High,Resolved
+ESC-000467,TICK-004835,CUST-000694,3,Support_Engineer_11,Support_Level_2,,Technical Expertise Required,2024-10-12 00:00:00,True,Medium,Medium,Resolved
+ESC-000468,TICK-004837,CUST-000315,2,Support_Engineer_12,Support_Level_2,,Customer Request,2025-06-07 00:00:00,True,Medium,Medium,Resolved
+ESC-000469,TICK-004838,CUST-000213,3,Support_Engineer_13,Support_Level_4,,Complex Issue,2025-07-19 00:00:00,True,Medium,Medium,Resolved
+ESC-000470,TICK-004842,CUST-000977,4,Support_Engineer_19,Support_Level_4,,Complex Issue,2023-07-21 00:00:00,True,Medium,Medium,Resolved
+ESC-000471,TICK-004847,CUST-000540,3,Support_Engineer_4,Support_Level_4,,SLA Risk,2023-09-05 00:00:00,True,High,High,Resolved
+ESC-000472,TICK-004849,CUST-000977,2,Support_Engineer_7,Support_Level_2,,Complex Issue,2024-05-31 00:00:00,True,Medium,Medium,Resolved
+ESC-000473,TICK-004852,CUST-000453,3,Support_Engineer_17,Support_Level_4,,Severity,2025-05-10 00:00:00,True,Medium,High,Resolved
+ESC-000474,TICK-004855,CUST-000059,4,Support_Engineer_20,Support_Level_3,,SLA Risk,2024-09-13 00:00:00,True,High,High,Resolved
+ESC-000475,TICK-004866,CUST-000440,3,Support_Engineer_9,Support_Level_4,,Severity,2023-05-31 00:00:00,True,Medium,High,Resolved
+ESC-000476,TICK-004876,CUST-000816,3,Support_Engineer_12,Support_Level_4,,Severity,2025-06-18 00:00:00,True,Medium,High,Resolved
+ESC-000477,TICK-004881,CUST-000758,2,Support_Engineer_17,Support_Level_4,,SLA Risk,2023-07-14 00:00:00,True,High,High,Resolved
+ESC-000478,TICK-004889,CUST-000935,2,Support_Engineer_9,Support_Level_4,,Severity,2025-04-25 00:00:00,True,Medium,High,Resolved
+ESC-000479,TICK-004891,CUST-000657,3,Support_Engineer_18,Support_Level_2,,Technical Expertise Required,2024-09-18 00:00:00,True,Medium,Medium,Resolved
+ESC-000480,TICK-004897,CUST-000539,3,Support_Engineer_17,Support_Level_4,,Customer Request,2023-09-04 00:00:00,True,Medium,Medium,Resolved
+ESC-000481,TICK-004899,CUST-000574,2,Support_Engineer_12,Support_Level_2,,Customer Request,2025-05-29 00:00:00,True,Medium,Medium,Resolved
+ESC-000482,TICK-004926,CUST-000576,3,Support_Engineer_25,Support_Level_4,,Complex Issue,2023-08-03 00:00:00,True,Medium,Medium,Resolved
+ESC-000483,TICK-004966,CUST-000266,2,Support_Engineer_8,Support_Level_4,,Complex Issue,2023-02-26 00:00:00,True,Medium,Medium,Resolved
+ESC-000484,TICK-004990,CUST-000446,3,Support_Engineer_3,Support_Level_3,,Severity,2024-04-22 00:00:00,True,Medium,High,Resolved
+ESC-000485,TICK-004996,CUST-000484,4,Support_Engineer_13,Support_Level_4,,Complex Issue,2025-04-26 00:00:00,True,Medium,Medium,Resolved
+ESC-000486,TICK-004998,CUST-000329,3,Support_Engineer_13,Support_Level_2,,SLA Risk,2023-10-10 00:00:00,True,High,High,Resolved
+ESC-000487,TICK-005002,CUST-000852,3,Support_Engineer_4,Support_Level_3,,SLA Risk,2023-02-07 00:00:00,True,High,High,Resolved
+ESC-000488,TICK-005013,CUST-000939,3,Support_Engineer_4,Support_Level_4,,Complex Issue,2024-05-03 00:00:00,True,Medium,Medium,Resolved
+ESC-000489,TICK-005021,CUST-000247,4,Support_Engineer_21,Support_Level_4,,Complex Issue,2023-07-01 00:00:00,True,Medium,Medium,Resolved
+ESC-000490,TICK-005024,CUST-000130,2,Support_Engineer_6,Support_Level_4,,Customer Request,2024-05-01 00:00:00,True,Medium,Medium,Resolved
+ESC-000491,TICK-005030,CUST-000784,4,Support_Engineer_18,Support_Level_3,,Severity,2024-03-24 00:00:00,True,Medium,High,Resolved
+ESC-000492,TICK-005043,CUST-000878,2,Support_Engineer_17,Support_Level_3,,Severity,2023-03-11 00:00:00,True,Medium,High,Resolved
+ESC-000493,TICK-005058,CUST-000827,3,Support_Engineer_3,Support_Level_2,2023-04-18 00:00:00,Severity,2025-09-19 00:00:00,True,Medium,High,Resolved
+ESC-000494,TICK-005059,CUST-000545,3,Support_Engineer_18,Support_Level_2,,SLA Risk,2023-10-18 00:00:00,True,High,High,Resolved
+ESC-000495,TICK-005080,CUST-000088,3,Support_Engineer_11,Support_Level_2,,Complex Issue,2024-10-28 00:00:00,True,Medium,Medium,Resolved
+ESC-000496,TICK-005089,CUST-000538,2,Support_Engineer_15,Support_Level_2,,Customer Request,2023-02-17 00:00:00,True,Medium,Medium,Resolved
+ESC-000497,TICK-005092,CUST-000621,4,Support_Engineer_13,Support_Level_3,,Customer Request,2025-08-30 00:00:00,True,Medium,Medium,Resolved
+ESC-000498,TICK-005095,CUST-000240,3,Support_Engineer_11,Support_Level_2,,Complex Issue,2024-08-09 00:00:00,True,Medium,Medium,Resolved
+ESC-000499,TICK-005102,CUST-000868,3,Support_Engineer_5,Support_Level_2,,SLA Risk,2023-09-17 00:00:00,True,High,High,Resolved
