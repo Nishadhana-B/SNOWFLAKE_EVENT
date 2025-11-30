@@ -1,0 +1,1000 @@
+opportunity_id,customer_id,product_id,opportunity_name,stage,amount,probability,close_date,created_date,opportunity_type,region,sales_rep,lead_source,competitor
+OPP-000001,CUST-000522,PROD-000016,Company B522 - Product P,Closed Lost,935568.96,99,2025-06-27,2025-05-27,Cross-sell,Latin America,Rep_25,Partner,
+OPP-000002,CUST-000203,PROD-000016,Company U203 - Product P,Closed Won,469004.64,27,2025-05-15,2025-01-10,New Business,EMEA,Rep_35,Referral,Competitor C
+OPP-000003,CUST-000799,PROD-000007,Company S799 - Product G,Closed Lost,61420.16,13,2025-03-07,2024-12-15,Upsell,EMEA,Rep_10,Referral,
+OPP-000004,CUST-000599,PROD-000007,Company A599 - Product G,Prospecting,299678.89,81,2023-07-23,2023-05-18,Upsell,North America,Rep_31,Sales,
+OPP-000005,CUST-000034,PROD-000013,Company H34 - Product M,Closed Lost,882022.62,98,2024-12-05,2024-10-22,Cross-sell,APAC,Rep_34,Partner,Competitor A
+OPP-000006,CUST-000236,PROD-000012,Company B236 - Product L,Negotiation,493355.28,66,2025-02-06,2025-01-04,Renewal,APAC,Rep_16,Sales,
+OPP-000007,CUST-000746,PROD-000006,Company R746 - Product F,Qualification,674193.33,76,2025-02-23,2024-10-07,Upsell,APAC,Rep_26,Marketing,Competitor A
+OPP-000008,CUST-000787,PROD-000003,Company G787 - Product C,Qualification,884448.04,29,2023-04-15,2023-03-10,New Business,EMEA,Rep_28,Referral,Competitor C
+OPP-000009,CUST-000177,PROD-000015,Company U177 - Product O,Proposal,135235.18,42,2024-11-15,2024-05-30,Upsell,Latin America,Rep_41,Sales,Competitor B
+OPP-000010,CUST-000484,PROD-000004,Company P484 - Product D,Negotiation,678938.14,58,2024-04-13,2024-03-09,Upsell,Latin America,Rep_42,Referral,
+OPP-000011,CUST-000140,PROD-000005,Company J140 - Product E,Negotiation,726543.84,91,2024-04-11,2024-02-20,Upsell,Latin America,Rep_20,Web,Competitor A
+OPP-000012,CUST-000914,PROD-000003,Company D914 - Product C,Proposal,643713.84,42,2025-09-02,2025-05-22,Renewal,APAC,Rep_44,Referral,Competitor B
+OPP-000013,CUST-000511,PROD-000013,Company Q511 - Product M,Closed Won,985517.96,63,2023-05-06,2023-01-25,New Business,North America,Rep_38,Marketing,Competitor B
+OPP-000014,CUST-000223,PROD-000015,Company O223 - Product O,Proposal,625415.32,21,2023-11-20,2023-05-30,Upsell,APAC,Rep_9,Partner,Competitor A
+OPP-000015,CUST-000143,PROD-000013,Company M143 - Product M,Closed Lost,969432.16,10,2025-06-12,2025-04-24,New Business,EMEA,Rep_7,Partner,Competitor C
+OPP-000016,CUST-000395,PROD-000009,Company E395 - Product I,Prospecting,480441.51,77,2024-03-21,2024-02-05,New Business,EMEA,Rep_50,Sales,
+OPP-000017,CUST-000119,PROD-000012,Company O119 - Product L,Closed Won,581306.3,14,2025-05-04,2025-01-21,Cross-sell,Latin America,Rep_29,Marketing,Competitor A
+OPP-000018,CUST-000470,PROD-000004,Company B470 - Product D,Prospecting,279219.86,18,2024-02-12,2023-10-16,Renewal,North America,Rep_36,Web,
+OPP-000019,CUST-000451,PROD-000003,Company I451 - Product C,Prospecting,690232.54,52,2024-03-02,2023-12-15,New Business,North America,Rep_48,Partner,
+OPP-000020,CUST-000399,PROD-000017,Company I399 - Product Q,Qualification,482538.7,68,2025-02-11,2024-10-23,Cross-sell,APAC,Rep_9,Referral,Competitor A
+OPP-000021,CUST-000903,PROD-000007,Company S903 - Product G,Prospecting,628220.75,11,2023-09-15,2023-07-21,Renewal,North America,Rep_38,Referral,Competitor C
+OPP-000022,CUST-000011,PROD-000007,Company K11 - Product G,Proposal,452904.89,72,2024-06-19,2024-01-26,Cross-sell,North America,Rep_37,Marketing,Competitor A
+OPP-000023,CUST-000171,PROD-000003,Company O171 - Product C,Closed Won,46829.75,69,2025-11-07,2025-09-12,Renewal,North America,Rep_5,Referral,
+OPP-000024,CUST-000809,PROD-000001,Company C809 - Product A,Closed Won,649379.66,36,2025-05-13,2024-12-11,New Business,North America,Rep_6,Web,Competitor A
+OPP-000025,CUST-000313,PROD-000001,Company A313 - Product A,Proposal,520797.32,59,2023-09-05,2023-04-20,Renewal,EMEA,Rep_49,Marketing,Competitor A
+OPP-000026,CUST-000324,PROD-000007,Company L324 - Product G,Closed Won,475322.58,59,2024-12-25,2024-08-05,Cross-sell,North America,Rep_31,Referral,
+OPP-000027,CUST-000520,PROD-000018,Company Z520 - Product R,Closed Lost,207214.16,62,2023-09-10,2023-07-26,Renewal,North America,Rep_44,Marketing,Competitor C
+OPP-000028,CUST-000453,PROD-000004,Company K453 - Product D,Prospecting,339511.06,78,2025-08-26,2025-06-04,Cross-sell,EMEA,Rep_21,Sales,Competitor C
+OPP-000029,CUST-000589,PROD-000007,Company Q589 - Product G,Closed Lost,543727.34,85,2024-04-29,2024-01-01,Renewal,North America,Rep_38,Partner,
+OPP-000030,CUST-000598,PROD-000003,Company Z598 - Product C,Qualification,549978.01,41,2025-04-25,2024-12-23,Upsell,EMEA,Rep_50,Sales,
+OPP-000031,CUST-000350,PROD-000011,Company L350 - Product K,Closed Won,772759.09,75,2025-01-12,2024-11-02,Cross-sell,APAC,Rep_25,Sales,
+OPP-000032,CUST-000746,PROD-000001,Company R746 - Product A,Closed Lost,150606.01,69,2024-07-16,2024-02-14,Cross-sell,APAC,Rep_26,Referral,Competitor A
+OPP-000033,CUST-000023,PROD-000009,Company W23 - Product I,Closed Lost,336948.37,44,2023-07-26,2023-03-10,Renewal,EMEA,Rep_36,Referral,
+OPP-000034,CUST-000402,PROD-000016,Company L402 - Product P,Qualification,14257.46,35,2024-10-12,2024-09-11,Upsell,EMEA,Rep_29,Referral,Competitor C
+OPP-000035,CUST-000771,PROD-000013,Company Q771 - Product M,Qualification,901940.64,69,2023-10-12,2023-07-29,Renewal,APAC,Rep_39,Web,
+OPP-000036,CUST-000970,PROD-000013,Company H970 - Product M,Closed Won,813007.84,38,2024-12-02,2024-08-29,Cross-sell,North America,Rep_33,Marketing,Competitor C
+OPP-000037,CUST-000200,PROD-000017,Company R200 - Product Q,Closed Lost,713019.18,31,2025-07-30,2025-04-10,Upsell,North America,Rep_16,Referral,Competitor C
+OPP-000038,CUST-000657,PROD-000008,Company G657 - Product H,Proposal,432204.41,40,2025-09-24,2025-08-24,Renewal,North America,Rep_43,Sales,Competitor A
+OPP-000039,CUST-000399,PROD-000011,Company I399 - Product K,Closed Won,924619.12,26,2024-08-03,2024-07-02,Renewal,APAC,Rep_9,Sales,
+OPP-000040,CUST-000333,PROD-000014,Company U333 - Product N,Closed Lost,846165.01,71,2025-11-02,2025-06-04,Renewal,Latin America,Rep_24,Web,Competitor A
+OPP-000041,CUST-000328,PROD-000015,Company P328 - Product O,Closed Won,299564.52,50,2023-07-05,2023-05-04,Renewal,Latin America,Rep_19,Referral,
+OPP-000042,CUST-000276,PROD-000016,Company P276 - Product P,Prospecting,782430.43,17,2023-08-24,2023-07-23,Renewal,North America,Rep_29,Marketing,Competitor B
+OPP-000043,CUST-000759,PROD-000008,Company E759 - Product H,Prospecting,829007.53,45,2023-05-21,2023-03-16,Upsell,North America,Rep_32,Partner,Competitor C
+OPP-000044,CUST-000650,PROD-000002,Company Z650 - Product B,Qualification,889563.5,16,2024-09-11,2024-05-15,Renewal,APAC,Rep_3,Web,
+OPP-000045,CUST-000240,PROD-000015,Company F240 - Product O,Closed Won,835876.47,64,2023-06-06,2023-04-07,Renewal,APAC,Rep_7,Marketing,
+OPP-000046,CUST-000540,PROD-000014,Company T540 - Product N,Closed Lost,613814.76,54,2024-05-20,2024-01-09,Renewal,North America,Rep_49,Web,
+OPP-000047,CUST-000941,PROD-000016,Company E941 - Product P,Prospecting,611183.1,97,2024-03-05,2023-10-31,Upsell,APAC,Rep_14,Sales,Competitor C
+OPP-000048,CUST-000477,PROD-000004,Company I477 - Product D,Proposal,25916.99,88,2025-07-09,2025-03-08,Upsell,Latin America,Rep_26,Sales,Competitor C
+OPP-000049,CUST-000663,PROD-000001,Company M663 - Product A,Qualification,986549.41,58,2025-12-26,2025-08-25,Upsell,APAC,Rep_23,Web,
+OPP-000050,CUST-000184,PROD-000011,Company B184 - Product K,Closed Lost,190475.98,21,2024-01-19,2023-07-25,New Business,APAC,Rep_7,Partner,Competitor B
+OPP-000051,CUST-000576,PROD-000008,Company D576 - Product H,Closed Lost,23152.34,12,2025-01-30,2024-09-30,Cross-sell,Latin America,Rep_6,Web,Competitor B
+OPP-000052,CUST-000296,PROD-000017,Company J296 - Product Q,Prospecting,764640.41,52,2024-08-10,2024-03-07,New Business,EMEA,Rep_45,Marketing,Competitor C
+OPP-000053,CUST-000234,PROD-000002,Company Z234 - Product B,Closed Lost,705078.02,15,2023-03-27,2023-02-08,Renewal,EMEA,Rep_22,Sales,
+OPP-000054,CUST-000883,PROD-000016,Company Y883 - Product P,Prospecting,508880.17,27,2023-05-22,2023-01-10,Cross-sell,EMEA,Rep_15,Referral,
+OPP-000055,CUST-000193,PROD-000006,Company K193 - Product F,Qualification,672730.39,69,2025-04-30,2025-01-04,Renewal,Latin America,Rep_27,Referral,Competitor B
+OPP-000056,CUST-000631,PROD-000009,Company G631 - Product I,Proposal,296132.16,74,2023-11-04,2023-08-14,Cross-sell,North America,Rep_47,Web,Competitor A
+OPP-000057,CUST-000239,PROD-000015,Company E239 - Product O,Qualification,116718.98,83,2025-01-17,2024-09-06,Renewal,North America,Rep_23,Referral,Competitor A
+OPP-000058,CUST-000146,PROD-000016,Company P146 - Product P,Proposal,390559.86,100,2025-09-23,2025-04-17,Renewal,North America,Rep_15,Web,Competitor C
+OPP-000059,CUST-000678,PROD-000018,Company B678 - Product R,Qualification,814189.91,12,2025-02-17,2024-11-26,New Business,North America,Rep_14,Web,Competitor B
+OPP-000060,CUST-000303,PROD-000018,Company Q303 - Product R,Closed Lost,413591.47,56,2025-06-22,2025-04-16,Upsell,North America,Rep_43,Partner,
+OPP-000061,CUST-000269,PROD-000010,Company I269 - Product J,Proposal,271230.94,85,2024-09-15,2024-07-05,Renewal,Latin America,Rep_16,Sales,Competitor C
+OPP-000062,CUST-000668,PROD-000014,Company R668 - Product N,Prospecting,812735.56,98,2023-03-10,2023-01-03,New Business,North America,Rep_10,Referral,
+OPP-000063,CUST-000640,PROD-000005,Company P640 - Product E,Prospecting,95497.09,95,2025-03-17,2024-11-11,New Business,Latin America,Rep_45,Partner,Competitor A
+OPP-000064,CUST-000129,PROD-000011,Company Y129 - Product K,Prospecting,563883.56,53,2024-12-05,2024-08-26,Upsell,APAC,Rep_13,Sales,
+OPP-000065,CUST-000298,PROD-000007,Company L298 - Product G,Prospecting,406637.95,93,2025-09-06,2025-06-17,New Business,APAC,Rep_30,Sales,Competitor B
+OPP-000066,CUST-000152,PROD-000016,Company V152 - Product P,Negotiation,846565.59,37,2024-03-30,2023-11-24,Upsell,Latin America,Rep_10,Marketing,Competitor A
+OPP-000067,CUST-000540,PROD-000003,Company T540 - Product C,Prospecting,66295.78,14,2026-01-13,2025-07-17,New Business,North America,Rep_49,Referral,
+OPP-000068,CUST-000284,PROD-000016,Company X284 - Product P,Qualification,75306.83,66,2025-02-04,2024-08-25,New Business,EMEA,Rep_13,Marketing,Competitor C
+OPP-000069,CUST-000776,PROD-000011,Company V776 - Product K,Closed Won,967504.76,32,2025-11-04,2025-05-24,Upsell,EMEA,Rep_34,Partner,Competitor C
+OPP-000070,CUST-000042,PROD-000002,Company P42 - Product B,Proposal,548317.58,86,2023-05-23,2023-03-08,New Business,APAC,Rep_41,Referral,Competitor B
+OPP-000071,CUST-000781,PROD-000009,Company A781 - Product I,Proposal,709214.35,91,2023-07-13,2023-02-20,Renewal,APAC,Rep_2,Web,Competitor A
+OPP-000072,CUST-000482,PROD-000009,Company N482 - Product I,Negotiation,399969.03,78,2023-10-12,2023-09-06,New Business,APAC,Rep_15,Sales,Competitor B
+OPP-000073,CUST-000570,PROD-000007,Company X570 - Product G,Closed Lost,434798.46,18,2025-03-20,2024-11-21,Cross-sell,EMEA,Rep_15,Web,Competitor C
+OPP-000074,CUST-000305,PROD-000007,Company S305 - Product G,Negotiation,848336.14,54,2025-05-23,2025-02-26,New Business,APAC,Rep_35,Marketing,Competitor A
+OPP-000075,CUST-000567,PROD-000017,Company U567 - Product Q,Proposal,684071.85,37,2025-12-30,2025-09-29,New Business,North America,Rep_12,Referral,
+OPP-000076,CUST-000569,PROD-000015,Company W569 - Product O,Qualification,608613.68,89,2024-10-29,2024-05-24,Cross-sell,EMEA,Rep_12,Sales,Competitor A
+OPP-000077,CUST-000667,PROD-000015,Company Q667 - Product O,Closed Won,987561.08,49,2024-09-28,2024-07-25,Renewal,Latin America,Rep_39,Referral,Competitor B
+OPP-000078,CUST-000357,PROD-000009,Company S357 - Product I,Negotiation,736112.07,55,2024-06-06,2024-04-30,New Business,EMEA,Rep_18,Web,
+OPP-000079,CUST-000352,PROD-000018,Company N352 - Product R,Negotiation,693178.32,22,2024-08-20,2024-03-13,Renewal,EMEA,Rep_19,Web,
+OPP-000080,CUST-000197,PROD-000017,Company O197 - Product Q,Qualification,661620.03,79,2025-09-02,2025-06-09,Renewal,APAC,Rep_2,Sales,
+OPP-000081,CUST-000169,PROD-000016,Company M169 - Product P,Closed Won,906991.54,95,2024-11-09,2024-07-11,New Business,EMEA,Rep_32,Marketing,
+OPP-000082,CUST-000226,PROD-000011,Company R226 - Product K,Closed Lost,169850.37,61,2025-09-01,2025-06-19,Upsell,North America,Rep_30,Sales,
+OPP-000083,CUST-000615,PROD-000007,Company Q615 - Product G,Negotiation,449414.69,98,2024-08-26,2024-03-18,New Business,APAC,Rep_18,Referral,Competitor B
+OPP-000084,CUST-000724,PROD-000008,Company V724 - Product H,Closed Lost,403111.23,60,2024-07-25,2024-04-03,Upsell,EMEA,Rep_35,Sales,
+OPP-000085,CUST-000515,PROD-000002,Company U515 - Product B,Closed Lost,606204.13,78,2025-08-26,2025-07-27,Renewal,APAC,Rep_9,Partner,
+OPP-000086,CUST-000797,PROD-000014,Company Q797 - Product N,Qualification,810339.26,82,2025-02-03,2024-08-20,New Business,Latin America,Rep_29,Sales,Competitor C
+OPP-000087,CUST-000182,PROD-000018,Company Z182 - Product R,Closed Won,481854.98,69,2024-02-22,2023-12-16,Renewal,Latin America,Rep_12,Partner,
+OPP-000088,CUST-000276,PROD-000018,Company P276 - Product R,Negotiation,386380.11,13,2025-10-23,2025-05-06,Upsell,North America,Rep_29,Referral,Competitor C
+OPP-000089,CUST-000256,PROD-000008,Company V256 - Product H,Closed Lost,536879.08,50,2025-10-16,2025-09-09,New Business,North America,Rep_50,Partner,Competitor A
+OPP-000090,CUST-000754,PROD-000018,Company Z754 - Product R,Negotiation,118266.84,59,2025-06-24,2025-03-02,Renewal,APAC,Rep_26,Referral,
+OPP-000091,CUST-000184,PROD-000016,Company B184 - Product P,Closed Won,79271.31,27,2023-11-09,2023-07-12,Renewal,APAC,Rep_7,Partner,Competitor A
+OPP-000092,CUST-000833,PROD-000008,Company A833 - Product H,Closed Won,446987.18,92,2024-08-29,2024-07-01,Cross-sell,North America,Rep_16,Referral,
+OPP-000093,CUST-000264,PROD-000016,Company D264 - Product P,Prospecting,874307.09,56,2023-03-23,2023-02-10,New Business,EMEA,Rep_39,Referral,Competitor B
+OPP-000094,CUST-000308,PROD-000015,Company V308 - Product O,Proposal,598422.19,91,2023-12-11,2023-09-26,Renewal,APAC,Rep_26,Referral,
+OPP-000095,CUST-000439,PROD-000001,Company W439 - Product A,Closed Lost,468424.98,16,2024-03-22,2023-12-24,New Business,North America,Rep_43,Sales,
+OPP-000096,CUST-000394,PROD-000009,Company D394 - Product I,Prospecting,132256.28,29,2023-11-14,2023-07-20,New Business,North America,Rep_19,Marketing,
+OPP-000097,CUST-000270,PROD-000009,Company J270 - Product I,Closed Lost,45767.63,45,2024-04-18,2024-02-05,New Business,APAC,Rep_45,Web,
+OPP-000098,CUST-000552,PROD-000016,Company F552 - Product P,Qualification,995508.95,30,2024-03-16,2023-12-19,Upsell,APAC,Rep_6,Web,
+OPP-000099,CUST-000045,PROD-000004,Company S45 - Product D,Prospecting,637648.04,12,2023-12-10,2023-08-04,Upsell,North America,Rep_24,Marketing,Competitor A
+OPP-000100,CUST-000232,PROD-000005,Company X232 - Product E,Negotiation,642549.27,12,2025-05-15,2025-03-12,Cross-sell,EMEA,Rep_32,Sales,
+OPP-000101,CUST-000088,PROD-000005,Company J88 - Product E,Closed Lost,429239.79,43,2025-04-22,2024-10-28,Renewal,APAC,Rep_23,Partner,Competitor B
+OPP-000102,CUST-000373,PROD-000012,Company I373 - Product L,Closed Lost,638705.78,13,2024-08-16,2024-04-25,Renewal,North America,Rep_29,Marketing,Competitor C
+OPP-000103,CUST-000524,PROD-000017,Company D524 - Product Q,Negotiation,946576.71,86,2024-03-12,2023-11-09,Renewal,APAC,Rep_12,Web,Competitor C
+OPP-000104,CUST-000486,PROD-000011,Company R486 - Product K,Closed Lost,386625.12,73,2023-05-14,2023-02-20,Cross-sell,EMEA,Rep_43,Partner,Competitor C
+OPP-000105,CUST-000723,PROD-000004,Company U723 - Product D,Proposal,226681.11,52,2025-10-05,2025-08-20,Cross-sell,EMEA,Rep_31,Web,
+OPP-000106,CUST-000042,PROD-000013,Company P42 - Product M,Closed Won,975431.29,94,2025-11-20,2025-07-06,Cross-sell,APAC,Rep_41,Referral,Competitor B
+OPP-000107,CUST-000227,PROD-000002,Company S227 - Product B,Closed Lost,873855.1,74,2025-02-01,2024-11-13,Cross-sell,EMEA,Rep_4,Referral,Competitor B
+OPP-000108,CUST-000897,PROD-000003,Company M897 - Product C,Proposal,658365.0,64,2025-01-17,2024-11-08,Renewal,Latin America,Rep_50,Web,Competitor B
+OPP-000109,CUST-000824,PROD-000001,Company R824 - Product A,Negotiation,831571.69,76,2024-07-08,2024-03-20,Upsell,Latin America,Rep_1,Sales,Competitor A
+OPP-000110,CUST-000432,PROD-000003,Company P432 - Product C,Closed Lost,813290.0,70,2025-10-01,2025-05-31,Renewal,EMEA,Rep_3,Marketing,
+OPP-000111,CUST-000845,PROD-000001,Company M845 - Product A,Closed Won,297820.41,30,2025-11-22,2025-07-11,Upsell,EMEA,Rep_36,Partner,Competitor C
+OPP-000112,CUST-000849,PROD-000007,Company Q849 - Product G,Closed Lost,436317.33,86,2024-01-01,2023-09-07,New Business,Latin America,Rep_9,Partner,Competitor A
+OPP-000113,CUST-000709,PROD-000018,Company G709 - Product R,Closed Lost,792541.11,50,2025-04-06,2025-02-20,Cross-sell,EMEA,Rep_6,Marketing,
+OPP-000114,CUST-000753,PROD-000009,Company Y753 - Product I,Closed Won,276448.53,69,2023-09-09,2023-06-29,New Business,EMEA,Rep_44,Marketing,
+OPP-000115,CUST-000970,PROD-000005,Company H970 - Product E,Proposal,180493.18,87,2023-10-09,2023-07-21,New Business,North America,Rep_33,Web,
+OPP-000116,CUST-000478,PROD-000015,Company J478 - Product O,Closed Lost,495122.14,28,2023-12-09,2023-08-21,Cross-sell,Latin America,Rep_1,Partner,Competitor A
+OPP-000117,CUST-000741,PROD-000014,Company M741 - Product N,Closed Won,926122.36,18,2024-01-20,2023-09-05,Upsell,Latin America,Rep_45,Partner,
+OPP-000118,CUST-000745,PROD-000013,Company Q745 - Product M,Prospecting,360803.88,96,2024-02-27,2023-12-26,New Business,APAC,Rep_46,Partner,Competitor C
+OPP-000119,CUST-000339,PROD-000004,Company A339 - Product D,Closed Lost,193141.5,81,2023-03-19,2023-01-24,Cross-sell,Latin America,Rep_20,Sales,Competitor C
+OPP-000120,CUST-000773,PROD-000017,Company S773 - Product Q,Prospecting,147876.48,69,2023-11-26,2023-08-21,Upsell,North America,Rep_10,Sales,
+OPP-000121,CUST-000970,PROD-000012,Company H970 - Product L,Proposal,196209.8,22,2024-11-24,2024-09-27,Upsell,North America,Rep_33,Sales,Competitor C
+OPP-000122,CUST-000375,PROD-000006,Company K375 - Product F,Prospecting,282023.52,31,2024-12-22,2024-08-12,Cross-sell,Latin America,Rep_16,Sales,
+OPP-000123,CUST-000014,PROD-000001,Company N14 - Product A,Proposal,157497.26,65,2025-08-21,2025-04-16,Upsell,North America,Rep_44,Partner,Competitor A
+OPP-000124,CUST-000155,PROD-000009,Company Y155 - Product I,Prospecting,528336.86,73,2025-03-06,2024-12-09,Upsell,Latin America,Rep_21,Referral,Competitor C
+OPP-000125,CUST-000097,PROD-000004,Company S97 - Product D,Proposal,348799.3,20,2024-03-28,2023-12-23,Renewal,APAC,Rep_7,Marketing,
+OPP-000126,CUST-000404,PROD-000009,Company N404 - Product I,Closed Lost,90013.46,39,2025-08-13,2025-04-23,New Business,North America,Rep_3,Marketing,
+OPP-000127,CUST-000399,PROD-000008,Company I399 - Product H,Proposal,350579.83,55,2025-03-02,2024-11-12,Upsell,APAC,Rep_9,Web,Competitor A
+OPP-000128,CUST-000790,PROD-000007,Company J790 - Product G,Negotiation,144355.33,33,2026-01-19,2025-08-03,New Business,APAC,Rep_33,Web,
+OPP-000129,CUST-000478,PROD-000006,Company J478 - Product F,Qualification,447839.24,59,2023-09-16,2023-07-24,Upsell,Latin America,Rep_1,Marketing,Competitor C
+OPP-000130,CUST-000351,PROD-000006,Company M351 - Product F,Negotiation,380806.28,64,2025-07-11,2025-04-30,Renewal,Latin America,Rep_6,Partner,Competitor A
+OPP-000131,CUST-000916,PROD-000015,Company F916 - Product O,Negotiation,38459.88,42,2023-12-08,2023-06-27,New Business,EMEA,Rep_10,Referral,
+OPP-000132,CUST-000900,PROD-000018,Company P900 - Product R,Qualification,23974.45,89,2024-03-22,2024-02-06,Renewal,Latin America,Rep_23,Referral,Competitor B
+OPP-000133,CUST-000382,PROD-000005,Company R382 - Product E,Closed Won,833935.5,40,2023-05-01,2023-03-27,Upsell,APAC,Rep_14,Referral,
+OPP-000134,CUST-000018,PROD-000009,Company R18 - Product I,Prospecting,441468.33,73,2024-01-25,2023-12-11,Cross-sell,EMEA,Rep_34,Partner,Competitor A
+OPP-000135,CUST-000133,PROD-000004,Company C133 - Product D,Proposal,723892.54,85,2025-06-16,2024-12-30,Upsell,EMEA,Rep_3,Sales,
+OPP-000136,CUST-000984,PROD-000008,Company V984 - Product H,Qualification,679931.78,22,2024-06-09,2024-03-27,Upsell,Latin America,Rep_42,Partner,Competitor B
+OPP-000137,CUST-000714,PROD-000013,Company L714 - Product M,Closed Won,920560.25,77,2025-06-05,2025-04-27,Cross-sell,Latin America,Rep_9,Referral,Competitor C
+OPP-000138,CUST-000601,PROD-000010,Company C601 - Product J,Prospecting,660994.99,93,2025-07-27,2025-05-20,New Business,Latin America,Rep_28,Sales,Competitor C
+OPP-000139,CUST-000759,PROD-000008,Company E759 - Product H,Qualification,406730.48,56,2024-10-25,2024-09-14,Upsell,North America,Rep_32,Referral,Competitor B
+OPP-000140,CUST-000064,PROD-000013,Company L64 - Product M,Closed Lost,245170.97,41,2025-06-18,2025-03-15,Upsell,EMEA,Rep_47,Web,Competitor C
+OPP-000141,CUST-000253,PROD-000018,Company S253 - Product R,Proposal,447147.78,69,2025-05-12,2025-02-24,New Business,APAC,Rep_23,Marketing,Competitor C
+OPP-000142,CUST-000796,PROD-000008,Company P796 - Product H,Closed Won,34040.03,46,2024-01-31,2023-10-27,Upsell,EMEA,Rep_38,Marketing,
+OPP-000143,CUST-000420,PROD-000014,Company D420 - Product N,Closed Lost,211092.04,48,2025-08-22,2025-05-21,Renewal,EMEA,Rep_12,Referral,Competitor C
+OPP-000144,CUST-000925,PROD-000006,Company O925 - Product F,Prospecting,887732.65,97,2023-10-28,2023-08-19,Renewal,Latin America,Rep_10,Web,Competitor A
+OPP-000145,CUST-000709,PROD-000003,Company G709 - Product C,Closed Lost,116131.03,12,2025-04-08,2024-11-25,Upsell,EMEA,Rep_6,Referral,Competitor A
+OPP-000146,CUST-000882,PROD-000018,Company X882 - Product R,Closed Lost,936766.36,87,2025-10-30,2025-08-29,Renewal,EMEA,Rep_12,Partner,Competitor A
+OPP-000147,CUST-000437,PROD-000013,Company U437 - Product M,Negotiation,221493.17,30,2025-12-27,2025-07-20,New Business,EMEA,Rep_19,Web,Competitor B
+OPP-000148,CUST-000033,PROD-000017,Company G33 - Product Q,Closed Won,92547.41,16,2025-05-09,2024-12-02,Renewal,EMEA,Rep_38,Sales,
+OPP-000149,CUST-000280,PROD-000006,Company T280 - Product F,Qualification,106970.72,80,2023-09-10,2023-06-09,Renewal,APAC,Rep_47,Referral,Competitor A
+OPP-000150,CUST-000339,PROD-000005,Company A339 - Product E,Proposal,448227.05,96,2025-08-10,2025-03-16,Renewal,Latin America,Rep_20,Web,Competitor A
+OPP-000151,CUST-000492,PROD-000012,Company X492 - Product L,Prospecting,365395.01,82,2025-08-10,2025-03-02,Renewal,APAC,Rep_12,Web,Competitor A
+OPP-000152,CUST-000588,PROD-000016,Company P588 - Product P,Closed Lost,299097.34,86,2024-05-17,2024-03-28,Cross-sell,Latin America,Rep_34,Sales,Competitor A
+OPP-000153,CUST-000911,PROD-000008,Company A911 - Product H,Proposal,324618.06,11,2023-12-02,2023-09-18,New Business,Latin America,Rep_17,Sales,
+OPP-000154,CUST-000439,PROD-000012,Company W439 - Product L,Closed Won,251595.46,73,2025-07-21,2025-01-30,New Business,North America,Rep_43,Sales,Competitor C
+OPP-000155,CUST-000090,PROD-000017,Company L90 - Product Q,Proposal,881692.78,31,2025-02-02,2024-10-15,Renewal,APAC,Rep_31,Web,
+OPP-000156,CUST-000831,PROD-000007,Company Y831 - Product G,Qualification,652088.28,16,2023-05-28,2023-02-18,New Business,EMEA,Rep_44,Referral,Competitor B
+OPP-000157,CUST-000149,PROD-000002,Company S149 - Product B,Negotiation,687995.66,68,2024-02-03,2023-10-07,Cross-sell,North America,Rep_5,Marketing,
+OPP-000158,CUST-000129,PROD-000011,Company Y129 - Product K,Closed Lost,154733.7,64,2025-06-15,2024-12-29,New Business,APAC,Rep_13,Marketing,Competitor A
+OPP-000159,CUST-000567,PROD-000012,Company U567 - Product L,Qualification,831803.46,95,2025-08-30,2025-06-28,Renewal,North America,Rep_12,Sales,Competitor A
+OPP-000160,CUST-000361,PROD-000009,Company W361 - Product I,Proposal,109127.4,41,2023-05-31,2023-02-19,Renewal,EMEA,Rep_5,Marketing,Competitor A
+OPP-000161,CUST-000340,PROD-000005,Company B340 - Product E,Proposal,168086.25,10,2024-09-05,2024-07-12,Upsell,North America,Rep_48,Referral,
+OPP-000162,CUST-000010,PROD-000005,Company J10 - Product E,Proposal,798133.29,32,2023-07-31,2023-06-23,Upsell,APAC,Rep_50,Marketing,
+OPP-000163,CUST-000122,PROD-000003,Company R122 - Product C,Prospecting,726428.18,91,2024-11-01,2024-06-19,Upsell,APAC,Rep_41,Web,Competitor A
+OPP-000164,CUST-000294,PROD-000012,Company H294 - Product L,Closed Won,569686.88,95,2023-10-23,2023-09-01,Renewal,APAC,Rep_44,Sales,
+OPP-000165,CUST-000063,PROD-000001,Company K63 - Product A,Prospecting,471198.07,75,2024-12-23,2024-09-06,Renewal,Latin America,Rep_16,Web,
+OPP-000166,CUST-000912,PROD-000012,Company B912 - Product L,Prospecting,52314.33,55,2023-09-09,2023-07-08,New Business,EMEA,Rep_43,Partner,Competitor A
+OPP-000167,CUST-000549,PROD-000003,Company C549 - Product C,Prospecting,966858.36,11,2025-08-03,2025-03-10,New Business,Latin America,Rep_24,Web,Competitor B
+OPP-000168,CUST-000212,PROD-000009,Company D212 - Product I,Closed Won,371532.01,13,2024-03-17,2023-10-03,Cross-sell,Latin America,Rep_21,Marketing,Competitor B
+OPP-000169,CUST-000253,PROD-000010,Company S253 - Product J,Negotiation,16355.56,57,2023-09-29,2023-08-10,New Business,APAC,Rep_23,Referral,Competitor A
+OPP-000170,CUST-000974,PROD-000011,Company L974 - Product K,Proposal,800562.06,48,2025-01-29,2024-09-29,Cross-sell,EMEA,Rep_44,Partner,
+OPP-000171,CUST-000266,PROD-000009,Company F266 - Product I,Negotiation,150350.41,60,2025-01-08,2024-09-12,Cross-sell,North America,Rep_17,Web,Competitor A
+OPP-000172,CUST-000972,PROD-000005,Company J972 - Product E,Qualification,458984.33,73,2024-10-26,2024-09-06,Upsell,North America,Rep_3,Web,
+OPP-000173,CUST-000462,PROD-000006,Company T462 - Product F,Closed Lost,812772.29,98,2025-06-28,2025-01-21,Renewal,Latin America,Rep_39,Sales,
+OPP-000174,CUST-000585,PROD-000017,Company M585 - Product Q,Closed Won,360831.65,23,2023-11-07,2023-09-04,Renewal,Latin America,Rep_12,Web,
+OPP-000175,CUST-000820,PROD-000018,Company N820 - Product R,Qualification,940556.07,57,2024-11-10,2024-07-10,Renewal,EMEA,Rep_30,Sales,
+OPP-000176,CUST-000567,PROD-000016,Company U567 - Product P,Qualification,549025.9,77,2023-09-10,2023-04-11,Cross-sell,North America,Rep_12,Marketing,Competitor B
+OPP-000177,CUST-000443,PROD-000016,Company A443 - Product P,Qualification,225241.25,93,2025-04-29,2025-01-16,Renewal,North America,Rep_31,Marketing,Competitor C
+OPP-000178,CUST-000943,PROD-000013,Company G943 - Product M,Negotiation,886888.89,32,2024-04-05,2023-11-01,Renewal,APAC,Rep_44,Sales,Competitor B
+OPP-000179,CUST-000494,PROD-000017,Company Z494 - Product Q,Proposal,951913.79,24,2023-02-18,2023-01-01,Renewal,EMEA,Rep_40,Web,Competitor A
+OPP-000180,CUST-000817,PROD-000016,Company K817 - Product P,Proposal,182374.63,95,2025-01-26,2024-12-01,Cross-sell,EMEA,Rep_5,Sales,Competitor C
+OPP-000181,CUST-000814,PROD-000007,Company H814 - Product G,Qualification,121567.7,60,2024-11-20,2024-06-07,Renewal,Latin America,Rep_12,Sales,
+OPP-000182,CUST-000650,PROD-000003,Company Z650 - Product C,Negotiation,36941.02,42,2024-02-02,2023-09-26,Cross-sell,APAC,Rep_3,Web,
+OPP-000183,CUST-000466,PROD-000010,Company X466 - Product J,Closed Won,393624.19,75,2026-02-27,2025-09-27,New Business,APAC,Rep_16,Sales,
+OPP-000184,CUST-000713,PROD-000003,Company K713 - Product C,Closed Won,781615.6,39,2024-08-17,2024-07-18,New Business,EMEA,Rep_20,Partner,
+OPP-000185,CUST-000039,PROD-000001,Company M39 - Product A,Negotiation,686082.3,92,2023-11-10,2023-08-14,Renewal,EMEA,Rep_5,Sales,Competitor A
+OPP-000186,CUST-000557,PROD-000012,Company K557 - Product L,Proposal,580886.61,33,2025-04-30,2025-02-22,New Business,EMEA,Rep_37,Sales,
+OPP-000187,CUST-000456,PROD-000015,Company N456 - Product O,Prospecting,389468.76,86,2025-11-10,2025-08-15,Cross-sell,North America,Rep_16,Marketing,Competitor A
+OPP-000188,CUST-000691,PROD-000018,Company O691 - Product R,Proposal,59380.78,97,2025-09-23,2025-07-18,New Business,EMEA,Rep_27,Marketing,
+OPP-000189,CUST-000687,PROD-000009,Company K687 - Product I,Qualification,136999.65,30,2024-07-17,2024-04-07,Renewal,Latin America,Rep_44,Marketing,
+OPP-000190,CUST-000285,PROD-000017,Company Y285 - Product Q,Prospecting,96630.06,24,2023-12-08,2023-07-17,Renewal,North America,Rep_7,Marketing,
+OPP-000191,CUST-000493,PROD-000008,Company Y493 - Product H,Closed Lost,453717.59,88,2024-05-20,2023-12-09,Cross-sell,APAC,Rep_49,Referral,
+OPP-000192,CUST-000422,PROD-000005,Company F422 - Product E,Proposal,585818.94,67,2025-08-17,2025-07-04,Cross-sell,APAC,Rep_12,Sales,Competitor B
+OPP-000193,CUST-000981,PROD-000015,Company S981 - Product O,Negotiation,132996.43,45,2023-10-06,2023-04-20,Renewal,EMEA,Rep_7,Partner,
+OPP-000194,CUST-000989,PROD-000017,Company A989 - Product Q,Closed Won,740391.67,80,2024-06-14,2023-12-31,New Business,EMEA,Rep_7,Marketing,
+OPP-000195,CUST-000878,PROD-000010,Company T878 - Product J,Negotiation,219146.72,97,2023-07-08,2023-03-20,Renewal,North America,Rep_12,Sales,Competitor A
+OPP-000196,CUST-000810,PROD-000002,Company D810 - Product B,Qualification,830799.62,31,2024-07-19,2024-02-22,Cross-sell,APAC,Rep_8,Partner,
+OPP-000197,CUST-000887,PROD-000004,Company C887 - Product D,Qualification,747397.95,63,2025-06-12,2025-04-17,Renewal,EMEA,Rep_44,Referral,Competitor C
+OPP-000198,CUST-000324,PROD-000005,Company L324 - Product E,Negotiation,225739.41,81,2025-02-21,2024-09-15,New Business,North America,Rep_31,Marketing,
+OPP-000199,CUST-000430,PROD-000002,Company N430 - Product B,Qualification,530300.17,98,2025-11-03,2025-05-09,New Business,APAC,Rep_29,Web,
+OPP-000200,CUST-000770,PROD-000016,Company P770 - Product P,Qualification,700722.4,24,2025-12-20,2025-09-28,New Business,Latin America,Rep_18,Web,Competitor A
+OPP-000201,CUST-000457,PROD-000016,Company O457 - Product P,Negotiation,354578.42,97,2024-05-24,2024-03-12,New Business,North America,Rep_30,Web,Competitor B
+OPP-000202,CUST-000575,PROD-000001,Company C575 - Product A,Closed Lost,202525.25,25,2025-07-01,2025-04-01,New Business,EMEA,Rep_48,Web,
+OPP-000203,CUST-000305,PROD-000015,Company S305 - Product O,Closed Won,336128.69,84,2025-07-09,2025-05-31,New Business,APAC,Rep_35,Partner,
+OPP-000204,CUST-000318,PROD-000011,Company F318 - Product K,Prospecting,250245.88,96,2025-07-14,2025-05-04,Cross-sell,North America,Rep_6,Partner,Competitor C
+OPP-000205,CUST-000678,PROD-000006,Company B678 - Product F,Proposal,508486.92,53,2024-10-27,2024-06-12,Upsell,North America,Rep_14,Referral,
+OPP-000206,CUST-000864,PROD-000003,Company F864 - Product C,Prospecting,161617.11,45,2024-10-08,2024-07-15,Upsell,Latin America,Rep_47,Sales,Competitor C
+OPP-000207,CUST-000076,PROD-000011,Company X76 - Product K,Proposal,114782.98,44,2025-04-22,2025-03-06,Upsell,North America,Rep_2,Partner,
+OPP-000208,CUST-000630,PROD-000014,Company F630 - Product N,Prospecting,633056.78,42,2025-11-23,2025-06-20,Renewal,EMEA,Rep_35,Sales,Competitor A
+OPP-000209,CUST-000067,PROD-000006,Company O67 - Product F,Closed Lost,991543.13,100,2025-07-05,2025-04-18,Renewal,APAC,Rep_25,Marketing,Competitor A
+OPP-000210,CUST-000008,PROD-000011,Company H8 - Product K,Closed Won,401213.32,83,2025-03-19,2024-12-13,Cross-sell,Latin America,Rep_23,Partner,Competitor A
+OPP-000211,CUST-000392,PROD-000005,Company B392 - Product E,Qualification,726094.61,81,2025-07-27,2025-04-24,Cross-sell,APAC,Rep_4,Sales,Competitor A
+OPP-000212,CUST-000369,PROD-000001,Company E369 - Product A,Negotiation,225451.77,16,2024-02-18,2023-11-18,New Business,North America,Rep_9,Web,
+OPP-000213,CUST-000192,PROD-000011,Company J192 - Product K,Closed Won,664862.75,53,2024-03-26,2024-02-14,Renewal,Latin America,Rep_31,Partner,Competitor C
+OPP-000214,CUST-000499,PROD-000003,Company E499 - Product C,Closed Won,542995.54,27,2025-10-01,2025-06-22,New Business,Latin America,Rep_1,Referral,
+OPP-000215,CUST-000398,PROD-000010,Company H398 - Product J,Qualification,705592.02,68,2025-02-11,2024-09-11,Upsell,Latin America,Rep_15,Partner,Competitor A
+OPP-000216,CUST-000166,PROD-000001,Company J166 - Product A,Negotiation,513140.05,18,2024-05-25,2024-03-04,Upsell,Latin America,Rep_49,Referral,
+OPP-000217,CUST-000946,PROD-000007,Company J946 - Product G,Negotiation,458293.05,71,2023-09-18,2023-07-16,New Business,EMEA,Rep_39,Web,Competitor B
+OPP-000218,CUST-000398,PROD-000008,Company H398 - Product H,Proposal,974874.76,100,2025-03-10,2024-12-24,Cross-sell,Latin America,Rep_15,Sales,Competitor B
+OPP-000219,CUST-000762,PROD-000007,Company H762 - Product G,Qualification,737625.53,44,2024-12-16,2024-10-23,Upsell,EMEA,Rep_47,Marketing,
+OPP-000220,CUST-000788,PROD-000002,Company H788 - Product B,Qualification,192979.22,40,2025-04-10,2024-11-20,Cross-sell,Latin America,Rep_37,Partner,Competitor A
+OPP-000221,CUST-000103,PROD-000001,Company Y103 - Product A,Closed Won,108879.26,49,2023-07-20,2023-04-07,Cross-sell,APAC,Rep_3,Sales,Competitor C
+OPP-000222,CUST-000468,PROD-000014,Company Z468 - Product N,Closed Won,873889.01,44,2025-04-28,2025-02-18,New Business,Latin America,Rep_15,Sales,Competitor C
+OPP-000223,CUST-000860,PROD-000008,Company B860 - Product H,Proposal,17249.64,86,2023-12-25,2023-09-08,Renewal,North America,Rep_30,Web,Competitor C
+OPP-000224,CUST-000421,PROD-000003,Company E421 - Product C,Prospecting,126835.18,75,2025-05-07,2024-12-19,New Business,North America,Rep_34,Partner,
+OPP-000225,CUST-000915,PROD-000017,Company E915 - Product Q,Prospecting,616561.71,83,2024-01-18,2023-10-08,New Business,Latin America,Rep_27,Partner,
+OPP-000226,CUST-000815,PROD-000003,Company I815 - Product C,Qualification,624787.19,89,2024-02-10,2023-12-26,Upsell,Latin America,Rep_47,Web,Competitor A
+OPP-000227,CUST-000910,PROD-000016,Company Z910 - Product P,Proposal,832509.84,27,2024-03-09,2023-11-24,Cross-sell,Latin America,Rep_42,Marketing,
+OPP-000228,CUST-000936,PROD-000013,Company Z936 - Product M,Closed Won,910205.46,32,2023-07-05,2023-02-27,New Business,APAC,Rep_12,Marketing,Competitor A
+OPP-000229,CUST-000132,PROD-000016,Company B132 - Product P,Qualification,325122.99,50,2025-01-26,2024-10-20,Upsell,Latin America,Rep_13,Referral,
+OPP-000230,CUST-000781,PROD-000004,Company A781 - Product D,Prospecting,637831.59,32,2023-09-28,2023-06-29,Renewal,APAC,Rep_2,Web,
+OPP-000231,CUST-000217,PROD-000006,Company I217 - Product F,Closed Won,667325.42,64,2024-06-01,2024-03-19,Upsell,APAC,Rep_29,Referral,Competitor C
+OPP-000232,CUST-000301,PROD-000003,Company O301 - Product C,Qualification,541886.87,21,2024-02-19,2023-08-28,Cross-sell,EMEA,Rep_32,Marketing,Competitor A
+OPP-000233,CUST-000983,PROD-000010,Company U983 - Product J,Closed Won,784611.19,34,2024-11-05,2024-10-02,Upsell,EMEA,Rep_36,Partner,Competitor B
+OPP-000234,CUST-000998,PROD-000009,Company J998 - Product I,Closed Lost,634616.84,29,2024-01-28,2023-10-15,New Business,APAC,Rep_46,Web,
+OPP-000235,CUST-000089,PROD-000008,Company K89 - Product H,Qualification,517263.42,34,2025-02-27,2024-11-20,Renewal,APAC,Rep_8,Sales,Competitor B
+OPP-000236,CUST-000298,PROD-000017,Company L298 - Product Q,Proposal,677800.36,78,2025-07-02,2025-04-05,Upsell,APAC,Rep_30,Partner,Competitor B
+OPP-000237,CUST-000891,PROD-000006,Company G891 - Product F,Proposal,111502.34,77,2024-09-02,2024-04-28,Renewal,Latin America,Rep_33,Referral,Competitor C
+OPP-000238,CUST-000177,PROD-000016,Company U177 - Product P,Prospecting,512653.04,56,2025-05-02,2025-01-19,Upsell,Latin America,Rep_41,Partner,Competitor B
+OPP-000239,CUST-000543,PROD-000016,Company W543 - Product P,Closed Won,184829.1,89,2025-03-19,2025-01-14,Cross-sell,North America,Rep_35,Partner,Competitor A
+OPP-000240,CUST-000239,PROD-000013,Company E239 - Product M,Proposal,212160.4,12,2024-09-29,2024-04-05,Cross-sell,North America,Rep_23,Sales,
+OPP-000241,CUST-000385,PROD-000013,Company U385 - Product M,Closed Won,808891.05,57,2025-01-17,2024-10-10,Renewal,EMEA,Rep_11,Marketing,Competitor B
+OPP-000242,CUST-000741,PROD-000007,Company M741 - Product G,Negotiation,808601.92,87,2024-12-21,2024-08-05,Cross-sell,Latin America,Rep_45,Partner,Competitor B
+OPP-000243,CUST-000588,PROD-000018,Company P588 - Product R,Closed Won,105164.87,70,2024-04-08,2023-11-27,Cross-sell,Latin America,Rep_34,Marketing,Competitor C
+OPP-000244,CUST-000482,PROD-000005,Company N482 - Product E,Prospecting,804542.08,76,2024-07-03,2024-04-13,New Business,APAC,Rep_15,Marketing,
+OPP-000245,CUST-000652,PROD-000006,Company B652 - Product F,Closed Won,346820.73,27,2025-09-14,2025-03-28,Renewal,Latin America,Rep_39,Sales,Competitor C
+OPP-000246,CUST-000816,PROD-000004,Company J816 - Product D,Closed Lost,732428.58,92,2024-02-28,2023-10-19,Renewal,Latin America,Rep_21,Referral,
+OPP-000247,CUST-000959,PROD-000013,Company W959 - Product M,Negotiation,593152.43,88,2024-09-10,2024-03-16,Cross-sell,North America,Rep_30,Web,Competitor A
+OPP-000248,CUST-000438,PROD-000001,Company V438 - Product A,Closed Lost,115426.8,99,2024-03-29,2024-02-23,Renewal,EMEA,Rep_19,Referral,Competitor A
+OPP-000249,CUST-000584,PROD-000001,Company L584 - Product A,Proposal,625013.22,20,2023-05-18,2023-03-29,New Business,North America,Rep_39,Sales,
+OPP-000250,CUST-000006,PROD-000017,Company F6 - Product Q,Closed Lost,933018.75,67,2023-11-19,2023-09-24,Cross-sell,Latin America,Rep_19,Web,
+OPP-000251,CUST-000286,PROD-000011,Company Z286 - Product K,Proposal,424643.02,51,2025-05-29,2025-04-29,Cross-sell,Latin America,Rep_26,Marketing,
+OPP-000252,CUST-000453,PROD-000016,Company K453 - Product P,Closed Won,428153.72,12,2025-03-10,2025-01-15,Renewal,EMEA,Rep_21,Web,Competitor C
+OPP-000253,CUST-000141,PROD-000012,Company K141 - Product L,Closed Won,887950.24,97,2023-12-10,2023-09-25,Upsell,North America,Rep_43,Partner,Competitor B
+OPP-000254,CUST-000545,PROD-000016,Company Y545 - Product P,Proposal,614589.3,91,2026-02-07,2025-09-19,Cross-sell,EMEA,Rep_13,Marketing,Competitor C
+OPP-000255,CUST-000545,PROD-000015,Company Y545 - Product O,Prospecting,649255.88,62,2024-04-10,2023-11-28,Upsell,EMEA,Rep_13,Web,Competitor C
+OPP-000256,CUST-000099,PROD-000002,Company U99 - Product B,Prospecting,144357.28,43,2024-01-29,2023-11-15,Renewal,North America,Rep_19,Marketing,
+OPP-000257,CUST-000668,PROD-000012,Company R668 - Product L,Closed Lost,541688.8,31,2025-08-23,2025-05-01,Renewal,North America,Rep_10,Marketing,Competitor C
+OPP-000258,CUST-000024,PROD-000005,Company X24 - Product E,Prospecting,846039.61,52,2025-10-22,2025-09-08,Upsell,North America,Rep_3,Referral,Competitor C
+OPP-000259,CUST-000898,PROD-000008,Company N898 - Product H,Closed Lost,999002.04,64,2025-08-24,2025-06-11,Renewal,Latin America,Rep_32,Partner,
+OPP-000260,CUST-000253,PROD-000001,Company S253 - Product A,Prospecting,632893.16,41,2025-08-28,2025-03-19,Cross-sell,APAC,Rep_23,Referral,Competitor B
+OPP-000261,CUST-000512,PROD-000004,Company R512 - Product D,Closed Lost,413131.86,81,2025-03-30,2025-02-15,Renewal,Latin America,Rep_48,Sales,Competitor C
+OPP-000262,CUST-000639,PROD-000016,Company O639 - Product P,Proposal,228527.36,20,2024-07-13,2024-06-08,New Business,North America,Rep_18,Sales,
+OPP-000263,CUST-000615,PROD-000014,Company Q615 - Product N,Closed Won,383598.78,52,2024-09-05,2024-07-16,Upsell,APAC,Rep_18,Marketing,Competitor C
+OPP-000264,CUST-000356,PROD-000004,Company R356 - Product D,Closed Won,861057.84,28,2025-03-24,2024-10-20,Renewal,EMEA,Rep_11,Partner,
+OPP-000265,CUST-000078,PROD-000010,Company Z78 - Product J,Negotiation,58284.93,37,2024-05-29,2024-01-21,Cross-sell,APAC,Rep_7,Web,Competitor B
+OPP-000266,CUST-000916,PROD-000003,Company F916 - Product C,Qualification,749884.34,37,2023-05-27,2023-02-22,Cross-sell,EMEA,Rep_10,Partner,Competitor B
+OPP-000267,CUST-000369,PROD-000005,Company E369 - Product E,Closed Won,265583.33,75,2025-02-08,2024-10-05,Upsell,North America,Rep_9,Sales,Competitor A
+OPP-000268,CUST-000636,PROD-000018,Company L636 - Product R,Prospecting,677522.58,29,2024-09-22,2024-07-04,Upsell,EMEA,Rep_14,Partner,
+OPP-000269,CUST-000946,PROD-000016,Company J946 - Product P,Negotiation,97889.5,16,2025-04-19,2024-11-26,Upsell,EMEA,Rep_39,Marketing,
+OPP-000270,CUST-000373,PROD-000013,Company I373 - Product M,Proposal,867723.1,69,2024-04-01,2023-11-05,Renewal,North America,Rep_29,Sales,
+OPP-000271,CUST-000026,PROD-000003,Company Z26 - Product C,Qualification,394242.94,60,2025-11-20,2025-06-30,Cross-sell,EMEA,Rep_43,Marketing,
+OPP-000272,CUST-000413,PROD-000003,Company W413 - Product C,Closed Won,915681.82,87,2025-02-22,2024-09-20,Renewal,Latin America,Rep_25,Partner,
+OPP-000273,CUST-000862,PROD-000006,Company D862 - Product F,Proposal,617142.97,97,2025-12-28,2025-09-16,Upsell,APAC,Rep_42,Partner,
+OPP-000274,CUST-000818,PROD-000008,Company L818 - Product H,Proposal,146953.95,55,2025-03-18,2024-12-30,Renewal,North America,Rep_30,Web,Competitor C
+OPP-000275,CUST-000524,PROD-000010,Company D524 - Product J,Prospecting,962680.04,40,2025-11-16,2025-06-18,Renewal,APAC,Rep_12,Web,
+OPP-000276,CUST-000589,PROD-000016,Company Q589 - Product P,Negotiation,288578.63,43,2024-09-30,2024-07-24,New Business,North America,Rep_38,Web,
+OPP-000277,CUST-000213,PROD-000010,Company E213 - Product J,Proposal,89711.92,86,2024-09-13,2024-04-23,Cross-sell,APAC,Rep_28,Sales,Competitor C
+OPP-000278,CUST-000590,PROD-000003,Company R590 - Product C,Prospecting,323919.15,70,2023-06-23,2023-04-01,Upsell,APAC,Rep_37,Marketing,
+OPP-000279,CUST-000640,PROD-000009,Company P640 - Product I,Prospecting,790878.69,92,2024-10-05,2024-08-25,Cross-sell,Latin America,Rep_45,Marketing,
+OPP-000280,CUST-000335,PROD-000007,Company W335 - Product G,Negotiation,363497.66,74,2024-03-25,2024-01-17,Upsell,APAC,Rep_15,Partner,Competitor C
+OPP-000281,CUST-000351,PROD-000014,Company M351 - Product N,Qualification,530080.41,52,2024-05-04,2023-12-18,Cross-sell,Latin America,Rep_6,Sales,Competitor C
+OPP-000282,CUST-000488,PROD-000012,Company T488 - Product L,Qualification,914650.22,96,2025-11-05,2025-09-03,Renewal,North America,Rep_17,Web,Competitor A
+OPP-000283,CUST-000606,PROD-000004,Company H606 - Product D,Closed Lost,916267.4,95,2024-11-10,2024-10-08,New Business,Latin America,Rep_37,Partner,
+OPP-000284,CUST-000157,PROD-000010,Company A157 - Product J,Closed Won,739493.89,18,2023-03-16,2023-01-30,Upsell,North America,Rep_36,Partner,
+OPP-000285,CUST-000144,PROD-000009,Company N144 - Product I,Closed Lost,368056.38,63,2025-03-31,2025-02-10,New Business,APAC,Rep_8,Referral,
+OPP-000286,CUST-000326,PROD-000018,Company N326 - Product R,Closed Won,595653.68,61,2024-09-15,2024-05-28,New Business,EMEA,Rep_40,Marketing,
+OPP-000287,CUST-000268,PROD-000011,Company H268 - Product K,Closed Lost,887864.15,74,2023-07-09,2023-04-15,Renewal,Latin America,Rep_7,Partner,
+OPP-000288,CUST-000270,PROD-000008,Company J270 - Product H,Prospecting,318839.37,49,2024-08-09,2024-03-12,Renewal,APAC,Rep_45,Web,Competitor A
+OPP-000289,CUST-000233,PROD-000007,Company Y233 - Product G,Closed Lost,766473.65,62,2024-11-13,2024-06-06,Renewal,APAC,Rep_5,Marketing,Competitor C
+OPP-000290,CUST-000849,PROD-000002,Company Q849 - Product B,Negotiation,735746.88,62,2025-05-19,2025-01-07,Renewal,Latin America,Rep_9,Referral,Competitor B
+OPP-000291,CUST-000350,PROD-000011,Company L350 - Product K,Closed Won,25664.49,57,2025-02-28,2024-12-26,Cross-sell,APAC,Rep_25,Web,Competitor C
+OPP-000292,CUST-000467,PROD-000013,Company Y467 - Product M,Closed Won,590305.23,12,2026-03-11,2025-09-28,New Business,APAC,Rep_17,Partner,Competitor B
+OPP-000293,CUST-000528,PROD-000018,Company H528 - Product R,Qualification,694738.87,10,2025-03-05,2024-12-19,Upsell,North America,Rep_33,Web,
+OPP-000294,CUST-000615,PROD-000010,Company Q615 - Product J,Proposal,856811.75,50,2025-10-28,2025-07-19,Renewal,APAC,Rep_18,Sales,
+OPP-000295,CUST-000778,PROD-000004,Company X778 - Product D,Negotiation,182987.83,29,2024-08-17,2024-07-01,Cross-sell,APAC,Rep_7,Marketing,Competitor C
+OPP-000296,CUST-000812,PROD-000013,Company F812 - Product M,Qualification,876913.89,78,2023-07-17,2023-03-10,Renewal,North America,Rep_31,Marketing,Competitor C
+OPP-000297,CUST-000322,PROD-000007,Company J322 - Product G,Proposal,456556.56,41,2024-08-03,2024-05-11,New Business,Latin America,Rep_6,Partner,
+OPP-000298,CUST-000717,PROD-000003,Company O717 - Product C,Closed Lost,505339.29,31,2025-04-26,2025-01-20,Renewal,Latin America,Rep_40,Partner,Competitor C
+OPP-000299,CUST-000317,PROD-000016,Company E317 - Product P,Qualification,12636.13,51,2025-08-02,2025-04-27,Cross-sell,Latin America,Rep_44,Marketing,Competitor A
+OPP-000300,CUST-000962,PROD-000011,Company Z962 - Product K,Closed Lost,875023.7,31,2025-11-05,2025-08-10,Renewal,North America,Rep_50,Sales,Competitor C
+OPP-000301,CUST-000092,PROD-000018,Company N92 - Product R,Closed Won,916618.92,97,2023-08-07,2023-03-26,Renewal,APAC,Rep_9,Partner,
+OPP-000302,CUST-000811,PROD-000001,Company E811 - Product A,Proposal,104556.91,21,2024-07-26,2024-05-05,Cross-sell,APAC,Rep_43,Marketing,
+OPP-000303,CUST-000871,PROD-000018,Company M871 - Product R,Qualification,18576.05,55,2025-05-01,2024-11-21,Cross-sell,EMEA,Rep_36,Sales,Competitor C
+OPP-000304,CUST-000762,PROD-000015,Company H762 - Product O,Negotiation,774721.57,78,2025-08-30,2025-07-11,Cross-sell,EMEA,Rep_47,Sales,
+OPP-000305,CUST-000893,PROD-000009,Company I893 - Product I,Closed Won,778062.0,56,2025-10-27,2025-08-16,New Business,North America,Rep_2,Web,
+OPP-000306,CUST-000201,PROD-000002,Company S201 - Product B,Proposal,350289.93,89,2024-10-22,2024-09-08,Cross-sell,North America,Rep_41,Marketing,Competitor B
+OPP-000307,CUST-000754,PROD-000004,Company Z754 - Product D,Closed Won,979414.06,52,2026-01-21,2025-09-21,New Business,APAC,Rep_26,Web,
+OPP-000308,CUST-000154,PROD-000012,Company X154 - Product L,Closed Won,186036.38,78,2024-03-11,2023-12-20,New Business,Latin America,Rep_15,Referral,Competitor B
+OPP-000309,CUST-000887,PROD-000009,Company C887 - Product I,Closed Won,764582.56,83,2024-01-07,2023-11-15,New Business,EMEA,Rep_44,Marketing,Competitor B
+OPP-000310,CUST-000474,PROD-000018,Company F474 - Product R,Closed Won,74380.35,43,2026-01-16,2025-09-10,Upsell,EMEA,Rep_30,Partner,Competitor B
+OPP-000311,CUST-000073,PROD-000012,Company U73 - Product L,Closed Won,982209.3,32,2025-04-09,2024-12-21,Upsell,North America,Rep_17,Marketing,
+OPP-000312,CUST-000262,PROD-000011,Company B262 - Product K,Proposal,578490.95,40,2025-07-29,2025-06-16,New Business,APAC,Rep_6,Sales,Competitor A
+OPP-000313,CUST-000025,PROD-000002,Company Y25 - Product B,Proposal,163190.26,34,2024-09-24,2024-06-11,New Business,EMEA,Rep_47,Marketing,Competitor C
+OPP-000314,CUST-000247,PROD-000007,Company M247 - Product G,Negotiation,97239.86,41,2025-03-03,2025-01-11,Cross-sell,Latin America,Rep_24,Partner,Competitor C
+OPP-000315,CUST-000414,PROD-000001,Company X414 - Product A,Prospecting,952747.21,51,2023-10-15,2023-07-20,New Business,EMEA,Rep_25,Sales,Competitor A
+OPP-000316,CUST-000451,PROD-000012,Company I451 - Product L,Proposal,303864.24,67,2025-08-27,2025-04-07,New Business,North America,Rep_48,Marketing,Competitor A
+OPP-000317,CUST-000322,PROD-000018,Company J322 - Product R,Closed Lost,413194.43,88,2025-03-12,2024-09-23,Cross-sell,Latin America,Rep_6,Partner,Competitor C
+OPP-000318,CUST-000508,PROD-000004,Company N508 - Product D,Negotiation,744008.12,100,2024-08-30,2024-04-12,Upsell,APAC,Rep_45,Partner,Competitor C
+OPP-000319,CUST-000574,PROD-000007,Company B574 - Product G,Proposal,128482.56,81,2025-09-11,2025-06-26,New Business,Latin America,Rep_45,Sales,
+OPP-000320,CUST-000231,PROD-000005,Company W231 - Product E,Closed Won,859110.13,86,2025-11-25,2025-08-19,Cross-sell,North America,Rep_50,Sales,Competitor A
+OPP-000321,CUST-000945,PROD-000015,Company I945 - Product O,Proposal,687591.56,89,2024-04-27,2024-03-02,New Business,Latin America,Rep_4,Web,Competitor A
+OPP-000322,CUST-000400,PROD-000014,Company J400 - Product N,Closed Lost,750730.92,92,2025-12-02,2025-07-28,New Business,North America,Rep_9,Marketing,Competitor A
+OPP-000323,CUST-000539,PROD-000014,Company S539 - Product N,Closed Lost,729443.07,91,2025-09-06,2025-07-05,Upsell,North America,Rep_45,Partner,Competitor B
+OPP-000324,CUST-000530,PROD-000016,Company J530 - Product P,Closed Lost,132262.92,78,2025-06-04,2025-03-30,Renewal,APAC,Rep_36,Referral,Competitor B
+OPP-000325,CUST-000823,PROD-000008,Company Q823 - Product H,Closed Lost,92881.49,73,2023-10-04,2023-06-05,Renewal,Latin America,Rep_16,Sales,
+OPP-000326,CUST-000556,PROD-000001,Company J556 - Product A,Closed Won,572795.94,58,2025-07-11,2025-05-05,New Business,EMEA,Rep_1,Referral,Competitor B
+OPP-000327,CUST-000542,PROD-000004,Company V542 - Product D,Proposal,501603.65,100,2024-11-29,2024-10-08,New Business,APAC,Rep_1,Marketing,Competitor C
+OPP-000328,CUST-000098,PROD-000012,Company T98 - Product L,Qualification,147760.79,91,2024-12-03,2024-08-05,Renewal,EMEA,Rep_36,Sales,Competitor B
+OPP-000329,CUST-000291,PROD-000017,Company E291 - Product Q,Closed Lost,461306.41,100,2024-10-07,2024-07-18,Upsell,Latin America,Rep_35,Sales,Competitor A
+OPP-000330,CUST-000825,PROD-000015,Company S825 - Product O,Closed Lost,664398.09,44,2023-08-09,2023-02-17,Cross-sell,North America,Rep_31,Referral,
+OPP-000331,CUST-000631,PROD-000007,Company G631 - Product G,Qualification,261547.74,34,2025-07-13,2025-01-22,Renewal,North America,Rep_47,Marketing,Competitor B
+OPP-000332,CUST-000912,PROD-000018,Company B912 - Product R,Proposal,97488.58,52,2024-12-02,2024-09-16,New Business,EMEA,Rep_43,Partner,
+OPP-000333,CUST-000377,PROD-000012,Company M377 - Product L,Closed Lost,32837.35,28,2025-12-03,2025-06-24,Renewal,EMEA,Rep_16,Marketing,
+OPP-000334,CUST-000710,PROD-000016,Company H710 - Product P,Proposal,556893.89,32,2023-05-01,2023-02-14,Cross-sell,EMEA,Rep_14,Marketing,
+OPP-000335,CUST-000263,PROD-000006,Company C263 - Product F,Proposal,848726.39,71,2025-06-17,2025-03-12,Renewal,North America,Rep_3,Web,
+OPP-000336,CUST-000583,PROD-000015,Company K583 - Product O,Proposal,51241.47,84,2025-10-21,2025-09-16,Cross-sell,EMEA,Rep_31,Marketing,
+OPP-000337,CUST-000712,PROD-000003,Company J712 - Product C,Closed Lost,588579.41,52,2026-02-10,2025-09-22,Renewal,APAC,Rep_12,Partner,Competitor B
+OPP-000338,CUST-000707,PROD-000011,Company E707 - Product K,Prospecting,901574.25,52,2023-06-06,2023-02-06,Renewal,APAC,Rep_1,Sales,Competitor B
+OPP-000339,CUST-000906,PROD-000010,Company V906 - Product J,Closed Won,497215.6,75,2024-11-18,2024-06-11,Renewal,APAC,Rep_32,Web,Competitor C
+OPP-000340,CUST-000198,PROD-000001,Company P198 - Product A,Closed Lost,982710.77,88,2024-06-09,2024-03-11,New Business,APAC,Rep_31,Sales,
+OPP-000341,CUST-000696,PROD-000011,Company T696 - Product K,Prospecting,422523.56,26,2025-01-09,2024-11-05,New Business,Latin America,Rep_29,Marketing,Competitor A
+OPP-000342,CUST-000596,PROD-000011,Company X596 - Product K,Closed Lost,869454.79,81,2025-08-03,2025-03-29,New Business,North America,Rep_14,Partner,
+OPP-000343,CUST-000060,PROD-000013,Company H60 - Product M,Closed Won,284323.26,67,2025-06-19,2025-04-30,New Business,EMEA,Rep_3,Sales,
+OPP-000344,CUST-000301,PROD-000010,Company O301 - Product J,Qualification,335978.26,42,2023-06-30,2023-01-18,Cross-sell,EMEA,Rep_32,Sales,
+OPP-000345,CUST-000908,PROD-000010,Company X908 - Product J,Closed Lost,573842.44,49,2023-08-09,2023-06-22,New Business,Latin America,Rep_20,Partner,
+OPP-000346,CUST-000404,PROD-000002,Company N404 - Product B,Closed Won,733766.22,56,2025-07-06,2025-04-08,Cross-sell,North America,Rep_3,Web,Competitor B
+OPP-000347,CUST-000639,PROD-000016,Company O639 - Product P,Qualification,592638.72,21,2024-12-09,2024-07-28,Renewal,North America,Rep_18,Sales,Competitor A
+OPP-000348,CUST-000015,PROD-000016,Company O15 - Product P,Closed Won,338067.34,38,2025-06-20,2025-04-19,Renewal,Latin America,Rep_1,Web,Competitor A
+OPP-000349,CUST-000145,PROD-000016,Company O145 - Product P,Closed Won,263289.03,75,2025-09-16,2025-04-07,Renewal,EMEA,Rep_16,Referral,
+OPP-000350,CUST-000439,PROD-000018,Company W439 - Product R,Proposal,386197.87,94,2025-07-11,2025-05-04,Upsell,North America,Rep_43,Partner,
+OPP-000351,CUST-000729,PROD-000015,Company A729 - Product O,Qualification,873911.23,30,2025-04-23,2024-11-10,Upsell,EMEA,Rep_3,Referral,Competitor A
+OPP-000352,CUST-000220,PROD-000004,Company L220 - Product D,Prospecting,531672.91,29,2025-05-20,2025-02-17,Cross-sell,APAC,Rep_32,Sales,Competitor A
+OPP-000353,CUST-000768,PROD-000018,Company N768 - Product R,Closed Won,519096.83,64,2024-09-06,2024-03-23,Cross-sell,North America,Rep_17,Web,
+OPP-000354,CUST-000989,PROD-000010,Company A989 - Product J,Negotiation,642747.22,74,2025-08-20,2025-07-17,Renewal,EMEA,Rep_7,Partner,Competitor C
+OPP-000355,CUST-000665,PROD-000010,Company O665 - Product J,Closed Won,226622.77,44,2025-07-10,2025-03-31,Cross-sell,EMEA,Rep_45,Referral,
+OPP-000356,CUST-000968,PROD-000018,Company F968 - Product R,Qualification,88555.92,55,2024-02-28,2023-12-09,New Business,EMEA,Rep_6,Web,Competitor C
+OPP-000357,CUST-000560,PROD-000007,Company N560 - Product G,Proposal,686842.28,100,2025-10-29,2025-07-07,Upsell,Latin America,Rep_34,Referral,
+OPP-000358,CUST-000691,PROD-000013,Company O691 - Product M,Proposal,542074.55,68,2024-08-23,2024-05-15,New Business,EMEA,Rep_27,Marketing,Competitor C
+OPP-000359,CUST-000305,PROD-000002,Company S305 - Product B,Closed Won,391913.99,30,2026-02-07,2025-09-21,Renewal,APAC,Rep_35,Partner,Competitor A
+OPP-000360,CUST-000110,PROD-000001,Company F110 - Product A,Closed Lost,655394.58,88,2025-10-12,2025-05-09,Renewal,Latin America,Rep_9,Partner,Competitor C
+OPP-000361,CUST-000002,PROD-000011,Company B2 - Product K,Proposal,616997.26,55,2023-12-07,2023-08-18,New Business,Latin America,Rep_33,Partner,
+OPP-000362,CUST-000645,PROD-000002,Company U645 - Product B,Prospecting,615263.57,66,2024-04-28,2023-11-15,Renewal,Latin America,Rep_12,Sales,Competitor A
+OPP-000363,CUST-000223,PROD-000014,Company O223 - Product N,Prospecting,570067.28,36,2025-11-20,2025-07-24,Upsell,APAC,Rep_9,Marketing,Competitor A
+OPP-000364,CUST-000987,PROD-000014,Company Y987 - Product N,Qualification,838752.37,20,2024-06-02,2024-02-10,Renewal,EMEA,Rep_44,Sales,Competitor B
+OPP-000365,CUST-000164,PROD-000008,Company H164 - Product H,Proposal,153137.67,77,2025-11-11,2025-08-02,Upsell,Latin America,Rep_21,Partner,
+OPP-000366,CUST-000734,PROD-000018,Company F734 - Product R,Negotiation,387754.7,80,2023-08-02,2023-06-21,Cross-sell,North America,Rep_21,Web,Competitor A
+OPP-000367,CUST-000964,PROD-000013,Company B964 - Product M,Prospecting,806419.74,74,2025-10-12,2025-09-04,Cross-sell,North America,Rep_20,Marketing,Competitor B
+OPP-000368,CUST-000677,PROD-000018,Company A677 - Product R,Proposal,558013.29,19,2023-11-13,2023-07-21,Upsell,North America,Rep_19,Web,Competitor B
+OPP-000369,CUST-000546,PROD-000007,Company Z546 - Product G,Closed Won,405140.6,72,2024-03-15,2024-01-19,Cross-sell,North America,Rep_19,Partner,Competitor C
+OPP-000370,CUST-000885,PROD-000018,Company A885 - Product R,Negotiation,881943.67,54,2024-01-07,2023-10-07,Upsell,APAC,Rep_8,Web,Competitor A
+OPP-000371,CUST-000663,PROD-000013,Company M663 - Product M,Negotiation,489710.18,44,2025-02-01,2024-09-21,Upsell,APAC,Rep_23,Web,Competitor B
+OPP-000372,CUST-000422,PROD-000012,Company F422 - Product L,Closed Lost,339430.37,36,2023-06-30,2023-02-19,Cross-sell,APAC,Rep_12,Referral,
+OPP-000373,CUST-000678,PROD-000018,Company B678 - Product R,Prospecting,603307.79,29,2023-08-18,2023-03-06,Cross-sell,North America,Rep_14,Web,
+OPP-000374,CUST-000752,PROD-000009,Company X752 - Product I,Closed Lost,926231.89,29,2025-07-03,2025-01-26,Cross-sell,EMEA,Rep_40,Marketing,Competitor B
+OPP-000375,CUST-000204,PROD-000016,Company V204 - Product P,Proposal,970151.48,93,2023-06-22,2023-03-29,Upsell,Latin America,Rep_17,Marketing,
+OPP-000376,CUST-000972,PROD-000001,Company J972 - Product A,Proposal,876004.34,80,2024-06-13,2024-04-09,New Business,North America,Rep_3,Sales,
+OPP-000377,CUST-000916,PROD-000005,Company F916 - Product E,Negotiation,267223.39,87,2023-11-07,2023-07-06,Renewal,EMEA,Rep_10,Web,
+OPP-000378,CUST-000891,PROD-000009,Company G891 - Product I,Proposal,750904.41,10,2024-02-22,2023-10-01,New Business,Latin America,Rep_33,Web,Competitor C
+OPP-000379,CUST-000342,PROD-000013,Company D342 - Product M,Closed Lost,783463.84,82,2023-09-17,2023-03-26,New Business,EMEA,Rep_13,Referral,
+OPP-000380,CUST-000399,PROD-000011,Company I399 - Product K,Negotiation,488441.74,57,2023-04-24,2023-03-08,Upsell,APAC,Rep_9,Referral,Competitor C
+OPP-000381,CUST-000519,PROD-000005,Company Y519 - Product E,Prospecting,795530.79,87,2024-01-14,2023-11-03,Cross-sell,APAC,Rep_25,Sales,Competitor A
+OPP-000382,CUST-000619,PROD-000016,Company U619 - Product P,Proposal,623713.38,32,2024-08-25,2024-03-15,Upsell,EMEA,Rep_48,Referral,Competitor C
+OPP-000383,CUST-000480,PROD-000018,Company L480 - Product R,Closed Won,481110.05,66,2025-04-01,2024-11-09,Renewal,North America,Rep_3,Partner,
+OPP-000384,CUST-000815,PROD-000011,Company I815 - Product K,Proposal,586525.43,14,2025-08-09,2025-03-09,New Business,Latin America,Rep_47,Partner,Competitor C
+OPP-000385,CUST-000928,PROD-000007,Company R928 - Product G,Closed Lost,616629.49,93,2024-01-29,2023-11-07,Cross-sell,EMEA,Rep_26,Sales,
+OPP-000386,CUST-000833,PROD-000018,Company A833 - Product R,Negotiation,660670.28,23,2024-10-27,2024-07-03,Renewal,North America,Rep_16,Referral,Competitor B
+OPP-000387,CUST-000507,PROD-000016,Company M507 - Product P,Qualification,728664.75,84,2025-12-07,2025-08-31,New Business,Latin America,Rep_43,Web,
+OPP-000388,CUST-000472,PROD-000013,Company D472 - Product M,Closed Lost,248581.07,24,2025-12-23,2025-08-27,Upsell,APAC,Rep_31,Partner,
+OPP-000389,CUST-000062,PROD-000014,Company J62 - Product N,Negotiation,133739.47,16,2024-05-31,2024-04-19,New Business,Latin America,Rep_1,Marketing,Competitor C
+OPP-000390,CUST-000172,PROD-000006,Company P172 - Product F,Proposal,467720.22,39,2025-01-31,2024-10-20,Cross-sell,Latin America,Rep_21,Sales,Competitor A
+OPP-000391,CUST-000913,PROD-000003,Company C913 - Product C,Closed Lost,269790.8,78,2025-09-18,2025-04-18,Upsell,APAC,Rep_4,Sales,Competitor C
+OPP-000392,CUST-000223,PROD-000017,Company O223 - Product Q,Proposal,473615.44,74,2025-12-17,2025-08-23,Renewal,APAC,Rep_9,Partner,Competitor A
+OPP-000393,CUST-000174,PROD-000001,Company R174 - Product A,Proposal,277659.86,91,2024-01-18,2023-08-17,Cross-sell,Latin America,Rep_11,Marketing,
+OPP-000394,CUST-000562,PROD-000005,Company P562 - Product E,Proposal,876780.85,57,2024-11-26,2024-06-30,Upsell,APAC,Rep_23,Referral,Competitor C
+OPP-000395,CUST-000030,PROD-000016,Company D30 - Product P,Qualification,862096.38,78,2023-10-06,2023-06-05,Cross-sell,North America,Rep_16,Partner,
+OPP-000396,CUST-000855,PROD-000016,Company W855 - Product P,Closed Lost,752377.93,54,2023-06-22,2023-01-19,Cross-sell,APAC,Rep_47,Web,Competitor C
+OPP-000397,CUST-000524,PROD-000004,Company D524 - Product D,Closed Won,106743.84,62,2025-12-19,2025-08-08,New Business,APAC,Rep_12,Sales,
+OPP-000398,CUST-000623,PROD-000004,Company Y623 - Product D,Proposal,631789.14,25,2025-05-20,2025-03-02,Renewal,North America,Rep_10,Sales,Competitor B
+OPP-000399,CUST-000209,PROD-000007,Company A209 - Product G,Closed Lost,738701.42,91,2023-11-22,2023-08-07,Renewal,Latin America,Rep_50,Marketing,Competitor C
+OPP-000400,CUST-000229,PROD-000008,Company U229 - Product H,Negotiation,110744.37,61,2023-06-11,2023-01-19,New Business,North America,Rep_18,Partner,
+OPP-000401,CUST-000158,PROD-000011,Company B158 - Product K,Closed Won,494248.39,98,2025-02-16,2024-11-16,Cross-sell,North America,Rep_28,Marketing,
+OPP-000402,CUST-000397,PROD-000006,Company G397 - Product F,Closed Lost,326148.31,53,2024-02-02,2023-12-24,Upsell,APAC,Rep_34,Web,Competitor C
+OPP-000403,CUST-000150,PROD-000002,Company T150 - Product B,Closed Lost,768917.39,14,2024-03-18,2024-01-17,Renewal,APAC,Rep_40,Marketing,Competitor B
+OPP-000404,CUST-000080,PROD-000005,Company B80 - Product E,Negotiation,109765.22,19,2025-02-09,2024-09-15,Cross-sell,North America,Rep_23,Referral,Competitor A
+OPP-000405,CUST-000254,PROD-000001,Company T254 - Product A,Prospecting,760398.71,66,2024-12-14,2024-11-05,Renewal,Latin America,Rep_15,Web,
+OPP-000406,CUST-000998,PROD-000018,Company J998 - Product R,Closed Lost,277013.22,14,2025-08-22,2025-03-20,Renewal,APAC,Rep_46,Referral,Competitor B
+OPP-000407,CUST-000440,PROD-000002,Company X440 - Product B,Closed Won,319475.07,97,2025-10-18,2025-08-24,Renewal,Latin America,Rep_29,Sales,Competitor A
+OPP-000408,CUST-000680,PROD-000012,Company D680 - Product L,Proposal,582517.85,40,2025-07-26,2025-02-06,Renewal,Latin America,Rep_19,Web,
+OPP-000409,CUST-000707,PROD-000010,Company E707 - Product J,Qualification,359411.18,35,2025-04-12,2024-11-24,Renewal,APAC,Rep_1,Sales,Competitor C
+OPP-000410,CUST-000987,PROD-000005,Company Y987 - Product E,Closed Lost,797627.79,100,2025-11-30,2025-06-19,Renewal,EMEA,Rep_44,Marketing,
+OPP-000411,CUST-000467,PROD-000013,Company Y467 - Product M,Negotiation,136806.26,78,2023-08-15,2023-03-01,Upsell,APAC,Rep_17,Partner,Competitor A
+OPP-000412,CUST-000541,PROD-000008,Company U541 - Product H,Qualification,238179.09,54,2025-11-13,2025-09-17,Upsell,Latin America,Rep_9,Referral,Competitor A
+OPP-000413,CUST-000366,PROD-000015,Company B366 - Product O,Proposal,197665.91,87,2023-08-14,2023-03-18,Cross-sell,EMEA,Rep_28,Sales,
+OPP-000414,CUST-000697,PROD-000012,Company U697 - Product L,Proposal,975824.87,39,2025-03-01,2024-10-12,Renewal,APAC,Rep_3,Sales,Competitor C
+OPP-000415,CUST-000023,PROD-000012,Company W23 - Product L,Closed Lost,774172.0,82,2024-09-18,2024-05-06,Renewal,EMEA,Rep_36,Marketing,Competitor C
+OPP-000416,CUST-000077,PROD-000005,Company Y77 - Product E,Prospecting,204057.04,95,2024-07-18,2024-06-16,New Business,EMEA,Rep_14,Web,Competitor B
+OPP-000417,CUST-000091,PROD-000004,Company M91 - Product D,Proposal,776437.61,65,2025-08-04,2025-04-03,Upsell,North America,Rep_20,Web,Competitor A
+OPP-000418,CUST-000708,PROD-000004,Company F708 - Product D,Qualification,974566.33,53,2024-08-24,2024-06-09,Renewal,North America,Rep_1,Sales,
+OPP-000419,CUST-000048,PROD-000003,Company V48 - Product C,Closed Won,946516.0,100,2025-05-26,2025-04-09,Upsell,EMEA,Rep_48,Referral,
+OPP-000420,CUST-000860,PROD-000005,Company B860 - Product E,Negotiation,939584.59,23,2024-03-27,2024-02-04,Upsell,North America,Rep_30,Sales,Competitor B
+OPP-000421,CUST-000991,PROD-000018,Company C991 - Product R,Qualification,84803.25,90,2025-06-06,2025-03-26,Cross-sell,APAC,Rep_5,Sales,
+OPP-000422,CUST-000398,PROD-000009,Company H398 - Product I,Prospecting,589725.06,92,2023-09-11,2023-03-26,Upsell,Latin America,Rep_15,Partner,
+OPP-000423,CUST-000936,PROD-000015,Company Z936 - Product O,Proposal,400371.29,50,2025-10-27,2025-06-04,Cross-sell,APAC,Rep_12,Partner,
+OPP-000424,CUST-000369,PROD-000001,Company E369 - Product A,Proposal,703065.81,33,2025-11-27,2025-07-25,Cross-sell,North America,Rep_9,Partner,Competitor C
+OPP-000425,CUST-000127,PROD-000009,Company W127 - Product I,Prospecting,118281.68,22,2026-01-17,2025-08-04,Cross-sell,Latin America,Rep_17,Marketing,Competitor B
+OPP-000426,CUST-000181,PROD-000008,Company Y181 - Product H,Negotiation,195704.44,12,2024-05-22,2024-01-27,Upsell,Latin America,Rep_33,Marketing,Competitor B
+OPP-000427,CUST-000755,PROD-000011,Company A755 - Product K,Closed Lost,647033.56,22,2024-10-12,2024-07-19,Renewal,North America,Rep_23,Web,
+OPP-000428,CUST-000737,PROD-000002,Company I737 - Product B,Prospecting,541687.26,45,2024-04-10,2023-11-05,New Business,APAC,Rep_11,Partner,
+OPP-000429,CUST-000265,PROD-000015,Company E265 - Product O,Qualification,174154.38,19,2025-02-21,2024-11-17,Upsell,APAC,Rep_30,Sales,Competitor B
+OPP-000430,CUST-000122,PROD-000003,Company R122 - Product C,Proposal,975029.79,22,2024-01-25,2023-11-28,Upsell,APAC,Rep_41,Web,Competitor B
+OPP-000431,CUST-000770,PROD-000003,Company P770 - Product C,Qualification,912304.09,11,2024-09-26,2024-07-08,New Business,Latin America,Rep_18,Referral,
+OPP-000432,CUST-000079,PROD-000018,Company A79 - Product R,Negotiation,920932.92,69,2025-11-18,2025-06-18,New Business,APAC,Rep_13,Referral,Competitor A
+OPP-000433,CUST-000644,PROD-000008,Company T644 - Product H,Closed Lost,668362.01,65,2024-05-03,2024-03-07,Upsell,Latin America,Rep_9,Web,
+OPP-000434,CUST-000959,PROD-000006,Company W959 - Product F,Closed Lost,607663.13,10,2023-10-28,2023-05-28,Renewal,North America,Rep_30,Web,Competitor A
+OPP-000435,CUST-000930,PROD-000013,Company T930 - Product M,Negotiation,193686.36,22,2025-03-19,2024-10-13,Upsell,Latin America,Rep_32,Marketing,Competitor C
+OPP-000436,CUST-000315,PROD-000012,Company C315 - Product L,Closed Won,847099.91,60,2025-01-01,2024-07-12,New Business,Latin America,Rep_28,Partner,Competitor A
+OPP-000437,CUST-000336,PROD-000002,Company X336 - Product B,Negotiation,815783.19,38,2024-07-08,2024-05-28,Upsell,Latin America,Rep_38,Sales,
+OPP-000438,CUST-000970,PROD-000008,Company H970 - Product H,Proposal,657797.91,61,2025-08-18,2025-05-15,Renewal,North America,Rep_33,Web,Competitor C
+OPP-000439,CUST-000776,PROD-000014,Company V776 - Product N,Closed Won,616745.64,61,2023-05-31,2023-04-22,Cross-sell,EMEA,Rep_34,Sales,
+OPP-000440,CUST-000832,PROD-000004,Company Z832 - Product D,Prospecting,393034.64,42,2025-05-23,2024-11-29,New Business,North America,Rep_24,Referral,
+OPP-000441,CUST-000455,PROD-000005,Company M455 - Product E,Prospecting,237173.38,26,2025-02-15,2024-10-22,New Business,APAC,Rep_33,Referral,
+OPP-000442,CUST-000791,PROD-000007,Company K791 - Product G,Prospecting,132149.0,18,2025-04-04,2024-11-30,New Business,Latin America,Rep_1,Sales,
+OPP-000443,CUST-000944,PROD-000001,Company H944 - Product A,Qualification,583781.4,69,2024-08-12,2024-07-11,Renewal,North America,Rep_45,Partner,Competitor B
+OPP-000444,CUST-000980,PROD-000006,Company R980 - Product F,Proposal,923050.73,18,2023-08-02,2023-05-01,Renewal,EMEA,Rep_29,Sales,Competitor C
+OPP-000445,CUST-000167,PROD-000009,Company K167 - Product I,Qualification,407513.82,10,2025-11-06,2025-09-02,Upsell,APAC,Rep_38,Marketing,
+OPP-000446,CUST-000371,PROD-000013,Company G371 - Product M,Closed Lost,929930.02,13,2025-01-25,2024-08-08,Renewal,Latin America,Rep_7,Partner,Competitor C
+OPP-000447,CUST-000752,PROD-000016,Company X752 - Product P,Prospecting,150148.91,87,2024-09-07,2024-06-10,Upsell,EMEA,Rep_40,Partner,
+OPP-000448,CUST-000368,PROD-000016,Company D368 - Product P,Closed Won,829280.52,34,2023-10-15,2023-08-25,New Business,EMEA,Rep_49,Web,Competitor C
+OPP-000449,CUST-000458,PROD-000011,Company P458 - Product K,Qualification,886535.61,51,2024-05-25,2024-04-04,Renewal,North America,Rep_29,Partner,Competitor C
+OPP-000450,CUST-000223,PROD-000004,Company O223 - Product D,Proposal,383607.97,37,2025-11-24,2025-07-29,New Business,APAC,Rep_9,Marketing,Competitor B
+OPP-000451,CUST-000950,PROD-000012,Company N950 - Product L,Prospecting,311215.61,21,2025-03-31,2025-01-22,Upsell,North America,Rep_28,Sales,Competitor A
+OPP-000452,CUST-000675,PROD-000017,Company Y675 - Product Q,Proposal,373966.9,91,2025-02-03,2024-08-08,Renewal,APAC,Rep_29,Referral,
+OPP-000453,CUST-000936,PROD-000008,Company Z936 - Product H,Qualification,345486.02,87,2023-06-08,2023-01-13,New Business,APAC,Rep_12,Web,
+OPP-000454,CUST-000041,PROD-000011,Company O41 - Product K,Negotiation,702266.28,34,2023-05-02,2023-03-25,Cross-sell,APAC,Rep_7,Web,
+OPP-000455,CUST-000775,PROD-000004,Company U775 - Product D,Prospecting,894319.2,48,2024-05-25,2024-04-07,Upsell,APAC,Rep_31,Partner,
+OPP-000456,CUST-000325,PROD-000018,Company M325 - Product R,Proposal,102290.44,60,2023-04-09,2023-01-05,Upsell,APAC,Rep_13,Referral,
+OPP-000457,CUST-000975,PROD-000016,Company M975 - Product P,Qualification,246677.12,59,2024-05-16,2023-11-25,Cross-sell,North America,Rep_42,Marketing,
+OPP-000458,CUST-000153,PROD-000002,Company W153 - Product B,Negotiation,462930.04,95,2024-08-28,2024-04-09,New Business,APAC,Rep_34,Marketing,
+OPP-000459,CUST-000946,PROD-000010,Company J946 - Product J,Qualification,317062.37,93,2024-04-11,2023-10-14,Renewal,EMEA,Rep_39,Sales,Competitor A
+OPP-000460,CUST-000354,PROD-000013,Company P354 - Product M,Negotiation,762701.2,15,2025-01-12,2024-10-16,Upsell,Latin America,Rep_42,Sales,Competitor C
+OPP-000461,CUST-000003,PROD-000001,Company C3 - Product A,Negotiation,750932.69,67,2024-12-10,2024-08-17,Renewal,EMEA,Rep_18,Partner,Competitor C
+OPP-000462,CUST-000425,PROD-000011,Company I425 - Product K,Prospecting,309172.73,45,2023-10-13,2023-04-30,New Business,EMEA,Rep_12,Referral,Competitor C
+OPP-000463,CUST-000178,PROD-000009,Company V178 - Product I,Negotiation,728108.17,37,2025-02-15,2024-12-18,New Business,Latin America,Rep_18,Partner,
+OPP-000464,CUST-000967,PROD-000005,Company E967 - Product E,Proposal,846674.26,30,2023-06-23,2023-01-21,New Business,Latin America,Rep_30,Web,
+OPP-000465,CUST-000997,PROD-000011,Company I997 - Product K,Closed Won,892090.43,56,2025-09-03,2025-03-09,Cross-sell,North America,Rep_1,Web,
+OPP-000466,CUST-000219,PROD-000004,Company K219 - Product D,Prospecting,114134.31,16,2025-10-01,2025-05-01,Renewal,North America,Rep_36,Web,Competitor C
+OPP-000467,CUST-000450,PROD-000013,Company H450 - Product M,Negotiation,368436.76,96,2025-10-18,2025-06-21,Renewal,Latin America,Rep_26,Partner,
+OPP-000468,CUST-000582,PROD-000015,Company J582 - Product O,Closed Won,569621.64,68,2023-08-10,2023-06-03,Upsell,Latin America,Rep_22,Web,
+OPP-000469,CUST-000509,PROD-000013,Company O509 - Product M,Proposal,511840.83,44,2023-09-09,2023-08-04,Upsell,EMEA,Rep_40,Referral,Competitor A
+OPP-000470,CUST-000194,PROD-000013,Company L194 - Product M,Closed Won,265242.92,97,2025-01-20,2024-09-15,Cross-sell,EMEA,Rep_36,Web,Competitor A
+OPP-000471,CUST-000944,PROD-000014,Company H944 - Product N,Negotiation,385166.54,85,2025-07-28,2025-05-13,Renewal,North America,Rep_45,Marketing,Competitor B
+OPP-000472,CUST-000332,PROD-000007,Company T332 - Product G,Qualification,932173.12,80,2024-11-13,2024-06-15,New Business,EMEA,Rep_5,Referral,
+OPP-000473,CUST-000771,PROD-000003,Company Q771 - Product C,Negotiation,891466.94,66,2025-10-26,2025-06-23,Renewal,APAC,Rep_39,Marketing,Competitor B
+OPP-000474,CUST-000185,PROD-000015,Company C185 - Product O,Closed Won,894149.31,62,2024-10-11,2024-08-06,Renewal,APAC,Rep_43,Sales,
+OPP-000475,CUST-000443,PROD-000004,Company A443 - Product D,Closed Won,191900.25,66,2024-06-10,2024-04-24,New Business,North America,Rep_31,Marketing,
+OPP-000476,CUST-000315,PROD-000017,Company C315 - Product Q,Qualification,988472.43,25,2025-04-20,2025-02-16,Renewal,Latin America,Rep_28,Sales,Competitor B
+OPP-000477,CUST-000812,PROD-000007,Company F812 - Product G,Prospecting,412797.96,93,2025-01-18,2024-11-07,Cross-sell,North America,Rep_31,Sales,Competitor B
+OPP-000478,CUST-000062,PROD-000012,Company J62 - Product L,Qualification,687566.78,40,2023-10-08,2023-08-26,Upsell,Latin America,Rep_1,Sales,
+OPP-000479,CUST-000501,PROD-000007,Company G501 - Product G,Qualification,259708.86,58,2024-09-30,2024-08-26,Renewal,Latin America,Rep_11,Marketing,
+OPP-000480,CUST-000550,PROD-000006,Company D550 - Product F,Proposal,710640.77,97,2024-09-01,2024-08-02,Renewal,EMEA,Rep_46,Referral,Competitor C
+OPP-000481,CUST-000076,PROD-000008,Company X76 - Product H,Qualification,198821.9,66,2025-04-17,2024-11-01,Renewal,North America,Rep_2,Partner,Competitor B
+OPP-000482,CUST-000917,PROD-000007,Company G917 - Product G,Proposal,99440.52,74,2024-12-31,2024-09-05,Upsell,EMEA,Rep_28,Web,Competitor A
+OPP-000483,CUST-000957,PROD-000015,Company U957 - Product O,Negotiation,862871.02,43,2023-05-08,2023-02-03,Cross-sell,Latin America,Rep_22,Partner,
+OPP-000484,CUST-000220,PROD-000015,Company L220 - Product O,Proposal,252954.84,24,2024-10-30,2024-05-05,New Business,APAC,Rep_32,Partner,Competitor B
+OPP-000485,CUST-000713,PROD-000018,Company K713 - Product R,Proposal,963454.69,28,2024-06-19,2024-01-06,New Business,EMEA,Rep_20,Partner,Competitor B
+OPP-000486,CUST-000243,PROD-000018,Company I243 - Product R,Negotiation,416095.11,48,2025-11-26,2025-09-24,Cross-sell,North America,Rep_22,Partner,Competitor A
+OPP-000487,CUST-000062,PROD-000017,Company J62 - Product Q,Closed Won,861043.44,64,2024-10-23,2024-05-06,Renewal,Latin America,Rep_1,Referral,
+OPP-000488,CUST-000580,PROD-000005,Company H580 - Product E,Closed Lost,188621.99,39,2023-04-02,2023-01-29,Upsell,EMEA,Rep_36,Marketing,Competitor B
+OPP-000489,CUST-000650,PROD-000002,Company Z650 - Product B,Prospecting,917882.64,14,2025-08-20,2025-06-28,Cross-sell,APAC,Rep_3,Referral,
+OPP-000490,CUST-000291,PROD-000003,Company E291 - Product C,Negotiation,923278.61,85,2026-03-10,2025-09-14,Upsell,Latin America,Rep_35,Referral,
+OPP-000491,CUST-000951,PROD-000002,Company O951 - Product B,Closed Won,778968.86,30,2025-01-11,2024-08-02,Renewal,APAC,Rep_21,Sales,Competitor A
+OPP-000492,CUST-000925,PROD-000005,Company O925 - Product E,Qualification,807510.11,82,2024-01-15,2023-09-15,Renewal,Latin America,Rep_10,Sales,
+OPP-000493,CUST-000716,PROD-000016,Company N716 - Product P,Prospecting,479150.56,95,2025-10-11,2025-04-17,Renewal,North America,Rep_39,Partner,Competitor C
+OPP-000494,CUST-000041,PROD-000004,Company O41 - Product D,Negotiation,18258.55,34,2023-07-13,2023-04-28,New Business,APAC,Rep_7,Web,Competitor A
+OPP-000495,CUST-000629,PROD-000012,Company E629 - Product L,Proposal,87795.08,15,2023-04-05,2023-01-20,Renewal,APAC,Rep_45,Partner,Competitor C
+OPP-000496,CUST-000750,PROD-000009,Company V750 - Product I,Prospecting,158562.36,12,2025-02-07,2024-12-02,Upsell,Latin America,Rep_7,Marketing,Competitor A
+OPP-000497,CUST-000474,PROD-000004,Company F474 - Product D,Negotiation,367243.79,56,2025-04-19,2025-01-10,New Business,EMEA,Rep_30,Web,Competitor C
+OPP-000498,CUST-000460,PROD-000005,Company R460 - Product E,Negotiation,623318.84,94,2024-08-12,2024-06-26,New Business,North America,Rep_50,Partner,
+OPP-000499,CUST-000254,PROD-000005,Company T254 - Product E,Qualification,875701.69,50,2024-04-04,2024-03-01,New Business,Latin America,Rep_15,Partner,Competitor B
+OPP-000500,CUST-000786,PROD-000008,Company F786 - Product H,Closed Lost,683740.48,67,2024-05-24,2024-02-20,Cross-sell,North America,Rep_32,Sales,Competitor A
+OPP-000501,CUST-000351,PROD-000008,Company M351 - Product H,Closed Lost,404260.57,71,2024-02-06,2023-08-24,Cross-sell,Latin America,Rep_6,Partner,
+OPP-000502,CUST-000241,PROD-000015,Company G241 - Product O,Qualification,209646.56,83,2025-12-15,2025-08-12,Renewal,APAC,Rep_4,Sales,Competitor B
+OPP-000503,CUST-000012,PROD-000013,Company L12 - Product M,Closed Won,224005.71,78,2025-01-07,2024-12-06,Renewal,EMEA,Rep_9,Marketing,Competitor A
+OPP-000504,CUST-000886,PROD-000005,Company B886 - Product E,Proposal,342217.25,86,2025-08-12,2025-06-04,Upsell,Latin America,Rep_27,Sales,
+OPP-000505,CUST-000746,PROD-000002,Company R746 - Product B,Prospecting,275212.19,94,2024-10-25,2024-05-12,Cross-sell,APAC,Rep_26,Referral,Competitor A
+OPP-000506,CUST-000308,PROD-000011,Company V308 - Product K,Closed Lost,465700.36,22,2025-01-28,2024-09-27,New Business,APAC,Rep_26,Marketing,
+OPP-000507,CUST-000485,PROD-000002,Company Q485 - Product B,Negotiation,613211.36,71,2024-05-20,2024-03-18,New Business,North America,Rep_17,Referral,Competitor B
+OPP-000508,CUST-000349,PROD-000003,Company K349 - Product C,Prospecting,575742.71,15,2024-02-23,2023-12-25,Upsell,EMEA,Rep_29,Referral,Competitor C
+OPP-000509,CUST-000271,PROD-000016,Company K271 - Product P,Qualification,234576.26,29,2023-10-31,2023-05-10,Renewal,North America,Rep_33,Marketing,Competitor C
+OPP-000510,CUST-000093,PROD-000009,Company O93 - Product I,Closed Lost,852486.68,71,2025-02-07,2024-08-12,Cross-sell,North America,Rep_22,Referral,Competitor B
+OPP-000511,CUST-000799,PROD-000008,Company S799 - Product H,Prospecting,350234.3,90,2025-01-02,2024-08-30,Cross-sell,EMEA,Rep_10,Marketing,Competitor A
+OPP-000512,CUST-000382,PROD-000010,Company R382 - Product J,Qualification,804051.56,92,2024-08-05,2024-03-15,New Business,APAC,Rep_14,Partner,
+OPP-000513,CUST-000842,PROD-000015,Company J842 - Product O,Prospecting,904997.38,69,2023-10-11,2023-06-18,Renewal,Latin America,Rep_17,Partner,Competitor A
+OPP-000514,CUST-000204,PROD-000014,Company V204 - Product N,Proposal,915592.89,48,2025-09-10,2025-03-21,Renewal,Latin America,Rep_17,Sales,
+OPP-000515,CUST-000453,PROD-000013,Company K453 - Product M,Qualification,391624.04,54,2024-04-16,2024-02-26,Upsell,EMEA,Rep_21,Marketing,Competitor B
+OPP-000516,CUST-000619,PROD-000012,Company U619 - Product L,Closed Lost,579353.72,70,2024-03-28,2023-11-04,Upsell,EMEA,Rep_48,Web,
+OPP-000517,CUST-000610,PROD-000012,Company L610 - Product L,Qualification,883049.82,43,2024-08-20,2024-05-06,Upsell,EMEA,Rep_22,Partner,Competitor B
+OPP-000518,CUST-000020,PROD-000014,Company T20 - Product N,Proposal,861328.67,89,2025-03-03,2024-10-06,Renewal,EMEA,Rep_5,Sales,
+OPP-000519,CUST-000718,PROD-000007,Company P718 - Product G,Negotiation,368284.13,24,2026-01-18,2025-09-24,Renewal,Latin America,Rep_40,Partner,Competitor B
+OPP-000520,CUST-000082,PROD-000002,Company D82 - Product B,Closed Won,867883.5,92,2025-08-14,2025-07-04,Upsell,APAC,Rep_34,Referral,
+OPP-000521,CUST-000174,PROD-000006,Company R174 - Product F,Qualification,277508.53,78,2023-03-24,2023-02-18,Cross-sell,Latin America,Rep_11,Sales,Competitor C
+OPP-000522,CUST-000225,PROD-000014,Company Q225 - Product N,Closed Won,865502.55,16,2024-06-03,2024-04-27,New Business,North America,Rep_34,Referral,Competitor C
+OPP-000523,CUST-000298,PROD-000003,Company L298 - Product C,Closed Won,75157.36,99,2023-05-10,2023-01-10,Renewal,APAC,Rep_30,Sales,
+OPP-000524,CUST-000057,PROD-000006,Company E57 - Product F,Qualification,295104.03,31,2024-07-12,2024-03-01,Renewal,Latin America,Rep_1,Sales,Competitor B
+OPP-000525,CUST-000059,PROD-000017,Company G59 - Product Q,Proposal,597960.37,14,2024-04-05,2024-01-10,Renewal,EMEA,Rep_40,Referral,Competitor B
+OPP-000526,CUST-000955,PROD-000008,Company S955 - Product H,Closed Won,762869.91,44,2023-04-10,2023-02-24,New Business,EMEA,Rep_19,Partner,Competitor B
+OPP-000527,CUST-000522,PROD-000009,Company B522 - Product I,Qualification,117645.85,100,2024-06-20,2024-04-22,Renewal,Latin America,Rep_25,Sales,Competitor B
+OPP-000528,CUST-000970,PROD-000012,Company H970 - Product L,Proposal,912328.24,43,2024-07-14,2024-02-10,Cross-sell,North America,Rep_33,Web,
+OPP-000529,CUST-000022,PROD-000014,Company V22 - Product N,Prospecting,880013.99,91,2025-11-04,2025-09-19,Cross-sell,EMEA,Rep_34,Sales,
+OPP-000530,CUST-000908,PROD-000008,Company X908 - Product H,Qualification,225253.37,52,2025-09-08,2025-03-27,Cross-sell,Latin America,Rep_20,Web,Competitor C
+OPP-000531,CUST-000824,PROD-000005,Company R824 - Product E,Qualification,579456.48,91,2023-09-17,2023-06-17,Cross-sell,Latin America,Rep_1,Referral,
+OPP-000532,CUST-000251,PROD-000011,Company Q251 - Product K,Negotiation,912477.85,71,2025-05-02,2024-12-01,New Business,Latin America,Rep_14,Partner,Competitor B
+OPP-000533,CUST-000344,PROD-000011,Company F344 - Product K,Closed Won,29680.3,31,2025-08-13,2025-06-02,Renewal,North America,Rep_30,Sales,Competitor C
+OPP-000534,CUST-000086,PROD-000007,Company H86 - Product G,Closed Lost,781578.7,61,2024-08-12,2024-04-21,New Business,North America,Rep_27,Marketing,Competitor B
+OPP-000535,CUST-000942,PROD-000009,Company F942 - Product I,Closed Won,567139.94,83,2023-07-05,2023-05-27,New Business,APAC,Rep_10,Web,Competitor C
+OPP-000536,CUST-000091,PROD-000005,Company M91 - Product E,Negotiation,412513.44,92,2025-08-29,2025-05-12,Cross-sell,North America,Rep_20,Sales,
+OPP-000537,CUST-000914,PROD-000008,Company D914 - Product H,Negotiation,256925.35,100,2024-09-20,2024-05-30,Cross-sell,APAC,Rep_44,Partner,Competitor A
+OPP-000538,CUST-000996,PROD-000007,Company H996 - Product G,Proposal,184275.75,41,2025-03-03,2025-01-01,Renewal,APAC,Rep_24,Referral,
+OPP-000539,CUST-000951,PROD-000005,Company O951 - Product E,Qualification,726877.2,17,2025-01-23,2024-09-05,Renewal,APAC,Rep_21,Partner,Competitor C
+OPP-000540,CUST-000918,PROD-000017,Company H918 - Product Q,Closed Won,232387.51,35,2025-12-12,2025-08-26,Upsell,EMEA,Rep_18,Referral,
+OPP-000541,CUST-000433,PROD-000007,Company Q433 - Product G,Prospecting,284404.84,37,2024-11-08,2024-08-24,Cross-sell,APAC,Rep_25,Sales,
+OPP-000542,CUST-000042,PROD-000012,Company P42 - Product L,Closed Won,696974.08,52,2024-09-18,2024-04-25,Upsell,APAC,Rep_41,Sales,
+OPP-000543,CUST-000216,PROD-000004,Company H216 - Product D,Qualification,253810.58,71,2023-07-09,2023-04-11,Cross-sell,EMEA,Rep_16,Partner,Competitor B
+OPP-000544,CUST-000962,PROD-000008,Company Z962 - Product H,Closed Lost,216109.5,33,2025-01-02,2024-10-06,Renewal,North America,Rep_50,Partner,Competitor A
+OPP-000545,CUST-000035,PROD-000017,Company I35 - Product Q,Qualification,161001.77,70,2025-08-17,2025-05-15,New Business,North America,Rep_16,Referral,
+OPP-000546,CUST-000300,PROD-000012,Company N300 - Product L,Qualification,717433.58,68,2024-03-29,2024-01-19,New Business,North America,Rep_22,Sales,Competitor B
+OPP-000547,CUST-000976,PROD-000004,Company N976 - Product D,Prospecting,330954.7,19,2024-05-02,2023-12-22,New Business,Latin America,Rep_40,Sales,Competitor B
+OPP-000548,CUST-000083,PROD-000011,Company E83 - Product K,Qualification,333387.03,13,2025-09-22,2025-04-21,New Business,Latin America,Rep_16,Partner,Competitor C
+OPP-000549,CUST-000861,PROD-000007,Company C861 - Product G,Closed Won,860607.47,16,2024-05-27,2023-11-29,Cross-sell,North America,Rep_41,Marketing,Competitor C
+OPP-000550,CUST-000695,PROD-000014,Company S695 - Product N,Qualification,896407.36,97,2023-09-19,2023-06-05,Cross-sell,EMEA,Rep_49,Web,Competitor C
+OPP-000551,CUST-000871,PROD-000002,Company M871 - Product B,Prospecting,597793.95,30,2023-07-17,2023-03-14,Cross-sell,EMEA,Rep_36,Marketing,Competitor B
+OPP-000552,CUST-000934,PROD-000005,Company X934 - Product E,Qualification,515584.84,14,2024-04-27,2023-11-25,New Business,North America,Rep_50,Referral,Competitor A
+OPP-000553,CUST-000927,PROD-000017,Company Q927 - Product Q,Qualification,824072.58,54,2025-06-18,2025-05-14,Cross-sell,EMEA,Rep_45,Sales,Competitor C
+OPP-000554,CUST-000820,PROD-000002,Company N820 - Product B,Proposal,932284.59,18,2025-02-14,2024-09-17,New Business,EMEA,Rep_30,Partner,
+OPP-000555,CUST-000165,PROD-000010,Company I165 - Product J,Proposal,364362.89,25,2025-10-05,2025-05-28,Renewal,North America,Rep_6,Sales,Competitor B
+OPP-000556,CUST-000798,PROD-000006,Company R798 - Product F,Closed Won,635485.58,26,2025-12-18,2025-09-08,Renewal,APAC,Rep_14,Sales,Competitor A
+OPP-000557,CUST-000800,PROD-000003,Company T800 - Product C,Negotiation,129121.36,62,2025-07-13,2025-05-10,New Business,Latin America,Rep_9,Referral,Competitor C
+OPP-000558,CUST-000251,PROD-000014,Company Q251 - Product N,Closed Lost,438249.51,50,2025-09-03,2025-07-02,New Business,Latin America,Rep_14,Marketing,
+OPP-000559,CUST-000937,PROD-000009,Company A937 - Product I,Prospecting,319534.24,47,2024-05-30,2024-03-22,New Business,EMEA,Rep_41,Partner,
+OPP-000560,CUST-000260,PROD-000005,Company Z260 - Product E,Closed Lost,391558.18,55,2024-12-13,2024-07-29,Renewal,North America,Rep_7,Web,Competitor A
+OPP-000561,CUST-000118,PROD-000016,Company N118 - Product P,Qualification,688980.23,98,2024-03-27,2023-11-10,New Business,North America,Rep_25,Referral,Competitor A
+OPP-000562,CUST-000433,PROD-000002,Company Q433 - Product B,Closed Won,47562.59,15,2025-03-24,2025-02-02,Cross-sell,APAC,Rep_25,Web,Competitor A
+OPP-000563,CUST-000750,PROD-000017,Company V750 - Product Q,Prospecting,735352.75,86,2025-07-26,2025-05-19,Renewal,Latin America,Rep_7,Referral,
+OPP-000564,CUST-000149,PROD-000002,Company S149 - Product B,Closed Won,107181.57,86,2024-08-18,2024-05-27,New Business,North America,Rep_5,Partner,
+OPP-000565,CUST-000818,PROD-000004,Company L818 - Product D,Prospecting,392015.0,41,2025-04-24,2024-11-03,New Business,North America,Rep_30,Web,
+OPP-000566,CUST-000572,PROD-000004,Company Z572 - Product D,Closed Lost,540300.2,55,2024-06-20,2024-04-29,Cross-sell,EMEA,Rep_40,Web,
+OPP-000567,CUST-000372,PROD-000004,Company H372 - Product D,Proposal,631433.4,94,2023-06-23,2023-02-16,Cross-sell,APAC,Rep_49,Web,
+OPP-000568,CUST-000433,PROD-000002,Company Q433 - Product B,Qualification,386391.59,32,2024-12-14,2024-07-03,New Business,APAC,Rep_25,Marketing,
+OPP-000569,CUST-000141,PROD-000017,Company K141 - Product Q,Qualification,717390.3,30,2025-09-29,2025-08-30,New Business,North America,Rep_43,Partner,
+OPP-000570,CUST-000296,PROD-000008,Company J296 - Product H,Closed Lost,201223.87,36,2023-10-06,2023-06-08,Renewal,EMEA,Rep_45,Partner,Competitor A
+OPP-000571,CUST-000144,PROD-000001,Company N144 - Product A,Closed Won,231043.37,13,2024-10-05,2024-04-22,Upsell,APAC,Rep_8,Marketing,
+OPP-000572,CUST-000571,PROD-000008,Company Y571 - Product H,Negotiation,952776.99,76,2025-03-08,2024-09-10,Cross-sell,EMEA,Rep_33,Marketing,Competitor C
+OPP-000573,CUST-000512,PROD-000013,Company R512 - Product M,Proposal,611489.22,36,2024-05-04,2023-12-21,Renewal,Latin America,Rep_48,Marketing,Competitor C
+OPP-000574,CUST-000121,PROD-000008,Company Q121 - Product H,Negotiation,270801.12,14,2024-06-21,2024-02-01,Renewal,APAC,Rep_44,Referral,
+OPP-000575,CUST-000496,PROD-000014,Company B496 - Product N,Negotiation,454945.97,18,2025-07-02,2025-01-10,Cross-sell,Latin America,Rep_47,Web,Competitor A
+OPP-000576,CUST-000179,PROD-000005,Company W179 - Product E,Negotiation,311278.75,65,2023-05-08,2023-03-28,Cross-sell,APAC,Rep_3,Referral,Competitor C
+OPP-000577,CUST-000796,PROD-000006,Company P796 - Product F,Negotiation,215155.94,48,2025-07-22,2025-04-20,New Business,EMEA,Rep_38,Referral,Competitor A
+OPP-000578,CUST-000374,PROD-000003,Company J374 - Product C,Closed Lost,659262.9,36,2026-01-23,2025-07-27,Upsell,EMEA,Rep_7,Marketing,Competitor A
+OPP-000579,CUST-000007,PROD-000018,Company G7 - Product R,Proposal,533963.42,54,2023-10-04,2023-05-18,Cross-sell,EMEA,Rep_6,Sales,Competitor B
+OPP-000580,CUST-000328,PROD-000016,Company P328 - Product P,Negotiation,706470.8,71,2025-05-30,2025-02-28,New Business,Latin America,Rep_19,Sales,Competitor A
+OPP-000581,CUST-000856,PROD-000008,Company X856 - Product H,Negotiation,690637.7,71,2024-03-20,2024-01-23,Upsell,Latin America,Rep_27,Web,Competitor A
+OPP-000582,CUST-000913,PROD-000011,Company C913 - Product K,Proposal,552030.86,96,2024-03-25,2024-01-16,New Business,APAC,Rep_4,Marketing,Competitor B
+OPP-000583,CUST-000454,PROD-000016,Company L454 - Product P,Closed Lost,67001.25,57,2024-01-08,2023-09-26,Cross-sell,North America,Rep_27,Partner,Competitor A
+OPP-000584,CUST-000448,PROD-000012,Company F448 - Product L,Prospecting,996819.77,47,2024-12-12,2024-11-04,New Business,Latin America,Rep_10,Referral,
+OPP-000585,CUST-000935,PROD-000007,Company Y935 - Product G,Closed Won,844501.73,82,2026-01-01,2025-07-29,Renewal,Latin America,Rep_9,Web,Competitor B
+OPP-000586,CUST-000879,PROD-000018,Company U879 - Product R,Closed Won,483527.27,49,2024-10-20,2024-06-16,New Business,North America,Rep_38,Web,Competitor B
+OPP-000587,CUST-000567,PROD-000001,Company U567 - Product A,Qualification,800350.65,46,2023-04-17,2023-01-14,Upsell,North America,Rep_12,Marketing,Competitor A
+OPP-000588,CUST-000523,PROD-000009,Company C523 - Product I,Closed Won,88673.2,38,2023-05-21,2023-01-31,Upsell,North America,Rep_50,Referral,Competitor C
+OPP-000589,CUST-000566,PROD-000003,Company T566 - Product C,Qualification,986056.65,72,2025-01-04,2024-09-25,New Business,Latin America,Rep_38,Web,
+OPP-000590,CUST-000059,PROD-000007,Company G59 - Product G,Closed Lost,418648.81,44,2024-12-15,2024-08-02,Renewal,EMEA,Rep_40,Sales,
+OPP-000591,CUST-000666,PROD-000003,Company P666 - Product C,Negotiation,696255.17,55,2024-11-20,2024-09-26,Renewal,APAC,Rep_50,Sales,Competitor B
+OPP-000592,CUST-000715,PROD-000013,Company M715 - Product M,Qualification,457818.21,51,2024-04-22,2023-12-11,New Business,APAC,Rep_14,Marketing,Competitor B
+OPP-000593,CUST-000412,PROD-000018,Company V412 - Product R,Qualification,46981.43,38,2023-08-22,2023-05-11,New Business,APAC,Rep_40,Partner,
+OPP-000594,CUST-000640,PROD-000012,Company P640 - Product L,Negotiation,457091.83,23,2025-04-18,2025-01-31,Cross-sell,Latin America,Rep_45,Marketing,Competitor C
+OPP-000595,CUST-000741,PROD-000012,Company M741 - Product L,Closed Won,739213.05,43,2024-08-10,2024-06-15,Upsell,Latin America,Rep_45,Referral,Competitor A
+OPP-000596,CUST-000360,PROD-000002,Company V360 - Product B,Prospecting,418689.56,65,2024-01-21,2023-12-11,New Business,EMEA,Rep_44,Sales,Competitor B
+OPP-000597,CUST-000543,PROD-000008,Company W543 - Product H,Qualification,492918.66,80,2024-11-29,2024-08-16,Cross-sell,North America,Rep_35,Web,
+OPP-000598,CUST-000442,PROD-000017,Company Z442 - Product Q,Closed Won,561305.08,34,2023-06-20,2023-02-04,New Business,North America,Rep_49,Partner,Competitor B
+OPP-000599,CUST-000714,PROD-000013,Company L714 - Product M,Negotiation,615383.92,80,2024-08-10,2024-04-30,Cross-sell,Latin America,Rep_9,Partner,Competitor B
+OPP-000600,CUST-000822,PROD-000002,Company P822 - Product B,Qualification,168469.97,43,2023-07-07,2023-01-16,Upsell,EMEA,Rep_14,Partner,
+OPP-000601,CUST-000786,PROD-000007,Company F786 - Product G,Negotiation,199478.92,19,2024-10-11,2024-07-11,Renewal,North America,Rep_32,Sales,
+OPP-000602,CUST-000235,PROD-000015,Company A235 - Product O,Proposal,373321.36,38,2023-05-07,2023-03-20,New Business,APAC,Rep_24,Referral,Competitor A
+OPP-000603,CUST-000357,PROD-000014,Company S357 - Product N,Qualification,386456.44,58,2025-06-11,2024-12-13,New Business,EMEA,Rep_18,Partner,Competitor A
+OPP-000604,CUST-000981,PROD-000005,Company S981 - Product E,Qualification,672840.81,62,2024-10-11,2024-09-10,Renewal,EMEA,Rep_7,Marketing,Competitor A
+OPP-000605,CUST-000585,PROD-000012,Company M585 - Product L,Negotiation,931372.58,21,2024-03-04,2023-09-28,New Business,Latin America,Rep_12,Marketing,
+OPP-000606,CUST-000463,PROD-000012,Company U463 - Product L,Closed Won,133942.65,50,2025-08-07,2025-04-03,Upsell,Latin America,Rep_30,Partner,
+OPP-000607,CUST-000555,PROD-000015,Company I555 - Product O,Closed Won,556689.44,37,2024-06-07,2024-02-24,New Business,EMEA,Rep_38,Marketing,Competitor B
+OPP-000608,CUST-000713,PROD-000003,Company K713 - Product C,Prospecting,288094.65,35,2023-11-12,2023-09-26,New Business,EMEA,Rep_20,Marketing,
+OPP-000609,CUST-000559,PROD-000016,Company M559 - Product P,Prospecting,318929.96,53,2024-11-30,2024-10-10,Upsell,APAC,Rep_24,Sales,Competitor C
+OPP-000610,CUST-000886,PROD-000007,Company B886 - Product G,Prospecting,450484.94,85,2024-11-12,2024-10-13,Cross-sell,Latin America,Rep_27,Partner,
+OPP-000611,CUST-000381,PROD-000003,Company Q381 - Product C,Closed Won,367546.89,10,2023-08-04,2023-02-09,Cross-sell,Latin America,Rep_26,Marketing,
+OPP-000612,CUST-000997,PROD-000018,Company I997 - Product R,Prospecting,302953.07,74,2024-09-03,2024-04-09,Upsell,North America,Rep_1,Marketing,Competitor A
+OPP-000613,CUST-000917,PROD-000016,Company G917 - Product P,Prospecting,270049.36,55,2023-11-28,2023-07-22,Cross-sell,EMEA,Rep_28,Partner,
+OPP-000614,CUST-000972,PROD-000005,Company J972 - Product E,Qualification,463147.39,94,2023-10-06,2023-05-09,Cross-sell,North America,Rep_3,Marketing,
+OPP-000615,CUST-000310,PROD-000004,Company X310 - Product D,Proposal,37048.17,37,2025-06-07,2025-01-13,Cross-sell,North America,Rep_28,Partner,
+OPP-000616,CUST-000273,PROD-000001,Company M273 - Product A,Closed Won,617302.5,77,2025-02-26,2024-10-04,New Business,Latin America,Rep_31,Referral,Competitor B
+OPP-000617,CUST-000281,PROD-000010,Company U281 - Product J,Closed Won,115477.2,39,2024-01-18,2023-09-10,Cross-sell,APAC,Rep_44,Marketing,Competitor B
+OPP-000618,CUST-000593,PROD-000009,Company U593 - Product I,Closed Lost,410475.28,48,2025-06-02,2025-04-15,New Business,APAC,Rep_31,Web,Competitor A
+OPP-000619,CUST-000664,PROD-000001,Company N664 - Product A,Qualification,432361.03,67,2023-12-15,2023-08-18,Upsell,APAC,Rep_20,Marketing,
+OPP-000620,CUST-000781,PROD-000002,Company A781 - Product B,Proposal,494021.33,60,2023-05-18,2023-02-16,New Business,APAC,Rep_2,Marketing,Competitor A
+OPP-000621,CUST-000117,PROD-000011,Company M117 - Product K,Closed Won,606535.09,92,2023-05-23,2023-01-28,Cross-sell,Latin America,Rep_15,Web,Competitor A
+OPP-000622,CUST-000544,PROD-000002,Company X544 - Product B,Proposal,233600.81,14,2023-10-26,2023-06-19,Cross-sell,APAC,Rep_42,Marketing,Competitor A
+OPP-000623,CUST-000099,PROD-000011,Company U99 - Product K,Negotiation,297687.15,76,2024-02-24,2023-10-15,Renewal,North America,Rep_19,Referral,Competitor C
+OPP-000624,CUST-000449,PROD-000010,Company G449 - Product J,Closed Won,384785.31,91,2025-12-12,2025-06-16,Cross-sell,North America,Rep_23,Referral,Competitor C
+OPP-000625,CUST-000393,PROD-000011,Company C393 - Product K,Prospecting,472624.11,93,2024-09-14,2024-06-13,Renewal,North America,Rep_50,Marketing,Competitor A
+OPP-000626,CUST-000011,PROD-000011,Company K11 - Product K,Negotiation,799953.07,10,2023-04-13,2023-02-24,Renewal,North America,Rep_37,Web,Competitor B
+OPP-000627,CUST-000831,PROD-000006,Company Y831 - Product F,Negotiation,320066.64,49,2025-01-19,2024-10-31,Upsell,EMEA,Rep_44,Marketing,
+OPP-000628,CUST-000860,PROD-000001,Company B860 - Product A,Prospecting,119541.59,19,2024-11-14,2024-06-24,New Business,North America,Rep_30,Referral,
+OPP-000629,CUST-000807,PROD-000008,Company A807 - Product H,Prospecting,992773.48,45,2025-06-07,2025-05-02,Upsell,North America,Rep_19,Marketing,Competitor C
+OPP-000630,CUST-000097,PROD-000017,Company S97 - Product Q,Proposal,95269.7,55,2024-02-13,2023-10-21,Renewal,APAC,Rep_7,Web,Competitor C
+OPP-000631,CUST-000916,PROD-000013,Company F916 - Product M,Qualification,240960.58,94,2024-01-30,2023-08-21,Cross-sell,EMEA,Rep_10,Referral,
+OPP-000632,CUST-000991,PROD-000010,Company C991 - Product J,Proposal,380285.35,30,2025-03-17,2024-12-19,New Business,APAC,Rep_5,Web,Competitor A
+OPP-000633,CUST-000790,PROD-000012,Company J790 - Product L,Qualification,729623.8,56,2025-07-19,2025-04-18,New Business,APAC,Rep_33,Marketing,Competitor C
+OPP-000634,CUST-000113,PROD-000012,Company I113 - Product L,Closed Lost,798997.58,84,2024-12-09,2024-09-24,Renewal,Latin America,Rep_31,Web,Competitor C
+OPP-000635,CUST-000434,PROD-000008,Company R434 - Product H,Closed Lost,392057.66,24,2024-01-07,2023-08-08,Renewal,North America,Rep_42,Sales,Competitor A
+OPP-000636,CUST-000829,PROD-000006,Company W829 - Product F,Qualification,961913.74,48,2024-08-27,2024-04-10,Upsell,EMEA,Rep_46,Partner,
+OPP-000637,CUST-000314,PROD-000012,Company B314 - Product L,Closed Lost,725546.67,35,2024-11-11,2024-05-22,Cross-sell,North America,Rep_25,Referral,
+OPP-000638,CUST-000409,PROD-000016,Company S409 - Product P,Proposal,970051.42,41,2025-08-05,2025-05-28,Renewal,North America,Rep_29,Web,
+OPP-000639,CUST-000930,PROD-000010,Company T930 - Product J,Closed Lost,101563.89,99,2024-05-29,2024-04-09,Upsell,Latin America,Rep_32,Partner,
+OPP-000640,CUST-000639,PROD-000017,Company O639 - Product Q,Prospecting,895600.78,71,2023-12-01,2023-07-25,Renewal,North America,Rep_18,Marketing,
+OPP-000641,CUST-000907,PROD-000017,Company W907 - Product Q,Proposal,370199.15,92,2023-03-03,2023-01-07,Renewal,APAC,Rep_24,Sales,Competitor C
+OPP-000642,CUST-000031,PROD-000001,Company E31 - Product A,Closed Won,134042.44,25,2024-08-25,2024-04-18,Upsell,Latin America,Rep_11,Partner,Competitor A
+OPP-000643,CUST-000876,PROD-000012,Company R876 - Product L,Closed Lost,813352.31,81,2024-04-25,2024-02-07,Cross-sell,North America,Rep_7,Partner,
+OPP-000644,CUST-000270,PROD-000003,Company J270 - Product C,Negotiation,216539.66,85,2024-04-20,2023-11-06,Renewal,APAC,Rep_45,Marketing,Competitor A
+OPP-000645,CUST-000666,PROD-000011,Company P666 - Product K,Proposal,665995.44,90,2025-12-10,2025-08-19,Cross-sell,APAC,Rep_50,Web,Competitor A
+OPP-000646,CUST-000721,PROD-000014,Company S721 - Product N,Qualification,603306.78,40,2025-08-19,2025-05-17,Upsell,EMEA,Rep_33,Web,Competitor A
+OPP-000647,CUST-000443,PROD-000005,Company A443 - Product E,Closed Won,985708.96,60,2025-07-09,2025-01-11,Upsell,North America,Rep_31,Partner,Competitor C
+OPP-000648,CUST-000837,PROD-000002,Company E837 - Product B,Closed Won,835413.48,93,2023-06-23,2023-05-10,Cross-sell,EMEA,Rep_12,Marketing,
+OPP-000649,CUST-000612,PROD-000009,Company N612 - Product I,Qualification,395535.84,16,2025-09-04,2025-08-04,New Business,EMEA,Rep_32,Marketing,Competitor A
+OPP-000650,CUST-000350,PROD-000007,Company L350 - Product G,Closed Lost,64828.95,51,2025-04-01,2024-11-14,New Business,APAC,Rep_25,Web,Competitor A
+OPP-000651,CUST-000965,PROD-000008,Company C965 - Product H,Closed Won,465076.38,81,2025-08-20,2025-05-16,Cross-sell,APAC,Rep_29,Referral,
+OPP-000652,CUST-000653,PROD-000012,Company C653 - Product L,Qualification,948083.24,39,2023-04-24,2023-03-25,New Business,North America,Rep_41,Referral,
+OPP-000653,CUST-000373,PROD-000010,Company I373 - Product J,Closed Lost,766143.7,77,2023-09-08,2023-05-24,Renewal,North America,Rep_29,Referral,
+OPP-000654,CUST-000491,PROD-000017,Company W491 - Product Q,Closed Lost,689732.48,100,2023-08-14,2023-02-22,Renewal,EMEA,Rep_42,Web,Competitor B
+OPP-000655,CUST-000323,PROD-000012,Company K323 - Product L,Closed Lost,932846.07,19,2023-09-04,2023-07-21,Cross-sell,EMEA,Rep_18,Partner,
+OPP-000656,CUST-000883,PROD-000005,Company Y883 - Product E,Negotiation,679506.34,69,2023-08-08,2023-05-08,Renewal,EMEA,Rep_15,Partner,Competitor C
+OPP-000657,CUST-000314,PROD-000003,Company B314 - Product C,Negotiation,79505.21,27,2025-03-15,2025-01-12,New Business,North America,Rep_25,Referral,
+OPP-000658,CUST-000485,PROD-000002,Company Q485 - Product B,Qualification,30781.35,37,2023-07-09,2023-05-20,Renewal,North America,Rep_17,Partner,Competitor A
+OPP-000659,CUST-000829,PROD-000003,Company W829 - Product C,Negotiation,72499.2,90,2024-08-02,2024-05-07,New Business,EMEA,Rep_46,Sales,Competitor B
+OPP-000660,CUST-000044,PROD-000015,Company R44 - Product O,Proposal,766931.28,98,2024-07-18,2024-02-28,Upsell,EMEA,Rep_28,Web,
+OPP-000661,CUST-000680,PROD-000016,Company D680 - Product P,Proposal,913930.25,88,2023-08-28,2023-07-13,Renewal,Latin America,Rep_19,Web,
+OPP-000662,CUST-000050,PROD-000009,Company X50 - Product I,Prospecting,838235.14,28,2024-01-03,2023-10-08,New Business,EMEA,Rep_15,Referral,Competitor B
+OPP-000663,CUST-000462,PROD-000016,Company T462 - Product P,Qualification,977735.73,27,2025-04-20,2024-11-05,Upsell,Latin America,Rep_39,Web,
+OPP-000664,CUST-000572,PROD-000009,Company Z572 - Product I,Prospecting,183056.83,87,2025-10-21,2025-07-22,Renewal,EMEA,Rep_40,Referral,Competitor C
+OPP-000665,CUST-000766,PROD-000011,Company L766 - Product K,Closed Won,571993.76,31,2024-11-27,2024-09-11,Cross-sell,APAC,Rep_1,Sales,
+OPP-000666,CUST-000914,PROD-000001,Company D914 - Product A,Proposal,265556.81,97,2024-08-10,2024-02-29,Cross-sell,APAC,Rep_44,Sales,
+OPP-000667,CUST-000756,PROD-000001,Company B756 - Product A,Closed Lost,732349.56,65,2025-08-02,2025-02-24,New Business,North America,Rep_41,Marketing,Competitor A
+OPP-000668,CUST-000068,PROD-000001,Company P68 - Product A,Qualification,228578.58,64,2024-02-16,2023-11-13,New Business,EMEA,Rep_30,Referral,
+OPP-000669,CUST-000570,PROD-000018,Company X570 - Product R,Proposal,566309.32,71,2023-03-18,2023-01-26,Cross-sell,EMEA,Rep_15,Partner,Competitor C
+OPP-000670,CUST-000565,PROD-000004,Company S565 - Product D,Closed Lost,663326.81,98,2024-10-14,2024-08-31,Renewal,Latin America,Rep_31,Sales,
+OPP-000671,CUST-000800,PROD-000003,Company T800 - Product C,Negotiation,929780.58,16,2024-09-08,2024-06-27,Cross-sell,Latin America,Rep_9,Referral,Competitor A
+OPP-000672,CUST-000488,PROD-000002,Company T488 - Product B,Qualification,25653.28,44,2025-04-13,2024-12-05,Upsell,North America,Rep_17,Web,Competitor B
+OPP-000673,CUST-000671,PROD-000017,Company U671 - Product Q,Negotiation,186791.78,60,2023-09-08,2023-04-30,New Business,North America,Rep_33,Sales,Competitor B
+OPP-000674,CUST-000472,PROD-000002,Company D472 - Product B,Proposal,513632.74,19,2023-12-28,2023-07-14,New Business,APAC,Rep_31,Sales,
+OPP-000675,CUST-000400,PROD-000016,Company J400 - Product P,Proposal,661315.01,85,2024-05-17,2023-11-24,Renewal,North America,Rep_9,Web,Competitor B
+OPP-000676,CUST-000735,PROD-000001,Company G735 - Product A,Negotiation,970469.63,83,2025-03-29,2025-01-08,Cross-sell,APAC,Rep_18,Web,
+OPP-000677,CUST-000460,PROD-000005,Company R460 - Product E,Proposal,76773.55,92,2024-01-26,2023-11-20,Cross-sell,North America,Rep_50,Web,Competitor C
+OPP-000678,CUST-000096,PROD-000016,Company R96 - Product P,Prospecting,82755.54,71,2025-02-22,2024-11-29,Renewal,EMEA,Rep_20,Web,Competitor A
+OPP-000679,CUST-000583,PROD-000006,Company K583 - Product F,Closed Lost,532428.99,28,2023-12-10,2023-08-12,Renewal,EMEA,Rep_31,Web,
+OPP-000680,CUST-000705,PROD-000012,Company C705 - Product L,Prospecting,168709.55,81,2023-07-30,2023-04-17,Upsell,EMEA,Rep_22,Sales,Competitor B
+OPP-000681,CUST-000505,PROD-000012,Company K505 - Product L,Prospecting,547610.06,56,2023-06-12,2023-02-01,Upsell,North America,Rep_1,Marketing,
+OPP-000682,CUST-000719,PROD-000014,Company Q719 - Product N,Qualification,582256.14,31,2025-03-21,2024-12-17,Upsell,EMEA,Rep_8,Referral,
+OPP-000683,CUST-000315,PROD-000017,Company C315 - Product Q,Qualification,801377.31,15,2024-01-14,2023-08-17,Upsell,Latin America,Rep_28,Marketing,Competitor B
+OPP-000684,CUST-000872,PROD-000017,Company N872 - Product Q,Negotiation,237232.46,64,2025-02-10,2024-10-13,Cross-sell,Latin America,Rep_2,Referral,Competitor C
+OPP-000685,CUST-000465,PROD-000013,Company W465 - Product M,Qualification,12642.68,27,2023-07-03,2023-06-02,New Business,North America,Rep_41,Referral,
+OPP-000686,CUST-000096,PROD-000016,Company R96 - Product P,Prospecting,554909.05,27,2025-10-31,2025-05-15,Renewal,EMEA,Rep_20,Partner,Competitor A
+OPP-000687,CUST-000466,PROD-000016,Company X466 - Product P,Closed Lost,719305.25,72,2024-08-10,2024-03-23,Upsell,APAC,Rep_16,Web,Competitor C
+OPP-000688,CUST-000192,PROD-000001,Company J192 - Product A,Qualification,628458.57,51,2023-07-07,2023-03-09,Cross-sell,Latin America,Rep_31,Marketing,Competitor A
+OPP-000689,CUST-000991,PROD-000012,Company C991 - Product L,Proposal,886151.83,14,2023-06-29,2023-01-19,New Business,APAC,Rep_5,Referral,Competitor C
+OPP-000690,CUST-000426,PROD-000013,Company J426 - Product M,Closed Won,770897.67,100,2025-02-06,2024-12-06,Upsell,EMEA,Rep_45,Web,Competitor B
+OPP-000691,CUST-000866,PROD-000006,Company H866 - Product F,Closed Lost,57179.84,36,2023-12-16,2023-08-01,New Business,EMEA,Rep_23,Web,Competitor B
+OPP-000692,CUST-000253,PROD-000007,Company S253 - Product G,Qualification,329016.41,29,2023-10-25,2023-05-13,Upsell,APAC,Rep_23,Marketing,Competitor B
+OPP-000693,CUST-000587,PROD-000007,Company O587 - Product G,Proposal,685974.82,91,2025-02-24,2024-11-16,Upsell,EMEA,Rep_11,Web,Competitor C
+OPP-000694,CUST-000453,PROD-000006,Company K453 - Product F,Qualification,578572.49,65,2025-09-29,2025-04-06,Upsell,EMEA,Rep_21,Referral,Competitor A
+OPP-000695,CUST-000508,PROD-000006,Company N508 - Product F,Closed Won,120738.65,63,2025-10-13,2025-06-04,Upsell,APAC,Rep_45,Marketing,
+OPP-000696,CUST-000822,PROD-000014,Company P822 - Product N,Negotiation,616094.15,81,2025-10-07,2025-05-10,Cross-sell,EMEA,Rep_14,Marketing,Competitor B
+OPP-000697,CUST-000322,PROD-000005,Company J322 - Product E,Prospecting,261696.76,45,2023-11-02,2023-07-31,New Business,Latin America,Rep_6,Marketing,
+OPP-000698,CUST-000350,PROD-000015,Company L350 - Product O,Negotiation,397054.08,84,2023-09-07,2023-04-12,New Business,APAC,Rep_25,Marketing,
+OPP-000699,CUST-000954,PROD-000012,Company R954 - Product L,Proposal,790891.16,52,2024-04-10,2023-10-22,New Business,North America,Rep_30,Marketing,Competitor C
+OPP-000700,CUST-000121,PROD-000016,Company Q121 - Product P,Closed Lost,104033.86,62,2025-05-02,2025-01-16,Upsell,APAC,Rep_44,Referral,
+OPP-000701,CUST-000489,PROD-000011,Company U489 - Product K,Closed Lost,178256.83,10,2025-10-27,2025-04-30,Upsell,APAC,Rep_32,Partner,Competitor A
+OPP-000702,CUST-000181,PROD-000008,Company Y181 - Product H,Proposal,16010.48,12,2023-09-13,2023-05-02,Renewal,Latin America,Rep_33,Marketing,Competitor B
+OPP-000703,CUST-000961,PROD-000015,Company Y961 - Product O,Proposal,838092.69,100,2023-08-28,2023-05-06,Cross-sell,EMEA,Rep_48,Sales,Competitor B
+OPP-000704,CUST-000614,PROD-000013,Company P614 - Product M,Qualification,141827.53,80,2025-01-25,2024-12-14,Cross-sell,Latin America,Rep_22,Referral,
+OPP-000705,CUST-000291,PROD-000001,Company E291 - Product A,Negotiation,651442.42,91,2023-11-01,2023-07-17,Upsell,Latin America,Rep_35,Partner,Competitor C
+OPP-000706,CUST-000998,PROD-000017,Company J998 - Product Q,Prospecting,955100.52,49,2025-07-03,2025-01-27,Renewal,APAC,Rep_46,Sales,Competitor C
+OPP-000707,CUST-000569,PROD-000012,Company W569 - Product L,Closed Lost,206492.52,56,2025-03-16,2025-02-03,New Business,EMEA,Rep_12,Marketing,Competitor A
+OPP-000708,CUST-000205,PROD-000006,Company W205 - Product F,Proposal,778530.56,51,2025-11-13,2025-07-25,Renewal,APAC,Rep_41,Sales,
+OPP-000709,CUST-000362,PROD-000004,Company X362 - Product D,Closed Lost,547864.89,78,2024-06-15,2024-04-01,Renewal,Latin America,Rep_32,Marketing,Competitor B
+OPP-000710,CUST-000944,PROD-000004,Company H944 - Product D,Negotiation,283596.77,85,2023-04-29,2023-03-26,Upsell,North America,Rep_45,Marketing,Competitor C
+OPP-000711,CUST-000587,PROD-000013,Company O587 - Product M,Proposal,804318.24,78,2025-12-25,2025-07-19,New Business,EMEA,Rep_11,Referral,
+OPP-000712,CUST-000089,PROD-000012,Company K89 - Product L,Closed Won,437448.76,49,2023-07-03,2023-05-01,Upsell,APAC,Rep_8,Referral,Competitor B
+OPP-000713,CUST-000738,PROD-000010,Company J738 - Product J,Closed Lost,335192.01,98,2024-04-26,2024-01-12,Cross-sell,APAC,Rep_31,Referral,Competitor B
+OPP-000714,CUST-000541,PROD-000010,Company U541 - Product J,Proposal,739087.71,55,2023-08-09,2023-02-16,Renewal,Latin America,Rep_9,Web,Competitor C
+OPP-000715,CUST-000366,PROD-000014,Company B366 - Product N,Negotiation,603588.52,21,2024-05-27,2024-03-31,Upsell,EMEA,Rep_28,Web,
+OPP-000716,CUST-000651,PROD-000018,Company A651 - Product R,Closed Won,231264.68,100,2025-07-13,2025-03-27,Cross-sell,North America,Rep_3,Web,
+OPP-000717,CUST-000362,PROD-000016,Company X362 - Product P,Qualification,447730.4,42,2026-01-12,2025-09-21,New Business,Latin America,Rep_32,Marketing,
+OPP-000718,CUST-000775,PROD-000009,Company U775 - Product I,Closed Won,574287.22,55,2023-06-15,2023-01-01,Renewal,APAC,Rep_31,Marketing,Competitor A
+OPP-000719,CUST-000557,PROD-000015,Company K557 - Product O,Proposal,662704.58,31,2025-09-02,2025-06-18,New Business,EMEA,Rep_37,Sales,Competitor B
+OPP-000720,CUST-000621,PROD-000008,Company W621 - Product H,Closed Lost,526471.03,58,2024-03-09,2024-01-24,New Business,Latin America,Rep_45,Referral,Competitor B
+OPP-000721,CUST-000696,PROD-000016,Company T696 - Product P,Negotiation,438296.73,19,2023-12-08,2023-10-06,Upsell,Latin America,Rep_29,Marketing,
+OPP-000722,CUST-000225,PROD-000001,Company Q225 - Product A,Negotiation,903478.82,24,2024-01-16,2023-10-15,Renewal,North America,Rep_34,Referral,
+OPP-000723,CUST-000409,PROD-000003,Company S409 - Product C,Negotiation,114081.22,52,2023-09-17,2023-05-10,New Business,North America,Rep_29,Sales,Competitor B
+OPP-000724,CUST-000388,PROD-000009,Company X388 - Product I,Closed Lost,490892.5,79,2024-11-26,2024-06-17,Cross-sell,Latin America,Rep_37,Sales,
+OPP-000725,CUST-000066,PROD-000012,Company N66 - Product L,Closed Lost,646281.35,81,2024-06-19,2024-01-10,Renewal,Latin America,Rep_19,Referral,Competitor A
+OPP-000726,CUST-000083,PROD-000015,Company E83 - Product O,Proposal,778182.9,83,2024-12-09,2024-07-13,Renewal,Latin America,Rep_16,Sales,Competitor A
+OPP-000727,CUST-000499,PROD-000009,Company E499 - Product I,Closed Won,18467.38,10,2025-05-28,2024-12-29,Upsell,Latin America,Rep_1,Web,
+OPP-000728,CUST-000276,PROD-000018,Company P276 - Product R,Closed Won,586568.51,88,2024-02-02,2023-10-19,Cross-sell,North America,Rep_29,Partner,
+OPP-000729,CUST-000576,PROD-000007,Company D576 - Product G,Closed Lost,662853.11,49,2025-03-11,2024-12-01,New Business,Latin America,Rep_6,Marketing,
+OPP-000730,CUST-000582,PROD-000012,Company J582 - Product L,Closed Won,906570.39,31,2024-07-05,2024-02-17,Upsell,Latin America,Rep_22,Web,Competitor C
+OPP-000731,CUST-000871,PROD-000017,Company M871 - Product Q,Closed Lost,239936.99,67,2024-02-16,2023-10-19,New Business,EMEA,Rep_36,Web,Competitor A
+OPP-000732,CUST-000997,PROD-000014,Company I997 - Product N,Closed Lost,266524.4,53,2026-02-11,2025-08-17,Upsell,North America,Rep_1,Referral,
+OPP-000733,CUST-000324,PROD-000011,Company L324 - Product K,Closed Lost,640462.11,82,2024-01-16,2023-12-04,Renewal,North America,Rep_31,Referral,
+OPP-000734,CUST-000833,PROD-000006,Company A833 - Product F,Negotiation,370235.53,50,2026-02-08,2025-09-16,Upsell,North America,Rep_16,Web,Competitor C
+OPP-000735,CUST-000190,PROD-000006,Company H190 - Product F,Closed Lost,986360.04,80,2024-04-19,2024-03-02,Renewal,EMEA,Rep_11,Web,
+OPP-000736,CUST-000099,PROD-000008,Company U99 - Product H,Qualification,991072.71,96,2023-12-22,2023-11-13,Renewal,North America,Rep_19,Sales,Competitor A
+OPP-000737,CUST-000804,PROD-000006,Company X804 - Product F,Closed Lost,673224.73,97,2024-08-25,2024-03-29,Renewal,EMEA,Rep_49,Web,Competitor A
+OPP-000738,CUST-000372,PROD-000012,Company H372 - Product L,Closed Lost,640452.76,34,2025-10-08,2025-06-20,New Business,APAC,Rep_49,Marketing,
+OPP-000739,CUST-000238,PROD-000011,Company D238 - Product K,Closed Won,225732.89,84,2024-08-13,2024-06-04,Upsell,EMEA,Rep_20,Sales,Competitor B
+OPP-000740,CUST-000075,PROD-000015,Company W75 - Product O,Closed Lost,506038.84,46,2025-02-04,2025-01-02,Upsell,APAC,Rep_4,Sales,
+OPP-000741,CUST-000429,PROD-000006,Company M429 - Product F,Closed Won,607974.62,26,2025-02-05,2024-08-18,Cross-sell,EMEA,Rep_14,Marketing,Competitor B
+OPP-000742,CUST-000563,PROD-000011,Company Q563 - Product K,Prospecting,767329.51,27,2023-12-26,2023-08-18,Cross-sell,North America,Rep_5,Sales,Competitor B
+OPP-000743,CUST-000898,PROD-000018,Company N898 - Product R,Qualification,320426.35,95,2024-08-06,2024-04-14,New Business,Latin America,Rep_32,Partner,
+OPP-000744,CUST-000530,PROD-000003,Company J530 - Product C,Qualification,269856.88,98,2024-05-19,2024-04-06,Upsell,APAC,Rep_36,Sales,Competitor B
+OPP-000745,CUST-000564,PROD-000017,Company R564 - Product Q,Proposal,487250.7,19,2023-12-22,2023-09-09,Renewal,EMEA,Rep_46,Referral,Competitor C
+OPP-000746,CUST-000597,PROD-000004,Company Y597 - Product D,Prospecting,589308.46,100,2025-10-25,2025-06-26,Cross-sell,EMEA,Rep_16,Partner,Competitor C
+OPP-000747,CUST-000728,PROD-000003,Company Z728 - Product C,Negotiation,986827.6,15,2025-02-18,2024-12-12,New Business,APAC,Rep_24,Marketing,
+OPP-000748,CUST-000958,PROD-000008,Company V958 - Product H,Negotiation,258961.69,34,2023-09-11,2023-04-27,Cross-sell,North America,Rep_7,Partner,Competitor C
+OPP-000749,CUST-000384,PROD-000001,Company T384 - Product A,Proposal,801327.47,60,2024-09-27,2024-07-31,Upsell,EMEA,Rep_39,Marketing,
+OPP-000750,CUST-000811,PROD-000005,Company E811 - Product E,Qualification,927899.83,86,2024-09-22,2024-07-31,Upsell,APAC,Rep_43,Web,Competitor A
+OPP-000751,CUST-000506,PROD-000010,Company L506 - Product J,Negotiation,331678.46,66,2025-09-22,2025-05-12,New Business,EMEA,Rep_15,Sales,Competitor B
+OPP-000752,CUST-000416,PROD-000013,Company Z416 - Product M,Qualification,907288.28,79,2025-09-07,2025-06-09,New Business,APAC,Rep_2,Partner,
+OPP-000753,CUST-000693,PROD-000011,Company Q693 - Product K,Proposal,425053.87,98,2024-02-28,2023-10-31,Upsell,EMEA,Rep_23,Marketing,Competitor C
+OPP-000754,CUST-000132,PROD-000012,Company B132 - Product L,Proposal,330603.61,53,2024-07-11,2024-01-15,Cross-sell,Latin America,Rep_13,Marketing,Competitor B
+OPP-000755,CUST-000259,PROD-000011,Company Y259 - Product K,Negotiation,220123.52,52,2026-02-05,2025-09-19,New Business,North America,Rep_34,Web,
+OPP-000756,CUST-000949,PROD-000006,Company M949 - Product F,Closed Won,609657.99,96,2024-08-30,2024-05-13,Upsell,EMEA,Rep_17,Sales,Competitor B
+OPP-000757,CUST-000810,PROD-000003,Company D810 - Product C,Negotiation,859247.45,34,2024-11-07,2024-05-14,New Business,APAC,Rep_8,Partner,
+OPP-000758,CUST-000830,PROD-000008,Company X830 - Product H,Prospecting,524353.1,98,2023-05-09,2023-02-06,Renewal,North America,Rep_28,Referral,
+OPP-000759,CUST-000701,PROD-000011,Company Y701 - Product K,Closed Lost,983220.36,28,2025-05-26,2025-01-08,New Business,Latin America,Rep_38,Sales,Competitor B
+OPP-000760,CUST-000093,PROD-000016,Company O93 - Product P,Prospecting,568591.44,57,2023-09-27,2023-06-03,New Business,North America,Rep_22,Web,Competitor A
+OPP-000761,CUST-000338,PROD-000012,Company Z338 - Product L,Closed Won,46754.95,92,2024-09-08,2024-04-13,New Business,APAC,Rep_34,Marketing,Competitor C
+OPP-000762,CUST-000452,PROD-000010,Company J452 - Product J,Prospecting,180917.02,17,2025-02-16,2024-11-25,Upsell,APAC,Rep_32,Partner,Competitor C
+OPP-000763,CUST-000203,PROD-000011,Company U203 - Product K,Prospecting,462524.85,86,2025-02-16,2024-09-18,Upsell,EMEA,Rep_35,Marketing,
+OPP-000764,CUST-000136,PROD-000006,Company F136 - Product F,Closed Lost,83146.85,93,2023-09-23,2023-07-06,Upsell,North America,Rep_15,Sales,
+OPP-000765,CUST-000485,PROD-000005,Company Q485 - Product E,Closed Lost,856616.66,19,2025-04-02,2025-01-22,Renewal,North America,Rep_17,Referral,Competitor B
+OPP-000766,CUST-000190,PROD-000012,Company H190 - Product L,Prospecting,851599.85,38,2023-06-01,2023-04-26,Renewal,EMEA,Rep_11,Marketing,Competitor B
+OPP-000767,CUST-000898,PROD-000009,Company N898 - Product I,Negotiation,51702.49,17,2023-12-17,2023-06-27,Upsell,Latin America,Rep_32,Sales,
+OPP-000768,CUST-000702,PROD-000008,Company Z702 - Product H,Closed Lost,468668.02,45,2023-11-11,2023-08-27,Renewal,Latin America,Rep_30,Marketing,Competitor C
+OPP-000769,CUST-000242,PROD-000018,Company H242 - Product R,Closed Won,564063.2,72,2024-04-05,2023-10-20,Renewal,APAC,Rep_29,Sales,
+OPP-000770,CUST-000016,PROD-000008,Company P16 - Product H,Qualification,71518.11,34,2025-10-20,2025-08-13,Upsell,APAC,Rep_30,Referral,Competitor A
+OPP-000771,CUST-000319,PROD-000009,Company G319 - Product I,Prospecting,981042.23,31,2026-01-25,2025-09-10,New Business,Latin America,Rep_6,Partner,Competitor C
+OPP-000772,CUST-000364,PROD-000017,Company Z364 - Product Q,Closed Lost,424895.37,74,2024-08-26,2024-03-01,Cross-sell,EMEA,Rep_22,Sales,Competitor C
+OPP-000773,CUST-000825,PROD-000011,Company S825 - Product K,Negotiation,23009.54,82,2024-09-30,2024-05-17,New Business,North America,Rep_31,Web,Competitor C
+OPP-000774,CUST-000396,PROD-000002,Company F396 - Product B,Qualification,697826.75,42,2024-07-21,2024-03-26,Upsell,EMEA,Rep_35,Partner,
+OPP-000775,CUST-000250,PROD-000013,Company P250 - Product M,Negotiation,554611.18,98,2023-11-13,2023-08-11,Renewal,EMEA,Rep_8,Web,
+OPP-000776,CUST-000197,PROD-000012,Company O197 - Product L,Closed Won,268262.51,66,2025-08-15,2025-07-16,Cross-sell,APAC,Rep_2,Web,Competitor C
+OPP-000777,CUST-000607,PROD-000012,Company I607 - Product L,Negotiation,463566.72,16,2024-09-23,2024-05-05,New Business,North America,Rep_25,Sales,
+OPP-000778,CUST-000067,PROD-000014,Company O67 - Product N,Closed Won,610597.05,29,2024-11-26,2024-06-10,Cross-sell,APAC,Rep_25,Sales,
+OPP-000779,CUST-000132,PROD-000010,Company B132 - Product J,Prospecting,797609.77,27,2024-11-26,2024-06-18,Upsell,Latin America,Rep_13,Web,Competitor A
+OPP-000780,CUST-000650,PROD-000016,Company Z650 - Product P,Closed Lost,758330.55,42,2025-02-23,2024-12-25,Renewal,APAC,Rep_3,Marketing,Competitor A
+OPP-000781,CUST-000858,PROD-000004,Company Z858 - Product D,Qualification,867029.87,19,2024-05-26,2023-12-16,Renewal,Latin America,Rep_18,Marketing,Competitor C
+OPP-000782,CUST-000852,PROD-000011,Company T852 - Product K,Closed Lost,720062.98,79,2024-07-11,2024-02-01,New Business,North America,Rep_6,Sales,Competitor A
+OPP-000783,CUST-000783,PROD-000016,Company C783 - Product P,Closed Lost,407405.11,49,2025-05-06,2024-12-07,Cross-sell,EMEA,Rep_17,Marketing,Competitor B
+OPP-000784,CUST-000008,PROD-000005,Company H8 - Product E,Closed Won,528459.75,25,2024-07-05,2024-04-22,Cross-sell,Latin America,Rep_23,Sales,
+OPP-000785,CUST-000585,PROD-000018,Company M585 - Product R,Proposal,245840.17,57,2025-03-11,2024-12-02,New Business,Latin America,Rep_12,Web,Competitor A
+OPP-000786,CUST-000117,PROD-000004,Company M117 - Product D,Closed Won,607890.96,88,2023-09-16,2023-03-28,Cross-sell,Latin America,Rep_15,Referral,Competitor A
+OPP-000787,CUST-000942,PROD-000017,Company F942 - Product Q,Negotiation,12735.45,99,2024-08-17,2024-06-18,Renewal,APAC,Rep_10,Marketing,
+OPP-000788,CUST-000215,PROD-000001,Company G215 - Product A,Closed Lost,688303.41,72,2025-05-04,2025-03-09,Cross-sell,North America,Rep_44,Sales,Competitor A
+OPP-000789,CUST-000954,PROD-000009,Company R954 - Product I,Negotiation,652375.6,17,2024-10-03,2024-05-06,Cross-sell,North America,Rep_30,Marketing,Competitor C
+OPP-000790,CUST-000699,PROD-000011,Company W699 - Product K,Qualification,430402.33,80,2024-02-14,2023-08-20,Cross-sell,Latin America,Rep_29,Web,
+OPP-000791,CUST-000465,PROD-000009,Company W465 - Product I,Negotiation,702394.04,92,2024-05-08,2024-01-24,Renewal,North America,Rep_41,Marketing,Competitor A
+OPP-000792,CUST-000485,PROD-000009,Company Q485 - Product I,Prospecting,100674.85,83,2024-01-01,2023-12-02,New Business,North America,Rep_17,Web,Competitor A
+OPP-000793,CUST-000218,PROD-000017,Company J218 - Product Q,Prospecting,501398.54,56,2025-05-21,2025-04-14,Upsell,Latin America,Rep_42,Marketing,Competitor C
+OPP-000794,CUST-000077,PROD-000001,Company Y77 - Product A,Qualification,354535.43,46,2023-08-12,2023-02-19,Renewal,EMEA,Rep_14,Sales,Competitor B
+OPP-000795,CUST-000071,PROD-000009,Company S71 - Product I,Closed Lost,621595.88,14,2025-02-09,2024-12-21,New Business,Latin America,Rep_25,Sales,
+OPP-000796,CUST-000375,PROD-000004,Company K375 - Product D,Negotiation,370829.64,89,2025-12-09,2025-07-11,Cross-sell,Latin America,Rep_16,Web,Competitor C
+OPP-000797,CUST-000054,PROD-000003,Company B54 - Product C,Qualification,869474.56,64,2025-02-06,2024-10-17,Renewal,Latin America,Rep_28,Partner,Competitor C
+OPP-000798,CUST-000019,PROD-000007,Company S19 - Product G,Qualification,353083.15,59,2025-08-05,2025-05-01,Upsell,Latin America,Rep_20,Marketing,Competitor C
+OPP-000799,CUST-000855,PROD-000004,Company W855 - Product D,Negotiation,291371.31,54,2023-06-19,2023-03-27,Renewal,APAC,Rep_47,Partner,Competitor A
+OPP-000800,CUST-000780,PROD-000017,Company Z780 - Product Q,Closed Lost,852279.55,21,2025-11-07,2025-08-21,Upsell,North America,Rep_7,Web,
+OPP-000801,CUST-000701,PROD-000008,Company Y701 - Product H,Qualification,869714.27,64,2025-07-05,2025-02-24,Renewal,Latin America,Rep_38,Web,
+OPP-000802,CUST-000904,PROD-000003,Company T904 - Product C,Closed Lost,679299.03,58,2023-05-29,2023-04-28,Cross-sell,APAC,Rep_21,Partner,
+OPP-000803,CUST-000826,PROD-000012,Company T826 - Product L,Prospecting,810251.15,68,2025-06-11,2025-02-24,New Business,Latin America,Rep_1,Partner,
+OPP-000804,CUST-000754,PROD-000003,Company Z754 - Product C,Closed Won,726351.47,76,2024-04-10,2023-11-02,New Business,APAC,Rep_26,Partner,Competitor C
+OPP-000805,CUST-000746,PROD-000005,Company R746 - Product E,Closed Won,44511.51,17,2024-11-17,2024-08-25,Cross-sell,APAC,Rep_26,Referral,
+OPP-000806,CUST-000441,PROD-000011,Company Y441 - Product K,Proposal,737126.69,96,2023-10-24,2023-06-25,Renewal,Latin America,Rep_37,Partner,Competitor C
+OPP-000807,CUST-000001,PROD-000003,Company A1 - Product C,Prospecting,569288.05,83,2024-05-25,2023-12-05,Renewal,North America,Rep_48,Sales,Competitor B
+OPP-000808,CUST-000499,PROD-000013,Company E499 - Product M,Proposal,767204.1,50,2023-11-28,2023-09-22,Renewal,Latin America,Rep_1,Referral,Competitor A
+OPP-000809,CUST-000598,PROD-000013,Company Z598 - Product M,Prospecting,99623.88,17,2023-09-19,2023-04-10,Cross-sell,EMEA,Rep_50,Marketing,
+OPP-000810,CUST-000542,PROD-000007,Company V542 - Product G,Negotiation,680653.73,75,2024-03-03,2023-09-14,Cross-sell,APAC,Rep_1,Referral,Competitor B
+OPP-000811,CUST-000595,PROD-000004,Company W595 - Product D,Qualification,85610.42,55,2025-10-12,2025-04-18,Renewal,North America,Rep_44,Marketing,
+OPP-000812,CUST-000586,PROD-000009,Company N586 - Product I,Qualification,61792.17,94,2025-04-07,2024-11-12,Upsell,Latin America,Rep_39,Partner,
+OPP-000813,CUST-000344,PROD-000003,Company F344 - Product C,Prospecting,885902.24,28,2023-05-26,2023-01-09,Cross-sell,North America,Rep_30,Sales,Competitor C
+OPP-000814,CUST-000674,PROD-000008,Company X674 - Product H,Negotiation,666070.81,27,2024-10-24,2024-09-22,Cross-sell,Latin America,Rep_23,Partner,Competitor C
+OPP-000815,CUST-000703,PROD-000014,Company A703 - Product N,Qualification,824409.6,76,2024-12-13,2024-07-13,New Business,Latin America,Rep_46,Referral,Competitor B
+OPP-000816,CUST-000652,PROD-000014,Company B652 - Product N,Prospecting,855326.52,46,2026-02-15,2025-09-18,Cross-sell,Latin America,Rep_39,Referral,
+OPP-000817,CUST-000409,PROD-000003,Company S409 - Product C,Negotiation,311996.63,10,2024-01-27,2023-10-14,Upsell,North America,Rep_29,Referral,Competitor B
+OPP-000818,CUST-000092,PROD-000001,Company N92 - Product A,Negotiation,958826.61,71,2026-02-01,2025-08-15,Cross-sell,APAC,Rep_9,Web,Competitor B
+OPP-000819,CUST-000430,PROD-000007,Company N430 - Product G,Proposal,435482.27,68,2023-06-08,2023-03-24,Renewal,APAC,Rep_29,Partner,
+OPP-000820,CUST-000951,PROD-000004,Company O951 - Product D,Proposal,350695.74,28,2023-05-05,2023-02-18,Renewal,APAC,Rep_21,Web,
+OPP-000821,CUST-000536,PROD-000018,Company P536 - Product R,Closed Won,523285.29,89,2025-02-19,2024-09-26,Renewal,North America,Rep_3,Web,Competitor C
+OPP-000822,CUST-000565,PROD-000016,Company S565 - Product P,Proposal,336095.53,43,2024-03-21,2023-10-28,Cross-sell,Latin America,Rep_31,Marketing,Competitor B
+OPP-000823,CUST-000136,PROD-000002,Company F136 - Product B,Prospecting,124391.21,88,2023-12-15,2023-10-12,Upsell,North America,Rep_15,Web,Competitor A
+OPP-000824,CUST-000115,PROD-000015,Company K115 - Product O,Proposal,962935.38,65,2025-02-22,2024-12-08,Renewal,Latin America,Rep_20,Partner,Competitor A
+OPP-000825,CUST-000093,PROD-000001,Company O93 - Product A,Closed Won,216706.91,58,2025-03-19,2024-12-16,New Business,North America,Rep_22,Marketing,Competitor B
+OPP-000826,CUST-000284,PROD-000002,Company X284 - Product B,Proposal,843074.21,77,2025-08-21,2025-05-10,Cross-sell,EMEA,Rep_13,Web,
+OPP-000827,CUST-000672,PROD-000010,Company V672 - Product J,Negotiation,721579.27,95,2024-01-03,2023-09-06,Renewal,EMEA,Rep_37,Marketing,Competitor A
+OPP-000828,CUST-000692,PROD-000005,Company P692 - Product E,Negotiation,558840.56,61,2024-03-08,2024-01-04,Upsell,Latin America,Rep_12,Sales,Competitor A
+OPP-000829,CUST-000863,PROD-000018,Company E863 - Product R,Negotiation,37940.64,63,2026-01-09,2025-09-16,Cross-sell,North America,Rep_24,Referral,Competitor A
+OPP-000830,CUST-000673,PROD-000006,Company W673 - Product F,Proposal,968122.41,23,2025-10-10,2025-06-06,New Business,EMEA,Rep_37,Sales,Competitor B
+OPP-000831,CUST-000324,PROD-000012,Company L324 - Product L,Closed Lost,924565.14,40,2024-07-07,2024-04-05,New Business,North America,Rep_31,Sales,
+OPP-000832,CUST-000661,PROD-000004,Company K661 - Product D,Closed Lost,184498.27,93,2026-02-12,2025-09-10,New Business,Latin America,Rep_19,Referral,
+OPP-000833,CUST-000877,PROD-000018,Company S877 - Product R,Closed Lost,170331.56,48,2025-03-07,2024-10-12,Cross-sell,Latin America,Rep_43,Web,Competitor B
+OPP-000834,CUST-000933,PROD-000010,Company W933 - Product J,Prospecting,801802.74,23,2025-08-03,2025-06-01,New Business,Latin America,Rep_20,Sales,
+OPP-000835,CUST-000419,PROD-000010,Company C419 - Product J,Prospecting,496627.3,33,2025-06-06,2024-12-16,Renewal,EMEA,Rep_2,Referral,Competitor A
+OPP-000836,CUST-000366,PROD-000009,Company B366 - Product I,Negotiation,422034.46,50,2025-10-30,2025-07-16,Cross-sell,EMEA,Rep_28,Referral,
+OPP-000837,CUST-000649,PROD-000009,Company Y649 - Product I,Closed Won,407326.48,39,2024-04-04,2023-12-06,Renewal,EMEA,Rep_19,Partner,Competitor C
+OPP-000838,CUST-000246,PROD-000010,Company L246 - Product J,Closed Won,930791.38,31,2023-09-10,2023-03-23,Upsell,APAC,Rep_20,Partner,Competitor B
+OPP-000839,CUST-000415,PROD-000004,Company Y415 - Product D,Qualification,915721.5,76,2023-09-03,2023-03-19,Renewal,Latin America,Rep_33,Web,
+OPP-000840,CUST-000664,PROD-000015,Company N664 - Product O,Proposal,835839.3,88,2023-05-22,2023-02-12,Renewal,APAC,Rep_20,Referral,
+OPP-000841,CUST-000641,PROD-000004,Company Q641 - Product D,Proposal,183847.09,74,2024-08-31,2024-06-22,Cross-sell,APAC,Rep_44,Web,Competitor A
+OPP-000842,CUST-000345,PROD-000003,Company G345 - Product C,Qualification,54011.45,20,2024-02-27,2023-12-03,Upsell,Latin America,Rep_38,Referral,
+OPP-000843,CUST-000642,PROD-000004,Company R642 - Product D,Negotiation,100259.14,31,2024-10-13,2024-07-22,Upsell,North America,Rep_35,Marketing,Competitor B
+OPP-000844,CUST-000331,PROD-000011,Company S331 - Product K,Negotiation,945198.77,76,2025-10-26,2025-06-07,Cross-sell,Latin America,Rep_9,Sales,
+OPP-000845,CUST-000329,PROD-000013,Company Q329 - Product M,Closed Lost,485724.87,59,2025-10-12,2025-08-09,Renewal,EMEA,Rep_26,Referral,Competitor C
+OPP-000846,CUST-000047,PROD-000009,Company U47 - Product I,Negotiation,152584.89,69,2023-11-13,2023-07-10,New Business,EMEA,Rep_27,Sales,Competitor B
+OPP-000847,CUST-000232,PROD-000004,Company X232 - Product D,Closed Won,994001.95,71,2023-05-31,2023-01-07,Upsell,EMEA,Rep_32,Partner,
+OPP-000848,CUST-000476,PROD-000001,Company H476 - Product A,Prospecting,957022.12,10,2026-02-01,2025-09-20,Upsell,North America,Rep_11,Referral,Competitor B
+OPP-000849,CUST-000884,PROD-000008,Company Z884 - Product H,Qualification,273300.19,91,2025-08-19,2025-04-23,Cross-sell,APAC,Rep_32,Web,Competitor B
+OPP-000850,CUST-000831,PROD-000001,Company Y831 - Product A,Negotiation,181749.42,93,2024-02-18,2023-12-17,Renewal,EMEA,Rep_44,Web,Competitor A
+OPP-000851,CUST-000099,PROD-000002,Company U99 - Product B,Proposal,337285.74,53,2023-08-11,2023-02-27,Cross-sell,North America,Rep_19,Referral,
+OPP-000852,CUST-000236,PROD-000008,Company B236 - Product H,Prospecting,942103.12,69,2023-11-06,2023-08-12,Upsell,APAC,Rep_16,Sales,
+OPP-000853,CUST-000422,PROD-000007,Company F422 - Product G,Negotiation,923553.08,12,2024-04-06,2023-12-19,Upsell,APAC,Rep_12,Partner,Competitor A
+OPP-000854,CUST-000908,PROD-000018,Company X908 - Product R,Closed Lost,971249.04,52,2025-06-17,2025-02-20,Cross-sell,Latin America,Rep_20,Partner,
+OPP-000855,CUST-000528,PROD-000013,Company H528 - Product M,Closed Won,729180.81,99,2024-09-12,2024-06-17,Renewal,North America,Rep_33,Web,Competitor A
+OPP-000856,CUST-000139,PROD-000012,Company I139 - Product L,Prospecting,112958.97,71,2024-04-17,2023-10-28,New Business,APAC,Rep_30,Partner,
+OPP-000857,CUST-000934,PROD-000017,Company X934 - Product Q,Closed Lost,786498.72,46,2024-07-17,2024-03-07,Renewal,North America,Rep_50,Sales,
+OPP-000858,CUST-000735,PROD-000017,Company G735 - Product Q,Proposal,386312.5,11,2024-05-21,2024-02-05,Cross-sell,APAC,Rep_18,Referral,Competitor C
+OPP-000859,CUST-000628,PROD-000006,Company D628 - Product F,Closed Lost,436921.98,39,2025-04-27,2025-02-03,Upsell,APAC,Rep_5,Sales,
+OPP-000860,CUST-000254,PROD-000004,Company T254 - Product D,Prospecting,965194.32,30,2025-08-28,2025-05-18,Cross-sell,Latin America,Rep_15,Partner,
+OPP-000861,CUST-000334,PROD-000009,Company V334 - Product I,Closed Lost,443326.24,11,2024-09-06,2024-04-21,Upsell,North America,Rep_3,Sales,
+OPP-000862,CUST-000512,PROD-000008,Company R512 - Product H,Proposal,586856.91,85,2024-01-05,2023-09-26,Upsell,Latin America,Rep_48,Web,Competitor C
+OPP-000863,CUST-000247,PROD-000013,Company M247 - Product M,Negotiation,418454.62,91,2023-07-24,2023-02-02,Cross-sell,Latin America,Rep_24,Sales,Competitor A
+OPP-000864,CUST-000595,PROD-000014,Company W595 - Product N,Qualification,944614.13,16,2023-06-24,2023-03-29,Upsell,North America,Rep_44,Referral,
+OPP-000865,CUST-000519,PROD-000012,Company Y519 - Product L,Closed Lost,126154.97,74,2023-07-06,2023-01-30,New Business,APAC,Rep_25,Web,Competitor B
+OPP-000866,CUST-000683,PROD-000008,Company G683 - Product H,Qualification,255273.6,64,2024-12-28,2024-07-11,New Business,APAC,Rep_30,Partner,
+OPP-000867,CUST-000927,PROD-000005,Company Q927 - Product E,Prospecting,47809.02,96,2025-04-07,2025-03-04,New Business,EMEA,Rep_45,Partner,Competitor B
+OPP-000868,CUST-000013,PROD-000006,Company M13 - Product F,Negotiation,287401.48,35,2023-11-21,2023-07-31,Renewal,Latin America,Rep_9,Web,Competitor A
+OPP-000869,CUST-000320,PROD-000004,Company H320 - Product D,Closed Lost,659377.66,72,2023-07-24,2023-05-13,Renewal,Latin America,Rep_12,Marketing,Competitor C
+OPP-000870,CUST-000551,PROD-000017,Company E551 - Product Q,Negotiation,372156.18,65,2025-12-08,2025-08-06,Renewal,APAC,Rep_30,Referral,Competitor C
+OPP-000871,CUST-000861,PROD-000013,Company C861 - Product M,Negotiation,347220.34,53,2024-06-20,2023-12-28,Cross-sell,North America,Rep_41,Partner,Competitor A
+OPP-000872,CUST-000173,PROD-000013,Company Q173 - Product M,Proposal,330968.04,93,2025-09-30,2025-07-01,Renewal,APAC,Rep_38,Sales,
+OPP-000873,CUST-000024,PROD-000003,Company X24 - Product C,Closed Lost,92149.06,24,2025-04-13,2024-12-28,Cross-sell,North America,Rep_3,Partner,Competitor A
+OPP-000874,CUST-000485,PROD-000005,Company Q485 - Product E,Qualification,628022.97,30,2024-11-13,2024-07-26,Upsell,North America,Rep_17,Partner,Competitor B
+OPP-000875,CUST-000129,PROD-000011,Company Y129 - Product K,Prospecting,942980.17,95,2025-09-20,2025-04-08,Upsell,APAC,Rep_13,Marketing,
+OPP-000876,CUST-000824,PROD-000009,Company R824 - Product I,Proposal,105317.89,18,2025-01-12,2024-10-27,New Business,Latin America,Rep_1,Partner,Competitor C
+OPP-000877,CUST-000758,PROD-000011,Company D758 - Product K,Proposal,713427.22,50,2024-07-25,2024-05-18,New Business,Latin America,Rep_43,Sales,Competitor A
+OPP-000878,CUST-000345,PROD-000005,Company G345 - Product E,Closed Lost,144151.2,90,2025-07-25,2025-03-19,Cross-sell,Latin America,Rep_38,Web,Competitor B
+OPP-000879,CUST-000175,PROD-000012,Company S175 - Product L,Closed Won,733344.6,80,2023-04-03,2023-01-27,Cross-sell,EMEA,Rep_10,Marketing,Competitor B
+OPP-000880,CUST-000368,PROD-000008,Company D368 - Product H,Closed Lost,368752.32,40,2025-07-05,2025-04-22,New Business,EMEA,Rep_49,Sales,Competitor C
+OPP-000881,CUST-000196,PROD-000003,Company N196 - Product C,Proposal,19510.86,99,2025-08-31,2025-06-18,Upsell,North America,Rep_27,Web,Competitor B
+OPP-000882,CUST-000044,PROD-000011,Company R44 - Product K,Closed Lost,837141.53,12,2024-04-18,2023-10-24,Cross-sell,EMEA,Rep_28,Marketing,Competitor B
+OPP-000883,CUST-000806,PROD-000016,Company Z806 - Product P,Closed Lost,97661.62,80,2025-05-05,2025-03-27,Cross-sell,North America,Rep_32,Sales,Competitor C
+OPP-000884,CUST-000886,PROD-000005,Company B886 - Product E,Closed Won,323814.65,82,2024-06-18,2024-05-04,New Business,Latin America,Rep_27,Partner,
+OPP-000885,CUST-000558,PROD-000001,Company L558 - Product A,Proposal,97655.22,93,2024-12-13,2024-09-14,Upsell,Latin America,Rep_15,Partner,Competitor C
+OPP-000886,CUST-000161,PROD-000002,Company E161 - Product B,Prospecting,95480.45,86,2024-04-13,2024-02-21,New Business,EMEA,Rep_45,Sales,Competitor C
+OPP-000887,CUST-000651,PROD-000011,Company A651 - Product K,Closed Lost,977620.2,43,2025-07-05,2025-01-28,Cross-sell,North America,Rep_3,Web,Competitor A
+OPP-000888,CUST-000360,PROD-000013,Company V360 - Product M,Qualification,604818.34,97,2023-12-13,2023-07-26,Upsell,EMEA,Rep_44,Web,
+OPP-000889,CUST-000417,PROD-000016,Company A417 - Product P,Negotiation,96312.39,73,2024-10-12,2024-07-13,Cross-sell,North America,Rep_11,Sales,Competitor A
+OPP-000890,CUST-000197,PROD-000014,Company O197 - Product N,Prospecting,159229.94,31,2025-04-18,2025-02-25,Upsell,APAC,Rep_2,Referral,Competitor A
+OPP-000891,CUST-000103,PROD-000007,Company Y103 - Product G,Prospecting,101344.26,85,2023-12-04,2023-08-18,New Business,APAC,Rep_3,Sales,
+OPP-000892,CUST-000530,PROD-000015,Company J530 - Product O,Closed Won,60231.9,79,2024-12-04,2024-06-22,New Business,APAC,Rep_36,Referral,
+OPP-000893,CUST-000810,PROD-000003,Company D810 - Product C,Negotiation,308998.39,56,2025-02-02,2024-11-24,Upsell,APAC,Rep_8,Marketing,
+OPP-000894,CUST-000357,PROD-000005,Company S357 - Product E,Closed Lost,579957.53,85,2023-05-30,2023-04-21,Upsell,EMEA,Rep_18,Marketing,Competitor B
+OPP-000895,CUST-000267,PROD-000009,Company G267 - Product I,Proposal,398629.54,81,2023-10-06,2023-07-16,New Business,North America,Rep_13,Web,Competitor B
+OPP-000896,CUST-000346,PROD-000011,Company H346 - Product K,Negotiation,882191.52,90,2024-01-07,2023-08-28,Renewal,APAC,Rep_38,Marketing,Competitor C
+OPP-000897,CUST-000207,PROD-000009,Company Y207 - Product I,Closed Lost,881196.01,18,2026-02-24,2025-09-24,New Business,Latin America,Rep_30,Marketing,Competitor B
+OPP-000898,CUST-000748,PROD-000012,Company T748 - Product L,Closed Won,902893.91,21,2025-02-05,2024-12-08,Renewal,APAC,Rep_22,Partner,Competitor A
+OPP-000899,CUST-000639,PROD-000017,Company O639 - Product Q,Prospecting,120894.37,36,2024-02-03,2023-11-25,New Business,North America,Rep_18,Sales,Competitor C
+OPP-000900,CUST-000920,PROD-000008,Company J920 - Product H,Proposal,596509.38,65,2025-10-09,2025-09-02,Renewal,North America,Rep_6,Marketing,Competitor C
+OPP-000901,CUST-000313,PROD-000004,Company A313 - Product D,Closed Won,480001.77,60,2025-10-30,2025-07-04,New Business,EMEA,Rep_49,Web,
+OPP-000902,CUST-000033,PROD-000009,Company G33 - Product I,Closed Lost,161961.14,100,2024-05-17,2023-12-22,Upsell,EMEA,Rep_38,Sales,Competitor A
+OPP-000903,CUST-000915,PROD-000002,Company E915 - Product B,Negotiation,758343.61,36,2025-06-24,2025-04-25,Renewal,Latin America,Rep_27,Marketing,Competitor B
+OPP-000904,CUST-000010,PROD-000011,Company J10 - Product K,Negotiation,960084.21,74,2024-12-28,2024-11-09,New Business,APAC,Rep_50,Marketing,Competitor C
+OPP-000905,CUST-000274,PROD-000013,Company N274 - Product M,Closed Lost,757492.7,13,2025-05-17,2025-02-28,Renewal,EMEA,Rep_46,Sales,Competitor A
+OPP-000906,CUST-000853,PROD-000017,Company U853 - Product Q,Negotiation,870949.87,12,2024-04-12,2024-03-10,Cross-sell,EMEA,Rep_4,Referral,
+OPP-000907,CUST-000599,PROD-000018,Company A599 - Product R,Negotiation,914857.4,60,2024-02-23,2023-10-15,Upsell,North America,Rep_31,Sales,Competitor B
+OPP-000908,CUST-000491,PROD-000011,Company W491 - Product K,Closed Lost,466600.4,13,2024-01-15,2023-08-12,New Business,EMEA,Rep_42,Partner,
+OPP-000909,CUST-000560,PROD-000008,Company N560 - Product H,Prospecting,783537.39,84,2025-09-21,2025-04-18,New Business,Latin America,Rep_34,Partner,Competitor A
+OPP-000910,CUST-000027,PROD-000018,Company A27 - Product R,Negotiation,205921.72,33,2024-10-19,2024-07-26,Cross-sell,Latin America,Rep_42,Sales,Competitor A
+OPP-000911,CUST-000683,PROD-000014,Company G683 - Product N,Negotiation,344268.79,78,2025-08-31,2025-03-29,Cross-sell,APAC,Rep_30,Partner,
+OPP-000912,CUST-000337,PROD-000016,Company Y337 - Product P,Closed Won,556538.82,89,2025-02-22,2024-12-11,Upsell,APAC,Rep_6,Web,Competitor C
+OPP-000913,CUST-000762,PROD-000018,Company H762 - Product R,Closed Lost,15152.12,83,2025-02-09,2024-09-06,Upsell,EMEA,Rep_47,Sales,
+OPP-000914,CUST-000580,PROD-000005,Company H580 - Product E,Proposal,914200.87,98,2025-07-26,2025-05-21,Cross-sell,EMEA,Rep_36,Referral,Competitor C
+OPP-000915,CUST-000498,PROD-000004,Company D498 - Product D,Proposal,362510.01,24,2025-04-24,2025-01-30,New Business,APAC,Rep_32,Referral,
+OPP-000916,CUST-000970,PROD-000003,Company H970 - Product C,Prospecting,964216.72,49,2025-08-20,2025-03-11,Upsell,North America,Rep_33,Sales,
+OPP-000917,CUST-000366,PROD-000018,Company B366 - Product R,Closed Won,565185.78,36,2024-11-08,2024-05-22,Renewal,EMEA,Rep_28,Sales,
+OPP-000918,CUST-000306,PROD-000017,Company T306 - Product Q,Closed Won,842776.01,34,2025-08-24,2025-06-18,Upsell,North America,Rep_2,Referral,Competitor A
+OPP-000919,CUST-000543,PROD-000004,Company W543 - Product D,Proposal,697908.4,62,2023-05-09,2023-02-03,Renewal,North America,Rep_35,Partner,
+OPP-000920,CUST-000789,PROD-000012,Company I789 - Product L,Negotiation,426880.71,45,2024-04-25,2023-11-15,Renewal,Latin America,Rep_1,Web,Competitor C
+OPP-000921,CUST-000410,PROD-000016,Company T410 - Product P,Negotiation,238579.4,21,2023-06-13,2023-04-11,New Business,APAC,Rep_37,Web,Competitor B
+OPP-000922,CUST-000154,PROD-000011,Company X154 - Product K,Negotiation,339587.19,31,2023-10-13,2023-04-19,Renewal,Latin America,Rep_15,Web,
+OPP-000923,CUST-000569,PROD-000008,Company W569 - Product H,Prospecting,267546.62,75,2023-05-26,2023-02-08,New Business,EMEA,Rep_12,Referral,Competitor A
+OPP-000924,CUST-000281,PROD-000014,Company U281 - Product N,Closed Lost,778490.31,42,2023-06-13,2023-04-24,Cross-sell,APAC,Rep_44,Web,Competitor B
+OPP-000925,CUST-000206,PROD-000011,Company X206 - Product K,Prospecting,709666.28,37,2024-11-15,2024-07-11,New Business,EMEA,Rep_42,Marketing,
+OPP-000926,CUST-000021,PROD-000003,Company U21 - Product C,Negotiation,127080.12,49,2024-11-10,2024-07-05,New Business,EMEA,Rep_39,Sales,
+OPP-000927,CUST-000273,PROD-000013,Company M273 - Product M,Prospecting,521233.06,31,2023-07-29,2023-03-19,New Business,Latin America,Rep_31,Partner,Competitor C
+OPP-000928,CUST-000391,PROD-000012,Company A391 - Product L,Closed Lost,634286.63,58,2024-04-11,2023-12-14,Cross-sell,North America,Rep_27,Sales,
+OPP-000929,CUST-000350,PROD-000007,Company L350 - Product G,Qualification,385977.1,42,2024-08-24,2024-05-27,Renewal,APAC,Rep_25,Web,Competitor A
+OPP-000930,CUST-000467,PROD-000011,Company Y467 - Product K,Prospecting,206420.55,96,2024-01-08,2023-10-01,Cross-sell,APAC,Rep_17,Partner,Competitor C
+OPP-000931,CUST-000550,PROD-000012,Company D550 - Product L,Closed Won,360630.59,62,2025-10-02,2025-05-17,New Business,EMEA,Rep_46,Marketing,Competitor B
+OPP-000932,CUST-000049,PROD-000011,Company W49 - Product K,Prospecting,101788.68,62,2023-03-14,2023-01-08,Upsell,EMEA,Rep_3,Web,Competitor B
+OPP-000933,CUST-000691,PROD-000001,Company O691 - Product A,Qualification,968987.36,58,2026-03-05,2025-09-06,Renewal,EMEA,Rep_27,Partner,Competitor B
+OPP-000934,CUST-000187,PROD-000007,Company E187 - Product G,Prospecting,655116.72,66,2025-03-01,2024-12-08,Renewal,APAC,Rep_2,Referral,Competitor B
+OPP-000935,CUST-000430,PROD-000015,Company N430 - Product O,Proposal,661539.0,17,2024-12-26,2024-07-01,Cross-sell,APAC,Rep_29,Web,Competitor A
+OPP-000936,CUST-000032,PROD-000006,Company F32 - Product F,Closed Won,201741.91,13,2026-03-25,2025-09-30,New Business,Latin America,Rep_47,Web,Competitor C
+OPP-000937,CUST-000503,PROD-000002,Company I503 - Product B,Closed Won,122366.95,34,2023-06-18,2023-02-03,Cross-sell,EMEA,Rep_6,Marketing,Competitor B
+OPP-000938,CUST-000836,PROD-000015,Company D836 - Product O,Closed Won,632081.01,81,2024-01-16,2023-10-09,Upsell,Latin America,Rep_44,Web,
+OPP-000939,CUST-000124,PROD-000011,Company T124 - Product K,Prospecting,694117.08,32,2023-07-08,2023-02-04,Cross-sell,EMEA,Rep_4,Referral,Competitor C
+OPP-000940,CUST-000086,PROD-000007,Company H86 - Product G,Closed Lost,132872.45,33,2025-10-14,2025-06-16,Cross-sell,North America,Rep_27,Partner,
+OPP-000941,CUST-000365,PROD-000016,Company A365 - Product P,Negotiation,433469.3,52,2025-05-21,2025-02-05,Upsell,Latin America,Rep_30,Marketing,
+OPP-000942,CUST-000365,PROD-000006,Company A365 - Product F,Closed Lost,701182.15,55,2025-09-30,2025-05-12,Upsell,Latin America,Rep_30,Web,Competitor C
+OPP-000943,CUST-000658,PROD-000015,Company H658 - Product O,Closed Won,17674.89,11,2023-08-19,2023-06-22,Renewal,EMEA,Rep_11,Marketing,
+OPP-000944,CUST-000417,PROD-000012,Company A417 - Product L,Proposal,312972.64,84,2023-11-08,2023-07-29,Cross-sell,North America,Rep_11,Referral,Competitor B
+OPP-000945,CUST-000922,PROD-000006,Company L922 - Product F,Proposal,677416.32,62,2023-11-20,2023-08-28,Upsell,Latin America,Rep_21,Sales,
+OPP-000946,CUST-000494,PROD-000009,Company Z494 - Product I,Closed Lost,519243.15,72,2023-12-05,2023-10-13,New Business,EMEA,Rep_40,Marketing,Competitor A
+OPP-000947,CUST-000343,PROD-000012,Company E343 - Product L,Prospecting,470472.07,23,2024-06-01,2024-03-31,Cross-sell,Latin America,Rep_46,Partner,
+OPP-000948,CUST-000628,PROD-000011,Company D628 - Product K,Prospecting,740290.28,40,2024-03-30,2024-02-19,Cross-sell,APAC,Rep_5,Referral,Competitor C
+OPP-000949,CUST-000263,PROD-000003,Company C263 - Product C,Proposal,98963.57,46,2024-10-08,2024-07-26,Upsell,North America,Rep_3,Partner,Competitor C
+OPP-000950,CUST-000060,PROD-000003,Company H60 - Product C,Qualification,789303.72,79,2025-05-23,2025-03-03,Upsell,EMEA,Rep_3,Web,Competitor B
+OPP-000951,CUST-000182,PROD-000007,Company Z182 - Product G,Closed Won,811581.07,55,2025-04-03,2024-11-21,Renewal,Latin America,Rep_12,Referral,
+OPP-000952,CUST-000009,PROD-000001,Company I9 - Product A,Closed Lost,216037.49,27,2023-09-21,2023-05-08,Cross-sell,North America,Rep_11,Web,Competitor C
+OPP-000953,CUST-000408,PROD-000012,Company R408 - Product L,Negotiation,951079.69,70,2024-12-07,2024-10-14,New Business,EMEA,Rep_42,Partner,
+OPP-000954,CUST-000921,PROD-000004,Company K921 - Product D,Qualification,884696.15,18,2025-01-07,2024-07-27,Renewal,EMEA,Rep_38,Marketing,
+OPP-000955,CUST-000060,PROD-000014,Company H60 - Product N,Closed Won,284819.28,10,2025-08-21,2025-03-20,New Business,EMEA,Rep_3,Marketing,
+OPP-000956,CUST-000226,PROD-000003,Company R226 - Product C,Prospecting,307689.8,61,2023-08-06,2023-05-03,Cross-sell,North America,Rep_30,Web,Competitor A
+OPP-000957,CUST-000870,PROD-000008,Company L870 - Product H,Prospecting,999364.9,74,2025-12-18,2025-09-18,New Business,APAC,Rep_11,Referral,
+OPP-000958,CUST-000361,PROD-000018,Company W361 - Product R,Proposal,180737.27,48,2024-06-10,2024-01-07,Upsell,EMEA,Rep_5,Referral,
+OPP-000959,CUST-000296,PROD-000018,Company J296 - Product R,Closed Lost,767740.37,100,2025-08-13,2025-05-28,Upsell,EMEA,Rep_45,Web,
+OPP-000960,CUST-000618,PROD-000006,Company T618 - Product F,Proposal,563972.18,73,2026-02-14,2025-09-20,New Business,North America,Rep_6,Marketing,
+OPP-000961,CUST-000854,PROD-000014,Company V854 - Product N,Closed Won,888482.54,90,2024-10-02,2024-07-27,Cross-sell,Latin America,Rep_1,Sales,Competitor B
+OPP-000962,CUST-000545,PROD-000003,Company Y545 - Product C,Prospecting,165255.89,93,2024-05-29,2023-12-09,New Business,EMEA,Rep_13,Referral,Competitor B
+OPP-000963,CUST-000225,PROD-000001,Company Q225 - Product A,Qualification,412117.14,83,2025-08-10,2025-02-12,New Business,North America,Rep_34,Referral,
+OPP-000964,CUST-000535,PROD-000018,Company O535 - Product R,Negotiation,417815.39,12,2025-01-18,2024-11-12,Renewal,North America,Rep_7,Partner,Competitor B
+OPP-000965,CUST-000123,PROD-000009,Company S123 - Product I,Qualification,830655.3,92,2024-11-15,2024-07-16,Renewal,EMEA,Rep_46,Marketing,
+OPP-000966,CUST-000564,PROD-000010,Company R564 - Product J,Negotiation,760400.84,95,2024-04-24,2023-11-11,Upsell,EMEA,Rep_46,Marketing,Competitor A
+OPP-000967,CUST-000484,PROD-000013,Company P484 - Product M,Prospecting,197022.79,70,2025-05-31,2025-04-29,New Business,Latin America,Rep_42,Web,Competitor A
+OPP-000968,CUST-000342,PROD-000007,Company D342 - Product G,Qualification,492543.97,17,2025-09-22,2025-04-10,Renewal,EMEA,Rep_13,Web,
+OPP-000969,CUST-000314,PROD-000018,Company B314 - Product R,Qualification,46218.61,100,2023-09-26,2023-08-19,Upsell,North America,Rep_25,Partner,
+OPP-000970,CUST-000711,PROD-000008,Company I711 - Product H,Closed Won,163005.05,98,2024-02-23,2023-10-05,Renewal,EMEA,Rep_3,Partner,
+OPP-000971,CUST-000460,PROD-000017,Company R460 - Product Q,Negotiation,934531.01,32,2024-08-07,2024-03-26,Cross-sell,North America,Rep_50,Marketing,
+OPP-000972,CUST-000366,PROD-000010,Company B366 - Product J,Proposal,676465.65,44,2025-07-23,2025-03-28,Renewal,EMEA,Rep_28,Partner,
+OPP-000973,CUST-000920,PROD-000011,Company J920 - Product K,Negotiation,476182.17,56,2023-08-25,2023-05-17,New Business,North America,Rep_6,Referral,
+OPP-000974,CUST-000974,PROD-000018,Company L974 - Product R,Closed Won,111933.24,85,2023-09-21,2023-06-14,Renewal,EMEA,Rep_44,Web,
+OPP-000975,CUST-000540,PROD-000004,Company T540 - Product D,Prospecting,860513.5,15,2024-03-13,2023-12-25,Cross-sell,North America,Rep_49,Partner,Competitor B
+OPP-000976,CUST-000999,PROD-000003,Company K999 - Product C,Qualification,70400.02,65,2025-04-27,2025-02-11,Renewal,APAC,Rep_15,Referral,Competitor B
+OPP-000977,CUST-000860,PROD-000011,Company B860 - Product K,Qualification,133757.26,59,2023-06-04,2023-03-01,Cross-sell,North America,Rep_30,Sales,Competitor C
+OPP-000978,CUST-000444,PROD-000013,Company B444 - Product M,Negotiation,230453.76,11,2025-10-10,2025-09-02,Renewal,Latin America,Rep_46,Partner,Competitor A
+OPP-000979,CUST-000672,PROD-000011,Company V672 - Product K,Negotiation,234829.29,21,2025-06-09,2025-01-20,Cross-sell,EMEA,Rep_37,Sales,Competitor B
+OPP-000980,CUST-000862,PROD-000008,Company D862 - Product H,Negotiation,405714.95,71,2024-02-07,2023-10-06,New Business,APAC,Rep_42,Sales,Competitor C
+OPP-000981,CUST-000317,PROD-000011,Company E317 - Product K,Closed Won,208104.61,91,2025-06-21,2024-12-26,New Business,Latin America,Rep_44,Marketing,Competitor C
+OPP-000982,CUST-000875,PROD-000006,Company Q875 - Product F,Qualification,405446.04,62,2025-08-01,2025-05-10,Upsell,APAC,Rep_28,Sales,
+OPP-000983,CUST-000248,PROD-000007,Company N248 - Product G,Qualification,224928.37,43,2024-05-22,2024-03-20,Upsell,Latin America,Rep_17,Referral,Competitor C
+OPP-000984,CUST-000455,PROD-000006,Company M455 - Product F,Negotiation,167747.46,76,2025-03-13,2024-12-14,Renewal,APAC,Rep_33,Sales,Competitor B
+OPP-000985,CUST-000254,PROD-000009,Company T254 - Product I,Closed Lost,184946.74,53,2024-11-18,2024-05-24,Upsell,Latin America,Rep_15,Marketing,Competitor A
+OPP-000986,CUST-000596,PROD-000002,Company X596 - Product B,Qualification,720286.14,99,2023-10-09,2023-08-27,New Business,North America,Rep_14,Referral,
+OPP-000987,CUST-000321,PROD-000001,Company I321 - Product A,Qualification,658430.22,42,2023-12-24,2023-11-16,Upsell,Latin America,Rep_6,Web,Competitor A
+OPP-000988,CUST-000189,PROD-000013,Company G189 - Product M,Qualification,199176.52,35,2023-12-01,2023-10-01,Upsell,APAC,Rep_40,Referral,Competitor C
+OPP-000989,CUST-000322,PROD-000007,Company J322 - Product G,Negotiation,638271.16,20,2024-03-13,2024-01-11,Cross-sell,Latin America,Rep_6,Web,
+OPP-000990,CUST-000616,PROD-000016,Company R616 - Product P,Prospecting,276688.38,38,2025-02-21,2024-10-02,New Business,Latin America,Rep_9,Referral,
+OPP-000991,CUST-000658,PROD-000010,Company H658 - Product J,Closed Lost,645300.43,57,2025-05-29,2025-03-31,Renewal,EMEA,Rep_11,Web,
+OPP-000992,CUST-000775,PROD-000018,Company U775 - Product R,Negotiation,544950.22,93,2025-03-13,2024-11-05,Cross-sell,APAC,Rep_31,Partner,Competitor C
+OPP-000993,CUST-000258,PROD-000018,Company X258 - Product R,Proposal,730627.36,98,2024-01-16,2023-11-11,New Business,Latin America,Rep_45,Partner,
+OPP-000994,CUST-000999,PROD-000004,Company K999 - Product D,Closed Lost,543985.57,38,2025-04-09,2024-11-12,Upsell,APAC,Rep_15,Web,Competitor C
+OPP-000995,CUST-000040,PROD-000017,Company N40 - Product Q,Proposal,214196.04,28,2023-06-25,2023-01-31,Upsell,APAC,Rep_40,Referral,
+OPP-000996,CUST-000355,PROD-000009,Company Q355 - Product I,Closed Won,369032.95,36,2024-09-23,2024-06-18,Upsell,APAC,Rep_6,Referral,
+OPP-000997,CUST-000532,PROD-000014,Company L532 - Product N,Closed Lost,804760.99,14,2023-11-01,2023-08-07,Renewal,North America,Rep_35,Referral,
+OPP-000998,CUST-000388,PROD-000014,Company X388 - Product N,Closed Lost,675408.94,37,2024-07-17,2024-04-24,New Business,Latin America,Rep_37,Partner,Competitor A
+OPP-000999,CUST-000939,PROD-000015,Company C939 - Product O,Qualification,103657.07,75,2024-01-04,2023-09-01,Renewal,EMEA,Rep_8,Partner,Competitor C

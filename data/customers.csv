@@ -1,0 +1,1000 @@
+customer_id,customer_name,industry,company_size,region,country,annual_revenue,account_owner,created_date,customer_tier
+CUST-000001,Company A1,Technology,Large,North America,United States,112382158.34,Rep_48,2023-04-15,Bronze
+CUST-000002,Company B2,Technology,Small,Latin America,Brazil,110100349.43,Rep_33,2024-09-08,Bronze
+CUST-000003,Company C3,Energy,Enterprise,EMEA,Germany,225155314.1,Rep_18,2023-01-07,Silver
+CUST-000004,Company D4,Education,Large,Latin America,Argentina,108441567.29,Rep_49,2023-12-11,Bronze
+CUST-000005,Company E5,Media,Small,North America,Canada,423899688.81,Rep_39,2023-09-28,Bronze
+CUST-000006,Company F6,Energy,Small,Latin America,Colombia,40321298.84,Rep_19,2024-10-05,Gold
+CUST-000007,Company G7,Healthcare,Small,EMEA,Germany,386761102.05,Rep_6,2023-08-27,Bronze
+CUST-000008,Company H8,Manufacturing,Enterprise,Latin America,Chile,82164394.48,Rep_23,2023-08-03,Gold
+CUST-000009,Company I9,Transportation,Medium,North America,Mexico,364834272.18,Rep_11,2024-04-18,Platinum
+CUST-000010,Company J10,Energy,Medium,APAC,Singapore,421583108.17,Rep_50,2023-02-27,Silver
+CUST-000011,Company K11,Education,Enterprise,North America,Canada,34028114.0,Rep_37,2025-01-05,Gold
+CUST-000012,Company L12,Telecommunications,Enterprise,EMEA,Spain,72292923.63,Rep_9,2023-09-10,Gold
+CUST-000013,Company M13,Transportation,Enterprise,Latin America,Chile,110441058.82,Rep_9,2024-06-05,Platinum
+CUST-000014,Company N14,Technology,Small,North America,United States,314095574.81,Rep_44,2024-03-08,Bronze
+CUST-000015,Company O15,Media,Enterprise,Latin America,Chile,485568110.43,Rep_1,2024-11-27,Bronze
+CUST-000016,Company P16,Education,Small,APAC,Singapore,217947860.08,Rep_30,2023-01-04,Gold
+CUST-000017,Company Q17,Energy,Small,EMEA,France,420993004.74,Rep_33,2024-09-15,Silver
+CUST-000018,Company R18,Education,Medium,EMEA,UAE,476796374.08,Rep_34,2023-01-01,Gold
+CUST-000019,Company S19,Technology,Small,Latin America,Chile,439482217.03,Rep_20,2023-09-03,Bronze
+CUST-000020,Company T20,Transportation,Small,EMEA,United Kingdom,366221889.83,Rep_5,2025-02-17,Silver
+CUST-000021,Company U21,Telecommunications,Medium,EMEA,France,264309219.92,Rep_39,2024-03-09,Silver
+CUST-000022,Company V22,Manufacturing,Enterprise,EMEA,France,219611941.87,Rep_34,2024-04-07,Bronze
+CUST-000023,Company W23,Retail,Small,EMEA,France,11496095.74,Rep_36,2023-08-24,Silver
+CUST-000024,Company X24,Healthcare,Small,North America,United States,34632763.73,Rep_3,2023-12-05,Bronze
+CUST-000025,Company Y25,Manufacturing,Enterprise,EMEA,Germany,270077731.77,Rep_47,2024-08-07,Platinum
+CUST-000026,Company Z26,Telecommunications,Enterprise,EMEA,Germany,48068572.45,Rep_43,2024-03-17,Gold
+CUST-000027,Company A27,Media,Enterprise,Latin America,Brazil,337008909.1,Rep_42,2023-04-11,Bronze
+CUST-000028,Company B28,Education,Small,Latin America,Argentina,96603446.0,Rep_35,2024-04-04,Silver
+CUST-000029,Company C29,Finance,Large,Latin America,Colombia,125653417.49,Rep_5,2024-03-29,Bronze
+CUST-000030,Company D30,Energy,Small,North America,United States,463257124.52,Rep_16,2023-06-20,Platinum
+CUST-000031,Company E31,Telecommunications,Medium,Latin America,Colombia,451318989.89,Rep_11,2024-01-24,Bronze
+CUST-000032,Company F32,Manufacturing,Enterprise,Latin America,Chile,212080735.51,Rep_47,2025-03-13,Platinum
+CUST-000033,Company G33,Retail,Large,EMEA,Germany,484385973.12,Rep_38,2025-01-23,Bronze
+CUST-000034,Company H34,Technology,Small,APAC,China,238917470.04,Rep_34,2023-06-11,Bronze
+CUST-000035,Company I35,Finance,Small,North America,Mexico,34912470.82,Rep_16,2024-02-18,Bronze
+CUST-000036,Company J36,Transportation,Small,EMEA,UAE,41909719.34,Rep_43,2024-08-20,Gold
+CUST-000037,Company K37,Retail,Large,APAC,Australia,133541641.75,Rep_9,2024-11-18,Gold
+CUST-000038,Company L38,Education,Small,Latin America,Brazil,229684475.79,Rep_37,2023-04-13,Bronze
+CUST-000039,Company M39,Energy,Large,EMEA,Germany,466696429.62,Rep_5,2023-09-08,Gold
+CUST-000040,Company N40,Finance,Enterprise,APAC,China,352066422.62,Rep_40,2024-10-31,Bronze
+CUST-000041,Company O41,Healthcare,Medium,APAC,Singapore,58598906.54,Rep_7,2025-01-30,Silver
+CUST-000042,Company P42,Manufacturing,Medium,APAC,Singapore,102595058.85,Rep_41,2023-09-28,Platinum
+CUST-000043,Company Q43,Technology,Small,APAC,India,414844696.6,Rep_3,2023-01-04,Gold
+CUST-000044,Company R44,Manufacturing,Medium,EMEA,Spain,276288530.14,Rep_28,2024-07-28,Bronze
+CUST-000045,Company S45,Healthcare,Medium,North America,Mexico,18978040.89,Rep_24,2024-08-19,Silver
+CUST-000046,Company T46,Finance,Small,Latin America,Chile,182961106.15,Rep_3,2024-01-02,Silver
+CUST-000047,Company U47,Healthcare,Large,EMEA,UAE,442183216.02,Rep_27,2024-09-27,Silver
+CUST-000048,Company V48,Finance,Medium,EMEA,Spain,13368394.59,Rep_48,2023-12-07,Platinum
+CUST-000049,Company W49,Manufacturing,Medium,EMEA,United Kingdom,191888319.58,Rep_3,2024-04-26,Silver
+CUST-000050,Company X50,Telecommunications,Large,EMEA,France,410447654.1,Rep_15,2023-08-17,Bronze
+CUST-000051,Company Y51,Media,Large,EMEA,France,432312118.07,Rep_50,2023-10-13,Gold
+CUST-000052,Company Z52,Energy,Large,Latin America,Brazil,58555534.17,Rep_17,2023-07-02,Gold
+CUST-000053,Company A53,Healthcare,Enterprise,North America,Canada,364543985.27,Rep_21,2024-03-22,Bronze
+CUST-000054,Company B54,Transportation,Medium,Latin America,Chile,23148880.32,Rep_28,2023-01-02,Silver
+CUST-000055,Company C55,Media,Small,APAC,Singapore,311954549.56,Rep_43,2023-05-08,Gold
+CUST-000056,Company D56,Media,Large,APAC,India,348906998.68,Rep_36,2023-05-11,Silver
+CUST-000057,Company E57,Media,Medium,Latin America,Chile,203631509.21,Rep_1,2023-11-08,Gold
+CUST-000058,Company F58,Media,Large,EMEA,Spain,221451222.4,Rep_44,2023-08-07,Platinum
+CUST-000059,Company G59,Healthcare,Large,EMEA,UAE,332263064.32,Rep_40,2023-12-10,Bronze
+CUST-000060,Company H60,Manufacturing,Medium,EMEA,Germany,74529627.16,Rep_3,2023-09-08,Platinum
+CUST-000061,Company I61,Telecommunications,Enterprise,North America,Mexico,288259778.81,Rep_46,2024-12-14,Platinum
+CUST-000062,Company J62,Media,Medium,Latin America,Argentina,328372947.54,Rep_1,2025-02-07,Bronze
+CUST-000063,Company K63,Retail,Medium,Latin America,Colombia,26058974.19,Rep_16,2023-05-05,Platinum
+CUST-000064,Company L64,Telecommunications,Large,EMEA,Spain,306713509.06,Rep_47,2024-05-31,Platinum
+CUST-000065,Company M65,Finance,Enterprise,Latin America,Colombia,130336582.68,Rep_16,2024-10-14,Gold
+CUST-000066,Company N66,Retail,Large,Latin America,Colombia,39664193.58,Rep_19,2023-08-29,Gold
+CUST-000067,Company O67,Education,Small,APAC,Australia,76264498.35,Rep_25,2024-12-11,Silver
+CUST-000068,Company P68,Healthcare,Enterprise,EMEA,Spain,166109814.13,Rep_30,2024-03-01,Bronze
+CUST-000069,Company Q69,Media,Enterprise,EMEA,UAE,473084954.76,Rep_2,2025-02-22,Platinum
+CUST-000070,Company R70,Technology,Large,Latin America,Chile,376984087.4,Rep_27,2024-07-05,Silver
+CUST-000071,Company S71,Retail,Large,Latin America,Colombia,243335354.91,Rep_25,2023-12-11,Platinum
+CUST-000072,Company T72,Telecommunications,Medium,EMEA,UAE,267527691.14,Rep_26,2024-08-29,Bronze
+CUST-000073,Company U73,Media,Medium,North America,Canada,91682784.23,Rep_17,2024-01-24,Gold
+CUST-000074,Company V74,Telecommunications,Large,EMEA,France,380853624.24,Rep_25,2023-10-12,Platinum
+CUST-000075,Company W75,Healthcare,Enterprise,APAC,Japan,374763106.28,Rep_4,2023-12-25,Silver
+CUST-000076,Company X76,Technology,Small,North America,United States,100480980.5,Rep_2,2024-09-28,Silver
+CUST-000077,Company Y77,Finance,Enterprise,EMEA,United Kingdom,282420821.38,Rep_14,2024-04-21,Gold
+CUST-000078,Company Z78,Finance,Small,APAC,Australia,482395665.74,Rep_7,2024-08-15,Bronze
+CUST-000079,Company A79,Transportation,Enterprise,APAC,India,470793828.67,Rep_13,2023-03-19,Silver
+CUST-000080,Company B80,Manufacturing,Small,North America,Mexico,391535037.83,Rep_23,2024-06-29,Platinum
+CUST-000081,Company C81,Healthcare,Large,APAC,Japan,424938237.87,Rep_32,2023-04-19,Platinum
+CUST-000082,Company D82,Telecommunications,Medium,APAC,India,88892343.58,Rep_34,2024-10-28,Gold
+CUST-000083,Company E83,Telecommunications,Enterprise,Latin America,Chile,161829986.91,Rep_16,2023-03-30,Gold
+CUST-000084,Company F84,Retail,Enterprise,Latin America,Colombia,168861913.33,Rep_32,2023-11-29,Silver
+CUST-000085,Company G85,Retail,Large,Latin America,Chile,170829082.74,Rep_39,2024-12-19,Gold
+CUST-000086,Company H86,Energy,Medium,North America,United States,121436669.14,Rep_27,2024-05-15,Silver
+CUST-000087,Company I87,Telecommunications,Enterprise,Latin America,Brazil,47433621.93,Rep_15,2024-02-19,Silver
+CUST-000088,Company J88,Transportation,Large,APAC,India,277183004.55,Rep_23,2024-03-11,Gold
+CUST-000089,Company K89,Telecommunications,Large,APAC,Singapore,126450434.42,Rep_8,2025-01-08,Silver
+CUST-000090,Company L90,Healthcare,Medium,APAC,Australia,108975935.3,Rep_31,2023-10-11,Gold
+CUST-000091,Company M91,Retail,Large,North America,United States,181079653.51,Rep_20,2023-01-15,Silver
+CUST-000092,Company N92,Technology,Small,APAC,China,146776185.63,Rep_9,2024-10-15,Platinum
+CUST-000093,Company O93,Technology,Large,North America,Canada,239878390.09,Rep_22,2023-07-08,Bronze
+CUST-000094,Company P94,Telecommunications,Small,APAC,Japan,200953013.68,Rep_5,2024-08-13,Bronze
+CUST-000095,Company Q95,Finance,Large,EMEA,United Kingdom,496965143.23,Rep_8,2024-07-25,Platinum
+CUST-000096,Company R96,Energy,Enterprise,EMEA,Spain,454343684.43,Rep_20,2024-08-25,Platinum
+CUST-000097,Company S97,Transportation,Small,APAC,China,480094279.94,Rep_7,2025-02-20,Silver
+CUST-000098,Company T98,Manufacturing,Small,EMEA,Germany,120692723.66,Rep_36,2023-03-18,Silver
+CUST-000099,Company U99,Media,Enterprise,North America,Mexico,297311786.36,Rep_19,2023-02-03,Silver
+CUST-000100,Company V100,Manufacturing,Enterprise,APAC,Japan,344005075.12,Rep_17,2025-03-17,Silver
+CUST-000101,Company W101,Healthcare,Medium,Latin America,Argentina,454297311.16,Rep_10,2023-03-15,Bronze
+CUST-000102,Company X102,Manufacturing,Large,EMEA,Spain,63052475.43,Rep_45,2023-11-08,Platinum
+CUST-000103,Company Y103,Energy,Enterprise,APAC,India,41140484.1,Rep_3,2024-03-18,Gold
+CUST-000104,Company Z104,Technology,Small,APAC,Australia,480993639.99,Rep_37,2024-08-24,Bronze
+CUST-000105,Company A105,Transportation,Small,APAC,Australia,235779910.8,Rep_42,2024-03-28,Gold
+CUST-000106,Company B106,Transportation,Enterprise,EMEA,Spain,484558562.8,Rep_31,2023-12-23,Platinum
+CUST-000107,Company C107,Education,Small,APAC,Australia,165572028.13,Rep_45,2024-05-22,Gold
+CUST-000108,Company D108,Energy,Small,Latin America,Colombia,44941836.6,Rep_17,2023-11-28,Bronze
+CUST-000109,Company E109,Energy,Small,Latin America,Colombia,207210537.83,Rep_13,2024-06-14,Gold
+CUST-000110,Company F110,Telecommunications,Small,Latin America,Argentina,134261062.9,Rep_9,2023-10-22,Platinum
+CUST-000111,Company G111,Healthcare,Small,Latin America,Argentina,355181629.73,Rep_20,2024-07-18,Bronze
+CUST-000112,Company H112,Healthcare,Medium,Latin America,Brazil,231262499.2,Rep_8,2024-10-25,Silver
+CUST-000113,Company I113,Manufacturing,Large,Latin America,Colombia,417527248.84,Rep_31,2023-09-07,Platinum
+CUST-000114,Company J114,Media,Medium,EMEA,UAE,254612204.9,Rep_9,2023-03-13,Gold
+CUST-000115,Company K115,Education,Large,Latin America,Brazil,142136652.66,Rep_20,2024-08-24,Platinum
+CUST-000116,Company L116,Telecommunications,Enterprise,EMEA,France,166887537.9,Rep_49,2024-07-10,Platinum
+CUST-000117,Company M117,Education,Medium,Latin America,Argentina,286327023.35,Rep_15,2025-03-05,Platinum
+CUST-000118,Company N118,Education,Enterprise,North America,Mexico,456801653.74,Rep_25,2024-01-31,Silver
+CUST-000119,Company O119,Technology,Medium,Latin America,Chile,434980456.37,Rep_29,2023-04-13,Platinum
+CUST-000120,Company P120,Finance,Enterprise,North America,Mexico,485008440.23,Rep_5,2024-04-25,Gold
+CUST-000121,Company Q121,Transportation,Enterprise,APAC,Japan,426030880.88,Rep_44,2024-06-30,Platinum
+CUST-000122,Company R122,Telecommunications,Small,APAC,China,35141952.84,Rep_41,2024-12-01,Gold
+CUST-000123,Company S123,Healthcare,Enterprise,EMEA,United Kingdom,380424476.8,Rep_46,2023-04-13,Platinum
+CUST-000124,Company T124,Manufacturing,Small,EMEA,United Kingdom,162862958.72,Rep_4,2023-10-28,Gold
+CUST-000125,Company U125,Media,Medium,APAC,Australia,266051992.76,Rep_37,2024-11-29,Silver
+CUST-000126,Company V126,Finance,Small,EMEA,UAE,435548959.72,Rep_40,2024-11-30,Silver
+CUST-000127,Company W127,Transportation,Medium,Latin America,Argentina,231113806.76,Rep_17,2024-04-15,Gold
+CUST-000128,Company X128,Telecommunications,Large,North America,Mexico,273752470.66,Rep_5,2024-03-28,Gold
+CUST-000129,Company Y129,Media,Large,APAC,India,422806658.65,Rep_13,2024-01-29,Platinum
+CUST-000130,Company Z130,Retail,Enterprise,North America,Mexico,180120619.63,Rep_19,2024-12-17,Gold
+CUST-000131,Company A131,Media,Large,North America,United States,283398579.46,Rep_44,2025-03-07,Bronze
+CUST-000132,Company B132,Manufacturing,Medium,Latin America,Chile,110283264.93,Rep_13,2024-09-27,Gold
+CUST-000133,Company C133,Healthcare,Small,EMEA,France,394516631.52,Rep_3,2024-08-16,Gold
+CUST-000134,Company D134,Healthcare,Large,EMEA,France,373992951.6,Rep_12,2023-07-25,Silver
+CUST-000135,Company E135,Energy,Large,APAC,Australia,129228072.2,Rep_31,2023-10-30,Gold
+CUST-000136,Company F136,Telecommunications,Small,North America,United States,377321595.04,Rep_15,2024-11-23,Platinum
+CUST-000137,Company G137,Healthcare,Enterprise,APAC,Japan,132964830.6,Rep_8,2024-04-10,Gold
+CUST-000138,Company H138,Transportation,Enterprise,APAC,Singapore,55064705.0,Rep_15,2024-04-27,Bronze
+CUST-000139,Company I139,Transportation,Medium,APAC,Japan,318066557.27,Rep_30,2024-12-18,Gold
+CUST-000140,Company J140,Healthcare,Medium,Latin America,Brazil,473184504.91,Rep_20,2024-05-19,Bronze
+CUST-000141,Company K141,Retail,Medium,North America,Canada,227368234.69,Rep_43,2025-01-30,Platinum
+CUST-000142,Company L142,Media,Small,EMEA,Spain,308210454.81,Rep_18,2023-02-03,Gold
+CUST-000143,Company M143,Telecommunications,Enterprise,EMEA,Germany,427869646.46,Rep_7,2024-12-03,Gold
+CUST-000144,Company N144,Technology,Enterprise,APAC,Singapore,95714472.52,Rep_8,2024-04-10,Bronze
+CUST-000145,Company O145,Transportation,Small,EMEA,United Kingdom,393610500.64,Rep_16,2023-05-09,Silver
+CUST-000146,Company P146,Energy,Medium,North America,Mexico,108759724.61,Rep_15,2023-12-03,Silver
+CUST-000147,Company Q147,Manufacturing,Medium,North America,United States,270567512.97,Rep_12,2023-04-23,Bronze
+CUST-000148,Company R148,Technology,Large,EMEA,Germany,294837608.1,Rep_2,2023-06-28,Gold
+CUST-000149,Company S149,Finance,Enterprise,North America,Mexico,57711004.09,Rep_5,2024-05-02,Platinum
+CUST-000150,Company T150,Energy,Small,APAC,India,252415506.2,Rep_40,2023-02-14,Gold
+CUST-000151,Company U151,Technology,Small,Latin America,Colombia,423801973.04,Rep_28,2024-12-03,Bronze
+CUST-000152,Company V152,Telecommunications,Small,Latin America,Brazil,161733798.05,Rep_10,2023-03-09,Silver
+CUST-000153,Company W153,Transportation,Large,APAC,India,497319250.17,Rep_34,2023-10-29,Platinum
+CUST-000154,Company X154,Healthcare,Small,Latin America,Argentina,215604900.89,Rep_15,2024-02-28,Gold
+CUST-000155,Company Y155,Media,Enterprise,Latin America,Brazil,156961626.65,Rep_21,2024-11-12,Gold
+CUST-000156,Company Z156,Finance,Enterprise,APAC,Japan,46521169.39,Rep_6,2023-04-06,Platinum
+CUST-000157,Company A157,Education,Medium,North America,Mexico,30930508.01,Rep_36,2024-07-29,Gold
+CUST-000158,Company B158,Media,Large,North America,Mexico,470623804.56,Rep_28,2025-01-08,Bronze
+CUST-000159,Company C159,Transportation,Large,APAC,Singapore,52696682.4,Rep_33,2023-08-06,Silver
+CUST-000160,Company D160,Retail,Small,Latin America,Chile,422841335.88,Rep_24,2023-04-28,Gold
+CUST-000161,Company E161,Media,Small,EMEA,UAE,464613061.21,Rep_45,2023-10-01,Bronze
+CUST-000162,Company F162,Manufacturing,Large,EMEA,France,176160686.95,Rep_12,2023-05-27,Platinum
+CUST-000163,Company G163,Finance,Small,North America,United States,373309769.24,Rep_14,2024-01-21,Platinum
+CUST-000164,Company H164,Education,Medium,Latin America,Chile,156507047.48,Rep_21,2025-03-06,Bronze
+CUST-000165,Company I165,Finance,Medium,North America,Mexico,25831483.72,Rep_6,2023-10-06,Platinum
+CUST-000166,Company J166,Telecommunications,Enterprise,Latin America,Colombia,137310255.34,Rep_49,2024-06-08,Bronze
+CUST-000167,Company K167,Media,Small,APAC,Singapore,339430728.57,Rep_38,2024-05-13,Gold
+CUST-000168,Company L168,Retail,Enterprise,North America,Mexico,28336197.3,Rep_14,2023-11-05,Silver
+CUST-000169,Company M169,Manufacturing,Large,EMEA,France,60872187.51,Rep_32,2025-02-03,Platinum
+CUST-000170,Company N170,Finance,Enterprise,EMEA,UAE,352131960.43,Rep_33,2024-07-26,Gold
+CUST-000171,Company O171,Media,Small,North America,Canada,10352026.76,Rep_5,2023-11-17,Platinum
+CUST-000172,Company P172,Media,Large,Latin America,Brazil,203111121.23,Rep_21,2023-06-25,Platinum
+CUST-000173,Company Q173,Healthcare,Enterprise,APAC,Japan,122414920.94,Rep_38,2024-02-15,Bronze
+CUST-000174,Company R174,Manufacturing,Large,Latin America,Argentina,167201242.62,Rep_11,2023-03-20,Bronze
+CUST-000175,Company S175,Education,Large,EMEA,Germany,118898155.62,Rep_10,2023-09-20,Silver
+CUST-000176,Company T176,Transportation,Medium,EMEA,United Kingdom,89395918.34,Rep_50,2024-10-05,Platinum
+CUST-000177,Company U177,Transportation,Enterprise,Latin America,Chile,432259190.54,Rep_41,2023-11-20,Silver
+CUST-000178,Company V178,Healthcare,Enterprise,Latin America,Colombia,316061174.89,Rep_18,2024-08-28,Bronze
+CUST-000179,Company W179,Energy,Small,APAC,Singapore,231409500.74,Rep_3,2023-02-28,Gold
+CUST-000180,Company X180,Healthcare,Small,APAC,China,297445829.5,Rep_25,2024-04-18,Bronze
+CUST-000181,Company Y181,Transportation,Medium,Latin America,Chile,302897911.2,Rep_33,2023-06-04,Bronze
+CUST-000182,Company Z182,Healthcare,Large,Latin America,Brazil,252769951.75,Rep_12,2023-02-10,Silver
+CUST-000183,Company A183,Telecommunications,Medium,Latin America,Chile,187053139.07,Rep_19,2024-02-01,Platinum
+CUST-000184,Company B184,Transportation,Small,APAC,Singapore,33890015.29,Rep_7,2024-07-25,Platinum
+CUST-000185,Company C185,Manufacturing,Medium,APAC,Singapore,41669491.74,Rep_43,2023-05-25,Gold
+CUST-000186,Company D186,Media,Medium,APAC,China,354708173.17,Rep_6,2023-11-14,Platinum
+CUST-000187,Company E187,Finance,Small,APAC,India,254735754.72,Rep_2,2024-01-07,Gold
+CUST-000188,Company F188,Retail,Large,EMEA,Spain,96810611.6,Rep_9,2023-06-08,Bronze
+CUST-000189,Company G189,Healthcare,Small,APAC,Singapore,438319993.5,Rep_40,2023-05-15,Platinum
+CUST-000190,Company H190,Finance,Medium,EMEA,UAE,404712816.1,Rep_11,2025-01-08,Platinum
+CUST-000191,Company I191,Media,Large,North America,Mexico,360073251.22,Rep_29,2024-09-17,Gold
+CUST-000192,Company J192,Retail,Medium,Latin America,Chile,482832721.96,Rep_31,2023-07-18,Gold
+CUST-000193,Company K193,Telecommunications,Large,Latin America,Colombia,251950439.05,Rep_27,2023-06-15,Silver
+CUST-000194,Company L194,Manufacturing,Small,EMEA,Spain,437184355.58,Rep_36,2023-04-16,Bronze
+CUST-000195,Company M195,Healthcare,Medium,APAC,Singapore,225210290.97,Rep_33,2023-05-31,Platinum
+CUST-000196,Company N196,Retail,Enterprise,North America,Canada,465305491.64,Rep_27,2023-02-24,Platinum
+CUST-000197,Company O197,Retail,Enterprise,APAC,Japan,188081424.04,Rep_2,2023-11-23,Bronze
+CUST-000198,Company P198,Finance,Medium,APAC,Japan,144152819.26,Rep_31,2024-12-13,Silver
+CUST-000199,Company Q199,Telecommunications,Small,Latin America,Brazil,10482938.57,Rep_14,2023-06-03,Platinum
+CUST-000200,Company R200,Manufacturing,Medium,North America,Canada,61802324.23,Rep_16,2024-03-05,Platinum
+CUST-000201,Company S201,Healthcare,Enterprise,North America,Mexico,268490838.37,Rep_41,2024-06-11,Silver
+CUST-000202,Company T202,Manufacturing,Enterprise,EMEA,United Kingdom,307789981.81,Rep_16,2024-08-07,Platinum
+CUST-000203,Company U203,Healthcare,Large,EMEA,United Kingdom,476748435.31,Rep_35,2024-06-03,Bronze
+CUST-000204,Company V204,Telecommunications,Small,Latin America,Colombia,490538671.85,Rep_17,2025-02-04,Bronze
+CUST-000205,Company W205,Healthcare,Large,APAC,Australia,366737569.7,Rep_41,2023-04-17,Gold
+CUST-000206,Company X206,Technology,Large,EMEA,UAE,169935081.83,Rep_42,2023-06-29,Platinum
+CUST-000207,Company Y207,Finance,Medium,Latin America,Brazil,358306483.74,Rep_30,2023-02-07,Gold
+CUST-000208,Company Z208,Technology,Medium,EMEA,United Kingdom,158482314.2,Rep_20,2024-06-11,Platinum
+CUST-000209,Company A209,Manufacturing,Small,Latin America,Argentina,143769336.88,Rep_50,2023-02-18,Gold
+CUST-000210,Company B210,Healthcare,Large,APAC,India,444853771.99,Rep_48,2024-03-26,Platinum
+CUST-000211,Company C211,Finance,Enterprise,APAC,India,184306116.55,Rep_34,2023-10-01,Bronze
+CUST-000212,Company D212,Healthcare,Enterprise,Latin America,Argentina,273191724.27,Rep_21,2023-04-16,Bronze
+CUST-000213,Company E213,Manufacturing,Large,APAC,India,301708192.24,Rep_28,2023-06-20,Platinum
+CUST-000214,Company F214,Telecommunications,Small,APAC,Singapore,307810889.62,Rep_28,2023-10-09,Bronze
+CUST-000215,Company G215,Media,Large,North America,Mexico,400746891.81,Rep_44,2023-06-13,Bronze
+CUST-000216,Company H216,Transportation,Enterprise,EMEA,United Kingdom,63988782.13,Rep_16,2025-03-08,Gold
+CUST-000217,Company I217,Media,Small,APAC,China,77565643.53,Rep_29,2024-01-15,Gold
+CUST-000218,Company J218,Healthcare,Medium,Latin America,Chile,199618988.93,Rep_42,2023-10-13,Silver
+CUST-000219,Company K219,Technology,Medium,North America,Canada,259354891.83,Rep_36,2023-05-01,Gold
+CUST-000220,Company L220,Telecommunications,Medium,APAC,China,143502861.97,Rep_32,2023-07-24,Bronze
+CUST-000221,Company M221,Healthcare,Enterprise,EMEA,Germany,449440836.36,Rep_29,2023-03-31,Gold
+CUST-000222,Company N222,Healthcare,Large,APAC,Singapore,425829663.33,Rep_46,2024-12-27,Silver
+CUST-000223,Company O223,Energy,Medium,APAC,Japan,492581140.82,Rep_9,2023-08-31,Platinum
+CUST-000224,Company P224,Education,Large,North America,Canada,402027201.42,Rep_36,2023-05-13,Bronze
+CUST-000225,Company Q225,Manufacturing,Enterprise,North America,Mexico,359715960.29,Rep_34,2024-02-25,Platinum
+CUST-000226,Company R226,Finance,Large,North America,Mexico,38008344.86,Rep_30,2024-11-27,Gold
+CUST-000227,Company S227,Energy,Medium,EMEA,Germany,216876524.95,Rep_4,2023-05-08,Silver
+CUST-000228,Company T228,Finance,Medium,APAC,Singapore,467434180.48,Rep_15,2023-12-21,Gold
+CUST-000229,Company U229,Manufacturing,Medium,North America,Mexico,478219461.89,Rep_18,2023-05-09,Gold
+CUST-000230,Company V230,Energy,Medium,North America,Mexico,470861886.95,Rep_10,2023-06-25,Gold
+CUST-000231,Company W231,Technology,Small,North America,United States,474324880.13,Rep_50,2024-08-13,Gold
+CUST-000232,Company X232,Transportation,Enterprise,EMEA,UAE,319856604.91,Rep_32,2024-10-04,Gold
+CUST-000233,Company Y233,Telecommunications,Medium,APAC,India,149419501.84,Rep_5,2024-12-06,Bronze
+CUST-000234,Company Z234,Telecommunications,Enterprise,EMEA,Spain,232756636.73,Rep_22,2024-09-13,Silver
+CUST-000235,Company A235,Education,Large,APAC,India,66252309.62,Rep_24,2024-06-11,Bronze
+CUST-000236,Company B236,Retail,Enterprise,APAC,Japan,134468365.55,Rep_16,2023-05-25,Bronze
+CUST-000237,Company C237,Manufacturing,Enterprise,North America,Mexico,209649236.92,Rep_11,2023-12-02,Gold
+CUST-000238,Company D238,Finance,Enterprise,EMEA,UAE,233940743.75,Rep_20,2024-05-24,Bronze
+CUST-000239,Company E239,Media,Enterprise,North America,United States,108357066.84,Rep_23,2023-02-19,Bronze
+CUST-000240,Company F240,Telecommunications,Enterprise,APAC,Singapore,268808683.9,Rep_7,2024-03-17,Silver
+CUST-000241,Company G241,Education,Enterprise,APAC,Singapore,23575954.86,Rep_4,2024-08-06,Silver
+CUST-000242,Company H242,Energy,Large,APAC,Japan,193788063.66,Rep_29,2025-02-21,Gold
+CUST-000243,Company I243,Finance,Small,North America,Canada,187225969.83,Rep_22,2024-07-25,Gold
+CUST-000244,Company J244,Retail,Enterprise,EMEA,UAE,21087198.17,Rep_3,2023-05-21,Gold
+CUST-000245,Company K245,Energy,Enterprise,Latin America,Argentina,303524000.68,Rep_33,2023-05-24,Gold
+CUST-000246,Company L246,Finance,Enterprise,APAC,China,369920360.93,Rep_20,2024-08-30,Gold
+CUST-000247,Company M247,Transportation,Large,Latin America,Colombia,408058667.79,Rep_24,2023-12-06,Bronze
+CUST-000248,Company N248,Transportation,Large,Latin America,Brazil,298857898.36,Rep_17,2024-11-02,Silver
+CUST-000249,Company O249,Transportation,Enterprise,North America,United States,262591933.98,Rep_47,2024-09-26,Platinum
+CUST-000250,Company P250,Retail,Small,EMEA,UAE,474154380.22,Rep_8,2023-07-15,Bronze
+CUST-000251,Company Q251,Education,Enterprise,Latin America,Argentina,207067094.78,Rep_14,2024-02-25,Platinum
+CUST-000252,Company R252,Finance,Medium,North America,Mexico,163199717.68,Rep_43,2024-05-04,Platinum
+CUST-000253,Company S253,Finance,Enterprise,APAC,China,171821181.82,Rep_23,2024-11-23,Gold
+CUST-000254,Company T254,Retail,Medium,Latin America,Chile,279485238.75,Rep_15,2023-11-01,Gold
+CUST-000255,Company U255,Telecommunications,Large,EMEA,Spain,175052783.93,Rep_47,2023-10-08,Gold
+CUST-000256,Company V256,Transportation,Enterprise,North America,Canada,409370352.61,Rep_50,2025-04-03,Silver
+CUST-000257,Company W257,Technology,Large,APAC,Japan,173835393.53,Rep_29,2024-11-02,Gold
+CUST-000258,Company X258,Retail,Medium,Latin America,Chile,466578942.96,Rep_45,2023-10-06,Silver
+CUST-000259,Company Y259,Transportation,Medium,North America,United States,26331949.55,Rep_34,2023-08-20,Silver
+CUST-000260,Company Z260,Healthcare,Enterprise,North America,Canada,358961670.07,Rep_7,2024-11-28,Silver
+CUST-000261,Company A261,Energy,Medium,North America,Canada,326793506.05,Rep_31,2024-05-03,Silver
+CUST-000262,Company B262,Education,Large,APAC,Japan,454060542.41,Rep_6,2024-10-29,Silver
+CUST-000263,Company C263,Finance,Enterprise,North America,United States,467027382.68,Rep_3,2024-02-11,Platinum
+CUST-000264,Company D264,Manufacturing,Small,EMEA,United Kingdom,149897713.12,Rep_39,2023-04-20,Gold
+CUST-000265,Company E265,Telecommunications,Enterprise,APAC,Australia,425678809.55,Rep_30,2023-10-07,Silver
+CUST-000266,Company F266,Education,Medium,North America,Mexico,229998321.05,Rep_17,2025-01-05,Silver
+CUST-000267,Company G267,Education,Large,North America,Mexico,337526168.81,Rep_13,2023-06-29,Platinum
+CUST-000268,Company H268,Energy,Large,Latin America,Brazil,201015790.07,Rep_7,2023-07-09,Silver
+CUST-000269,Company I269,Education,Medium,Latin America,Brazil,131131853.26,Rep_16,2024-04-02,Gold
+CUST-000270,Company J270,Manufacturing,Small,APAC,Singapore,327188000.17,Rep_45,2023-08-30,Bronze
+CUST-000271,Company K271,Telecommunications,Large,North America,United States,203302889.87,Rep_33,2024-12-21,Gold
+CUST-000272,Company L272,Manufacturing,Large,North America,Mexico,111203770.74,Rep_9,2024-05-04,Silver
+CUST-000273,Company M273,Transportation,Large,Latin America,Colombia,351268422.7,Rep_31,2025-02-14,Silver
+CUST-000274,Company N274,Transportation,Small,EMEA,UAE,223927240.77,Rep_46,2024-01-06,Bronze
+CUST-000275,Company O275,Technology,Medium,North America,Mexico,268793418.97,Rep_11,2023-12-02,Platinum
+CUST-000276,Company P276,Retail,Enterprise,North America,United States,449545786.51,Rep_29,2023-02-26,Platinum
+CUST-000277,Company Q277,Energy,Enterprise,EMEA,Spain,282391681.36,Rep_36,2024-04-18,Gold
+CUST-000278,Company R278,Media,Large,North America,United States,373156436.93,Rep_38,2023-03-16,Bronze
+CUST-000279,Company S279,Education,Small,Latin America,Brazil,467356816.64,Rep_5,2024-04-28,Bronze
+CUST-000280,Company T280,Media,Medium,APAC,Australia,383148013.78,Rep_47,2024-10-23,Platinum
+CUST-000281,Company U281,Media,Enterprise,APAC,India,188447121.37,Rep_44,2024-11-08,Silver
+CUST-000282,Company V282,Healthcare,Medium,APAC,China,197136257.26,Rep_9,2025-01-15,Silver
+CUST-000283,Company W283,Technology,Large,North America,Canada,337076429.03,Rep_35,2024-03-10,Platinum
+CUST-000284,Company X284,Retail,Enterprise,EMEA,France,78405565.23,Rep_13,2025-01-12,Bronze
+CUST-000285,Company Y285,Media,Small,North America,United States,103834729.3,Rep_7,2024-08-31,Bronze
+CUST-000286,Company Z286,Transportation,Small,Latin America,Argentina,370529998.16,Rep_26,2024-03-25,Silver
+CUST-000287,Company A287,Technology,Medium,EMEA,UAE,496748237.18,Rep_15,2025-01-19,Gold
+CUST-000288,Company B288,Retail,Large,APAC,Australia,492862084.8,Rep_34,2023-08-15,Platinum
+CUST-000289,Company C289,Manufacturing,Small,APAC,China,474311607.26,Rep_48,2023-06-29,Platinum
+CUST-000290,Company D290,Technology,Large,Latin America,Colombia,393116493.39,Rep_21,2024-12-14,Platinum
+CUST-000291,Company E291,Finance,Large,Latin America,Colombia,92755610.39,Rep_35,2024-04-29,Silver
+CUST-000292,Company F292,Manufacturing,Medium,EMEA,Spain,457455845.73,Rep_36,2024-02-27,Platinum
+CUST-000293,Company G293,Media,Medium,EMEA,France,102465029.8,Rep_42,2023-03-22,Platinum
+CUST-000294,Company H294,Healthcare,Medium,APAC,Japan,134962332.34,Rep_44,2024-09-11,Bronze
+CUST-000295,Company I295,Retail,Medium,North America,Canada,105235655.19,Rep_22,2023-11-07,Bronze
+CUST-000296,Company J296,Retail,Small,EMEA,Spain,457306207.09,Rep_45,2024-09-10,Silver
+CUST-000297,Company K297,Retail,Large,Latin America,Chile,190950210.44,Rep_35,2024-10-26,Gold
+CUST-000298,Company L298,Manufacturing,Large,APAC,China,441523164.23,Rep_30,2023-04-11,Platinum
+CUST-000299,Company M299,Retail,Large,APAC,Singapore,207551155.12,Rep_37,2023-08-15,Silver
+CUST-000300,Company N300,Manufacturing,Enterprise,North America,Canada,77053293.68,Rep_22,2023-08-24,Platinum
+CUST-000301,Company O301,Telecommunications,Large,EMEA,France,381916952.21,Rep_32,2025-01-10,Platinum
+CUST-000302,Company P302,Finance,Large,Latin America,Argentina,70839305.76,Rep_35,2024-05-15,Silver
+CUST-000303,Company Q303,Energy,Small,North America,United States,472648867.49,Rep_43,2023-02-19,Bronze
+CUST-000304,Company R304,Finance,Medium,Latin America,Brazil,353877612.29,Rep_1,2023-08-12,Platinum
+CUST-000305,Company S305,Technology,Enterprise,APAC,India,8850151.67,Rep_35,2024-07-18,Platinum
+CUST-000306,Company T306,Technology,Large,North America,Mexico,488762194.77,Rep_2,2024-05-29,Platinum
+CUST-000307,Company U307,Healthcare,Small,EMEA,UAE,75299845.38,Rep_13,2024-09-26,Gold
+CUST-000308,Company V308,Manufacturing,Enterprise,APAC,Japan,187152740.15,Rep_26,2024-04-15,Silver
+CUST-000309,Company W309,Manufacturing,Small,EMEA,United Kingdom,47656752.21,Rep_25,2024-01-22,Platinum
+CUST-000310,Company X310,Technology,Medium,North America,United States,250429338.16,Rep_28,2024-10-22,Gold
+CUST-000311,Company Y311,Energy,Small,North America,United States,106497110.89,Rep_45,2024-08-03,Platinum
+CUST-000312,Company Z312,Technology,Small,APAC,Singapore,449756513.78,Rep_37,2024-11-04,Bronze
+CUST-000313,Company A313,Education,Small,EMEA,Germany,293931015.94,Rep_49,2024-12-30,Platinum
+CUST-000314,Company B314,Manufacturing,Medium,North America,Mexico,120995624.96,Rep_25,2024-11-24,Gold
+CUST-000315,Company C315,Finance,Small,Latin America,Chile,27794519.54,Rep_28,2023-08-26,Bronze
+CUST-000316,Company D316,Transportation,Enterprise,APAC,Singapore,15783203.81,Rep_18,2025-03-13,Platinum
+CUST-000317,Company E317,Retail,Large,Latin America,Colombia,216492125.17,Rep_44,2024-08-22,Platinum
+CUST-000318,Company F318,Transportation,Large,North America,United States,356841157.81,Rep_6,2023-10-02,Silver
+CUST-000319,Company G319,Finance,Enterprise,Latin America,Chile,180989413.83,Rep_6,2023-01-06,Gold
+CUST-000320,Company H320,Education,Large,Latin America,Brazil,67120995.24,Rep_12,2024-03-17,Platinum
+CUST-000321,Company I321,Healthcare,Small,Latin America,Brazil,177603229.39,Rep_6,2024-09-03,Gold
+CUST-000322,Company J322,Technology,Large,Latin America,Colombia,194511980.13,Rep_6,2025-01-12,Silver
+CUST-000323,Company K323,Media,Medium,EMEA,Germany,135190562.8,Rep_18,2024-05-19,Silver
+CUST-000324,Company L324,Finance,Enterprise,North America,Canada,211130067.55,Rep_31,2025-03-12,Bronze
+CUST-000325,Company M325,Manufacturing,Medium,APAC,India,297309392.62,Rep_13,2024-04-13,Bronze
+CUST-000326,Company N326,Manufacturing,Small,EMEA,Spain,166776390.44,Rep_40,2024-01-25,Gold
+CUST-000327,Company O327,Education,Enterprise,Latin America,Argentina,150917207.05,Rep_39,2024-12-12,Silver
+CUST-000328,Company P328,Education,Medium,Latin America,Colombia,484393885.65,Rep_19,2025-01-22,Platinum
+CUST-000329,Company Q329,Education,Enterprise,EMEA,France,408430763.2,Rep_26,2024-01-09,Bronze
+CUST-000330,Company R330,Transportation,Medium,EMEA,UAE,14431138.23,Rep_47,2024-04-17,Silver
+CUST-000331,Company S331,Manufacturing,Small,Latin America,Colombia,336815848.55,Rep_9,2024-10-10,Gold
+CUST-000332,Company T332,Manufacturing,Medium,EMEA,Spain,394749304.85,Rep_5,2024-04-04,Platinum
+CUST-000333,Company U333,Energy,Enterprise,Latin America,Brazil,395569737.61,Rep_24,2024-12-19,Bronze
+CUST-000334,Company V334,Retail,Large,North America,United States,323852924.14,Rep_3,2024-07-30,Platinum
+CUST-000335,Company W335,Media,Small,APAC,Japan,50204672.73,Rep_15,2024-06-06,Silver
+CUST-000336,Company X336,Education,Enterprise,Latin America,Colombia,386398774.0,Rep_38,2024-12-08,Silver
+CUST-000337,Company Y337,Technology,Enterprise,APAC,Japan,148420678.04,Rep_6,2023-04-29,Silver
+CUST-000338,Company Z338,Manufacturing,Large,APAC,India,392350728.77,Rep_34,2024-05-09,Gold
+CUST-000339,Company A339,Healthcare,Enterprise,Latin America,Colombia,160135827.63,Rep_20,2023-02-15,Bronze
+CUST-000340,Company B340,Education,Small,North America,Mexico,400225012.75,Rep_48,2023-09-07,Silver
+CUST-000341,Company C341,Education,Enterprise,EMEA,Spain,116695918.16,Rep_26,2024-10-06,Silver
+CUST-000342,Company D342,Media,Enterprise,EMEA,United Kingdom,368956796.4,Rep_13,2024-04-05,Platinum
+CUST-000343,Company E343,Technology,Medium,Latin America,Argentina,139894070.43,Rep_46,2025-03-26,Bronze
+CUST-000344,Company F344,Energy,Medium,North America,Canada,163666470.89,Rep_30,2023-04-27,Gold
+CUST-000345,Company G345,Energy,Large,Latin America,Colombia,306042902.15,Rep_38,2023-04-27,Gold
+CUST-000346,Company H346,Telecommunications,Medium,APAC,Singapore,459422607.32,Rep_38,2023-03-28,Silver
+CUST-000347,Company I347,Healthcare,Medium,APAC,Singapore,59357503.08,Rep_24,2024-12-11,Silver
+CUST-000348,Company J348,Media,Medium,Latin America,Colombia,212096352.25,Rep_32,2024-10-12,Silver
+CUST-000349,Company K349,Telecommunications,Large,EMEA,Germany,94362191.4,Rep_29,2024-09-26,Bronze
+CUST-000350,Company L350,Technology,Enterprise,APAC,Australia,98369117.33,Rep_25,2024-07-29,Platinum
+CUST-000351,Company M351,Telecommunications,Enterprise,Latin America,Colombia,244861056.46,Rep_6,2024-08-01,Bronze
+CUST-000352,Company N352,Manufacturing,Small,EMEA,France,113196864.9,Rep_19,2023-06-22,Platinum
+CUST-000353,Company O353,Energy,Small,Latin America,Brazil,134676565.79,Rep_35,2024-01-11,Bronze
+CUST-000354,Company P354,Energy,Medium,Latin America,Colombia,52105803.0,Rep_42,2025-02-08,Silver
+CUST-000355,Company Q355,Technology,Enterprise,APAC,Singapore,174939911.43,Rep_6,2024-03-25,Bronze
+CUST-000356,Company R356,Retail,Large,EMEA,UAE,316752544.83,Rep_11,2024-09-22,Silver
+CUST-000357,Company S357,Retail,Small,EMEA,UAE,176056924.0,Rep_18,2024-09-03,Silver
+CUST-000358,Company T358,Manufacturing,Large,APAC,China,134404190.07,Rep_33,2024-11-26,Bronze
+CUST-000359,Company U359,Media,Small,EMEA,France,433656747.63,Rep_9,2024-12-19,Silver
+CUST-000360,Company V360,Finance,Large,EMEA,Germany,380975320.15,Rep_44,2024-02-07,Platinum
+CUST-000361,Company W361,Transportation,Large,EMEA,Spain,188210991.6,Rep_5,2024-10-10,Bronze
+CUST-000362,Company X362,Energy,Large,Latin America,Chile,227893128.89,Rep_32,2023-12-02,Bronze
+CUST-000363,Company Y363,Telecommunications,Large,North America,United States,398043285.4,Rep_26,2023-08-12,Platinum
+CUST-000364,Company Z364,Telecommunications,Large,EMEA,France,414343464.91,Rep_22,2024-07-14,Silver
+CUST-000365,Company A365,Education,Small,Latin America,Brazil,50687796.22,Rep_30,2023-01-17,Bronze
+CUST-000366,Company B366,Telecommunications,Enterprise,EMEA,United Kingdom,495927281.17,Rep_28,2023-07-27,Silver
+CUST-000367,Company C367,Finance,Large,APAC,Japan,327639394.24,Rep_17,2023-03-26,Gold
+CUST-000368,Company D368,Technology,Enterprise,EMEA,France,363268193.37,Rep_49,2023-08-28,Platinum
+CUST-000369,Company E369,Healthcare,Small,North America,United States,238926547.42,Rep_9,2024-08-30,Silver
+CUST-000370,Company F370,Technology,Small,Latin America,Chile,408737404.43,Rep_28,2024-12-11,Silver
+CUST-000371,Company G371,Healthcare,Medium,Latin America,Colombia,45576209.42,Rep_7,2023-04-16,Gold
+CUST-000372,Company H372,Manufacturing,Medium,APAC,India,386956781.34,Rep_49,2023-05-17,Silver
+CUST-000373,Company I373,Energy,Small,North America,Mexico,325360086.37,Rep_29,2023-12-26,Silver
+CUST-000374,Company J374,Media,Enterprise,EMEA,Germany,44257328.7,Rep_7,2023-05-24,Bronze
+CUST-000375,Company K375,Education,Enterprise,Latin America,Chile,395747253.94,Rep_16,2023-10-11,Bronze
+CUST-000376,Company L376,Energy,Large,EMEA,United Kingdom,424098160.12,Rep_43,2023-11-05,Silver
+CUST-000377,Company M377,Media,Large,EMEA,United Kingdom,392116998.19,Rep_16,2024-05-21,Platinum
+CUST-000378,Company N378,Retail,Enterprise,North America,Mexico,297370954.3,Rep_34,2023-01-13,Gold
+CUST-000379,Company O379,Finance,Enterprise,APAC,China,211010903.59,Rep_35,2024-11-30,Silver
+CUST-000380,Company P380,Healthcare,Small,Latin America,Brazil,7882919.44,Rep_14,2023-02-10,Bronze
+CUST-000381,Company Q381,Energy,Large,Latin America,Colombia,212364042.35,Rep_26,2023-03-26,Silver
+CUST-000382,Company R382,Healthcare,Large,APAC,Japan,256141044.45,Rep_14,2023-06-09,Gold
+CUST-000383,Company S383,Transportation,Small,Latin America,Chile,349639264.92,Rep_47,2023-09-02,Bronze
+CUST-000384,Company T384,Healthcare,Enterprise,EMEA,United Kingdom,227232549.31,Rep_39,2023-02-26,Gold
+CUST-000385,Company U385,Healthcare,Small,EMEA,Germany,351048306.0,Rep_11,2024-05-23,Gold
+CUST-000386,Company V386,Finance,Large,APAC,Australia,375138415.66,Rep_18,2025-01-20,Bronze
+CUST-000387,Company W387,Education,Enterprise,North America,Canada,262403251.51,Rep_17,2024-12-30,Bronze
+CUST-000388,Company X388,Telecommunications,Large,Latin America,Brazil,250305392.87,Rep_37,2023-06-20,Gold
+CUST-000389,Company Y389,Manufacturing,Small,EMEA,UAE,337386095.35,Rep_8,2023-08-22,Bronze
+CUST-000390,Company Z390,Technology,Medium,North America,United States,236410530.2,Rep_25,2023-06-03,Silver
+CUST-000391,Company A391,Energy,Enterprise,North America,United States,161579205.22,Rep_27,2025-01-07,Gold
+CUST-000392,Company B392,Healthcare,Large,APAC,Japan,251518430.34,Rep_4,2023-07-03,Silver
+CUST-000393,Company C393,Media,Small,North America,Canada,433150082.76,Rep_50,2023-11-15,Gold
+CUST-000394,Company D394,Energy,Enterprise,North America,United States,185090760.22,Rep_19,2024-07-31,Gold
+CUST-000395,Company E395,Telecommunications,Large,EMEA,UAE,485957014.83,Rep_50,2025-03-05,Silver
+CUST-000396,Company F396,Finance,Small,EMEA,Spain,12931217.73,Rep_35,2023-12-21,Bronze
+CUST-000397,Company G397,Technology,Enterprise,APAC,Singapore,52870560.66,Rep_34,2023-09-01,Platinum
+CUST-000398,Company H398,Technology,Medium,Latin America,Chile,47420292.54,Rep_15,2024-06-16,Platinum
+CUST-000399,Company I399,Telecommunications,Small,APAC,China,48692925.66,Rep_9,2024-10-14,Platinum
+CUST-000400,Company J400,Transportation,Small,North America,Canada,331559520.15,Rep_9,2023-08-31,Gold
+CUST-000401,Company K401,Education,Enterprise,APAC,Singapore,159710801.91,Rep_18,2023-08-28,Bronze
+CUST-000402,Company L402,Finance,Small,EMEA,Germany,53723217.3,Rep_29,2024-04-22,Gold
+CUST-000403,Company M403,Healthcare,Large,Latin America,Argentina,226506621.38,Rep_30,2023-09-29,Bronze
+CUST-000404,Company N404,Finance,Large,North America,Mexico,348742113.64,Rep_3,2023-08-09,Gold
+CUST-000405,Company O405,Healthcare,Medium,EMEA,France,198725986.88,Rep_4,2024-11-24,Gold
+CUST-000406,Company P406,Finance,Small,APAC,India,427446051.01,Rep_36,2025-02-05,Silver
+CUST-000407,Company Q407,Telecommunications,Small,North America,United States,61605174.5,Rep_4,2025-03-10,Silver
+CUST-000408,Company R408,Retail,Enterprise,EMEA,France,343456345.76,Rep_42,2023-03-28,Gold
+CUST-000409,Company S409,Technology,Small,North America,United States,451345544.88,Rep_29,2023-05-12,Bronze
+CUST-000410,Company T410,Healthcare,Small,APAC,India,26268212.76,Rep_37,2024-03-19,Platinum
+CUST-000411,Company U411,Technology,Enterprise,Latin America,Colombia,87230798.7,Rep_14,2023-07-11,Gold
+CUST-000412,Company V412,Telecommunications,Medium,APAC,Japan,307439182.31,Rep_40,2023-09-09,Gold
+CUST-000413,Company W413,Media,Enterprise,Latin America,Brazil,44773053.98,Rep_25,2023-05-21,Platinum
+CUST-000414,Company X414,Energy,Medium,EMEA,UAE,397628275.91,Rep_25,2025-03-11,Gold
+CUST-000415,Company Y415,Energy,Enterprise,Latin America,Chile,456425831.28,Rep_33,2023-11-26,Platinum
+CUST-000416,Company Z416,Finance,Small,APAC,Singapore,298961060.03,Rep_2,2025-03-08,Gold
+CUST-000417,Company A417,Telecommunications,Large,North America,Mexico,499803267.66,Rep_11,2023-04-13,Silver
+CUST-000418,Company B418,Manufacturing,Small,EMEA,Germany,288270362.2,Rep_25,2023-12-30,Silver
+CUST-000419,Company C419,Retail,Large,EMEA,France,457076022.06,Rep_2,2024-12-21,Gold
+CUST-000420,Company D420,Transportation,Medium,EMEA,Spain,271520176.16,Rep_12,2024-05-17,Bronze
+CUST-000421,Company E421,Technology,Medium,North America,Mexico,110185661.9,Rep_34,2024-05-04,Bronze
+CUST-000422,Company F422,Transportation,Medium,APAC,Australia,171038763.09,Rep_12,2025-04-01,Gold
+CUST-000423,Company G423,Technology,Medium,North America,Mexico,352643474.52,Rep_10,2025-03-03,Bronze
+CUST-000424,Company H424,Healthcare,Large,APAC,India,293422314.92,Rep_22,2023-11-06,Gold
+CUST-000425,Company I425,Finance,Enterprise,EMEA,Spain,324940952.56,Rep_12,2024-12-25,Gold
+CUST-000426,Company J426,Transportation,Medium,EMEA,Spain,154104791.42,Rep_45,2023-10-29,Silver
+CUST-000427,Company K427,Technology,Enterprise,EMEA,UAE,17158988.72,Rep_39,2023-11-22,Silver
+CUST-000428,Company L428,Telecommunications,Medium,North America,Canada,372926320.72,Rep_16,2023-12-22,Gold
+CUST-000429,Company M429,Healthcare,Large,EMEA,Spain,6686414.53,Rep_14,2023-09-13,Bronze
+CUST-000430,Company N430,Manufacturing,Small,APAC,Japan,25025581.41,Rep_29,2025-01-20,Platinum
+CUST-000431,Company O431,Media,Enterprise,EMEA,Spain,176264353.48,Rep_25,2023-04-14,Platinum
+CUST-000432,Company P432,Finance,Enterprise,EMEA,United Kingdom,399798088.31,Rep_3,2023-10-29,Bronze
+CUST-000433,Company Q433,Manufacturing,Small,APAC,Japan,171562292.37,Rep_25,2023-06-14,Bronze
+CUST-000434,Company R434,Education,Enterprise,North America,Mexico,16465608.82,Rep_42,2023-06-18,Platinum
+CUST-000435,Company S435,Technology,Small,EMEA,France,103569687.88,Rep_13,2024-02-24,Gold
+CUST-000436,Company T436,Manufacturing,Medium,APAC,Japan,25768086.08,Rep_37,2024-07-16,Platinum
+CUST-000437,Company U437,Technology,Large,EMEA,United Kingdom,214375372.77,Rep_19,2024-11-08,Platinum
+CUST-000438,Company V438,Healthcare,Small,EMEA,Germany,86245263.65,Rep_19,2023-03-25,Platinum
+CUST-000439,Company W439,Manufacturing,Enterprise,North America,Canada,245059309.25,Rep_43,2023-09-29,Bronze
+CUST-000440,Company X440,Finance,Large,Latin America,Colombia,185331430.8,Rep_29,2023-02-15,Gold
+CUST-000441,Company Y441,Telecommunications,Large,Latin America,Argentina,418702297.32,Rep_37,2023-03-05,Silver
+CUST-000442,Company Z442,Healthcare,Large,North America,Mexico,207579339.78,Rep_49,2024-08-26,Silver
+CUST-000443,Company A443,Media,Enterprise,North America,Mexico,343846898.26,Rep_31,2024-08-09,Silver
+CUST-000444,Company B444,Manufacturing,Small,Latin America,Colombia,451485823.47,Rep_46,2023-02-05,Silver
+CUST-000445,Company C445,Telecommunications,Medium,North America,United States,486110274.29,Rep_13,2023-05-10,Bronze
+CUST-000446,Company D446,Healthcare,Enterprise,Latin America,Argentina,498637344.16,Rep_41,2023-06-01,Gold
+CUST-000447,Company E447,Healthcare,Small,APAC,India,278625737.78,Rep_36,2023-11-30,Gold
+CUST-000448,Company F448,Technology,Enterprise,Latin America,Brazil,207806756.99,Rep_10,2024-08-03,Bronze
+CUST-000449,Company G449,Transportation,Small,North America,Canada,433870158.61,Rep_23,2024-02-25,Gold
+CUST-000450,Company H450,Telecommunications,Enterprise,Latin America,Brazil,86927664.35,Rep_26,2023-05-28,Platinum
+CUST-000451,Company I451,Media,Large,North America,Mexico,119552067.66,Rep_48,2024-05-01,Gold
+CUST-000452,Company J452,Technology,Large,APAC,Singapore,156163699.63,Rep_32,2024-12-13,Bronze
+CUST-000453,Company K453,Finance,Large,EMEA,Spain,387241419.2,Rep_21,2023-10-03,Platinum
+CUST-000454,Company L454,Retail,Enterprise,North America,United States,456802969.9,Rep_27,2025-01-28,Platinum
+CUST-000455,Company M455,Technology,Medium,APAC,Japan,156250423.55,Rep_33,2024-02-18,Silver
+CUST-000456,Company N456,Finance,Medium,North America,United States,418651362.13,Rep_16,2023-02-03,Platinum
+CUST-000457,Company O457,Education,Medium,North America,Canada,184807611.86,Rep_30,2024-06-01,Platinum
+CUST-000458,Company P458,Technology,Medium,North America,Canada,244904582.79,Rep_29,2023-07-01,Platinum
+CUST-000459,Company Q459,Education,Medium,APAC,Singapore,374731606.11,Rep_45,2023-04-03,Gold
+CUST-000460,Company R460,Media,Small,North America,United States,427056841.97,Rep_50,2023-08-08,Silver
+CUST-000461,Company S461,Retail,Large,EMEA,Spain,257127335.65,Rep_50,2025-02-24,Bronze
+CUST-000462,Company T462,Finance,Medium,Latin America,Brazil,112661245.83,Rep_39,2023-11-09,Gold
+CUST-000463,Company U463,Media,Large,Latin America,Colombia,126747355.93,Rep_30,2023-11-06,Platinum
+CUST-000464,Company V464,Technology,Large,North America,Mexico,324023717.91,Rep_39,2023-10-17,Gold
+CUST-000465,Company W465,Telecommunications,Small,North America,Canada,494192121.95,Rep_41,2023-11-29,Gold
+CUST-000466,Company X466,Manufacturing,Medium,APAC,Australia,259129499.2,Rep_16,2023-02-28,Platinum
+CUST-000467,Company Y467,Finance,Small,APAC,India,498737080.69,Rep_17,2024-03-04,Platinum
+CUST-000468,Company Z468,Technology,Medium,Latin America,Chile,363548388.41,Rep_15,2024-12-03,Platinum
+CUST-000469,Company A469,Energy,Large,APAC,Australia,420478708.6,Rep_36,2023-07-05,Gold
+CUST-000470,Company B470,Telecommunications,Medium,North America,Mexico,130067273.43,Rep_36,2025-02-20,Silver
+CUST-000471,Company C471,Healthcare,Medium,APAC,Singapore,112440634.77,Rep_20,2024-03-06,Gold
+CUST-000472,Company D472,Manufacturing,Large,APAC,India,425755730.22,Rep_31,2023-02-24,Bronze
+CUST-000473,Company E473,Retail,Small,Latin America,Colombia,265389413.81,Rep_27,2023-02-25,Silver
+CUST-000474,Company F474,Retail,Large,EMEA,Spain,493608608.09,Rep_30,2023-05-27,Gold
+CUST-000475,Company G475,Healthcare,Enterprise,EMEA,France,315885353.36,Rep_12,2023-11-17,Bronze
+CUST-000476,Company H476,Telecommunications,Large,North America,United States,380835447.33,Rep_11,2024-08-13,Silver
+CUST-000477,Company I477,Healthcare,Medium,Latin America,Colombia,317110282.81,Rep_26,2024-03-15,Platinum
+CUST-000478,Company J478,Technology,Small,Latin America,Argentina,365598876.13,Rep_1,2023-11-26,Silver
+CUST-000479,Company K479,Technology,Medium,North America,United States,347068848.84,Rep_23,2023-11-16,Silver
+CUST-000480,Company L480,Media,Large,North America,United States,33578224.21,Rep_3,2023-11-02,Gold
+CUST-000481,Company M481,Energy,Large,Latin America,Colombia,444099047.87,Rep_9,2023-12-17,Platinum
+CUST-000482,Company N482,Retail,Medium,APAC,India,10543241.83,Rep_15,2025-01-14,Silver
+CUST-000483,Company O483,Technology,Medium,EMEA,United Kingdom,183929134.25,Rep_42,2025-03-22,Bronze
+CUST-000484,Company P484,Manufacturing,Small,Latin America,Brazil,331322988.0,Rep_42,2023-01-21,Bronze
+CUST-000485,Company Q485,Media,Enterprise,North America,Canada,62673936.43,Rep_17,2024-04-30,Silver
+CUST-000486,Company R486,Technology,Large,EMEA,Spain,331170623.47,Rep_43,2024-06-16,Gold
+CUST-000487,Company S487,Media,Small,EMEA,UAE,359664346.03,Rep_8,2023-10-17,Bronze
+CUST-000488,Company T488,Telecommunications,Medium,North America,Mexico,100674943.69,Rep_17,2024-06-19,Silver
+CUST-000489,Company U489,Media,Large,APAC,Australia,20663448.11,Rep_32,2023-08-01,Platinum
+CUST-000490,Company V490,Retail,Small,APAC,Japan,336144933.1,Rep_8,2024-08-10,Platinum
+CUST-000491,Company W491,Healthcare,Small,EMEA,United Kingdom,452484912.59,Rep_42,2023-08-25,Platinum
+CUST-000492,Company X492,Manufacturing,Enterprise,APAC,Japan,50804648.61,Rep_12,2023-02-10,Gold
+CUST-000493,Company Y493,Education,Enterprise,APAC,Japan,48404236.69,Rep_49,2023-02-16,Bronze
+CUST-000494,Company Z494,Finance,Large,EMEA,France,447369281.07,Rep_40,2023-10-02,Bronze
+CUST-000495,Company A495,Education,Medium,APAC,Japan,200987979.63,Rep_30,2023-10-06,Platinum
+CUST-000496,Company B496,Media,Medium,Latin America,Brazil,67123276.54,Rep_47,2023-03-02,Silver
+CUST-000497,Company C497,Media,Enterprise,North America,Mexico,339518174.99,Rep_12,2024-09-17,Platinum
+CUST-000498,Company D498,Transportation,Small,APAC,Australia,242056748.53,Rep_32,2023-04-26,Platinum
+CUST-000499,Company E499,Technology,Small,Latin America,Chile,327831810.87,Rep_1,2024-12-22,Silver
+CUST-000500,Company F500,Energy,Small,APAC,India,331194918.16,Rep_16,2024-05-08,Gold
+CUST-000501,Company G501,Finance,Small,Latin America,Brazil,322055959.56,Rep_11,2024-06-01,Platinum
+CUST-000502,Company H502,Finance,Small,Latin America,Colombia,160996273.95,Rep_22,2023-10-12,Bronze
+CUST-000503,Company I503,Energy,Enterprise,EMEA,Spain,408734549.55,Rep_6,2024-04-15,Platinum
+CUST-000504,Company J504,Healthcare,Enterprise,Latin America,Colombia,158714702.18,Rep_32,2025-02-02,Bronze
+CUST-000505,Company K505,Media,Enterprise,North America,United States,279008374.69,Rep_1,2023-04-04,Gold
+CUST-000506,Company L506,Telecommunications,Large,EMEA,France,412830184.32,Rep_15,2024-04-10,Gold
+CUST-000507,Company M507,Education,Enterprise,Latin America,Brazil,49621074.14,Rep_43,2023-08-16,Bronze
+CUST-000508,Company N508,Education,Large,APAC,China,261470558.22,Rep_45,2023-04-19,Bronze
+CUST-000509,Company O509,Telecommunications,Medium,EMEA,Spain,54373791.25,Rep_40,2023-07-20,Silver
+CUST-000510,Company P510,Media,Medium,North America,Canada,412452517.71,Rep_13,2025-01-03,Gold
+CUST-000511,Company Q511,Media,Small,North America,Mexico,418895652.51,Rep_38,2023-05-07,Platinum
+CUST-000512,Company R512,Transportation,Medium,Latin America,Colombia,3164476.21,Rep_48,2023-02-19,Platinum
+CUST-000513,Company S513,Energy,Medium,Latin America,Argentina,365516836.21,Rep_9,2023-04-17,Platinum
+CUST-000514,Company T514,Energy,Enterprise,APAC,India,489770879.34,Rep_45,2025-02-19,Silver
+CUST-000515,Company U515,Media,Large,APAC,Singapore,226970007.33,Rep_9,2023-05-22,Platinum
+CUST-000516,Company V516,Energy,Large,APAC,China,316659058.97,Rep_13,2023-08-03,Gold
+CUST-000517,Company W517,Finance,Medium,APAC,China,271703247.74,Rep_41,2023-11-27,Bronze
+CUST-000518,Company X518,Energy,Enterprise,APAC,China,285748458.93,Rep_43,2024-12-28,Platinum
+CUST-000519,Company Y519,Media,Small,APAC,China,54128762.46,Rep_25,2023-05-29,Bronze
+CUST-000520,Company Z520,Retail,Large,North America,United States,491782664.42,Rep_44,2023-09-14,Silver
+CUST-000521,Company A521,Manufacturing,Medium,North America,Mexico,17120885.24,Rep_29,2023-04-15,Silver
+CUST-000522,Company B522,Retail,Large,Latin America,Brazil,463315920.77,Rep_25,2024-03-02,Gold
+CUST-000523,Company C523,Technology,Large,North America,United States,310660286.11,Rep_50,2024-03-29,Silver
+CUST-000524,Company D524,Transportation,Medium,APAC,Australia,147794683.18,Rep_12,2024-11-30,Bronze
+CUST-000525,Company E525,Finance,Small,EMEA,Spain,21276482.25,Rep_18,2024-07-23,Gold
+CUST-000526,Company F526,Finance,Large,EMEA,United Kingdom,165950831.58,Rep_46,2023-06-08,Bronze
+CUST-000527,Company G527,Education,Small,EMEA,UAE,421726850.62,Rep_20,2024-05-17,Gold
+CUST-000528,Company H528,Education,Medium,North America,United States,260782537.38,Rep_33,2023-06-13,Platinum
+CUST-000529,Company I529,Healthcare,Large,Latin America,Argentina,441814972.69,Rep_43,2023-12-06,Gold
+CUST-000530,Company J530,Manufacturing,Medium,APAC,China,265718948.91,Rep_36,2025-02-09,Bronze
+CUST-000531,Company K531,Education,Enterprise,North America,United States,452343732.79,Rep_40,2024-09-28,Silver
+CUST-000532,Company L532,Education,Enterprise,North America,United States,193552091.46,Rep_35,2025-01-11,Gold
+CUST-000533,Company M533,Energy,Large,North America,Mexico,401605552.02,Rep_29,2024-05-13,Bronze
+CUST-000534,Company N534,Retail,Large,APAC,China,42090378.58,Rep_7,2023-06-21,Bronze
+CUST-000535,Company O535,Retail,Medium,North America,Mexico,212680516.52,Rep_7,2023-07-30,Platinum
+CUST-000536,Company P536,Finance,Small,North America,Canada,358717273.63,Rep_3,2023-03-31,Bronze
+CUST-000537,Company Q537,Finance,Large,North America,Mexico,36150604.02,Rep_15,2023-09-22,Platinum
+CUST-000538,Company R538,Telecommunications,Enterprise,Latin America,Colombia,158885718.71,Rep_25,2024-11-20,Bronze
+CUST-000539,Company S539,Transportation,Small,North America,Mexico,293218398.64,Rep_45,2023-03-16,Gold
+CUST-000540,Company T540,Manufacturing,Large,North America,Mexico,44166105.5,Rep_49,2024-03-24,Platinum
+CUST-000541,Company U541,Technology,Enterprise,Latin America,Argentina,267200414.14,Rep_9,2025-02-03,Platinum
+CUST-000542,Company V542,Finance,Large,APAC,Singapore,478738432.9,Rep_1,2024-07-20,Silver
+CUST-000543,Company W543,Technology,Small,North America,Mexico,298730788.84,Rep_35,2024-07-14,Bronze
+CUST-000544,Company X544,Retail,Large,APAC,Australia,206914593.52,Rep_42,2024-06-08,Silver
+CUST-000545,Company Y545,Finance,Medium,EMEA,UAE,417539435.07,Rep_13,2023-04-28,Silver
+CUST-000546,Company Z546,Energy,Enterprise,North America,Mexico,275282640.23,Rep_19,2024-11-18,Bronze
+CUST-000547,Company A547,Healthcare,Medium,APAC,China,244108014.66,Rep_22,2024-01-01,Silver
+CUST-000548,Company B548,Healthcare,Large,EMEA,UAE,35834633.47,Rep_13,2023-11-22,Platinum
+CUST-000549,Company C549,Education,Large,Latin America,Argentina,283210451.94,Rep_24,2023-11-20,Platinum
+CUST-000550,Company D550,Technology,Large,EMEA,Germany,393044395.92,Rep_46,2025-01-27,Platinum
+CUST-000551,Company E551,Education,Medium,APAC,Singapore,439065028.92,Rep_30,2024-04-01,Gold
+CUST-000552,Company F552,Telecommunications,Small,APAC,Australia,323130250.44,Rep_6,2023-10-15,Silver
+CUST-000553,Company G553,Manufacturing,Small,EMEA,United Kingdom,446160487.13,Rep_33,2024-10-08,Bronze
+CUST-000554,Company H554,Transportation,Medium,Latin America,Brazil,276245405.26,Rep_35,2024-07-06,Platinum
+CUST-000555,Company I555,Education,Enterprise,EMEA,Germany,445827334.32,Rep_38,2025-01-20,Gold
+CUST-000556,Company J556,Telecommunications,Small,EMEA,Spain,182568913.48,Rep_1,2024-11-09,Silver
+CUST-000557,Company K557,Energy,Medium,EMEA,Spain,80451986.54,Rep_37,2024-08-02,Silver
+CUST-000558,Company L558,Education,Small,Latin America,Argentina,380974716.54,Rep_15,2023-03-06,Gold
+CUST-000559,Company M559,Retail,Small,APAC,Australia,259424729.67,Rep_24,2024-02-02,Platinum
+CUST-000560,Company N560,Technology,Small,Latin America,Chile,52509281.44,Rep_34,2024-10-10,Gold
+CUST-000561,Company O561,Transportation,Medium,APAC,India,327183981.25,Rep_24,2024-08-24,Bronze
+CUST-000562,Company P562,Media,Medium,APAC,China,203515259.07,Rep_23,2024-05-13,Platinum
+CUST-000563,Company Q563,Energy,Medium,North America,Canada,83637305.39,Rep_5,2024-06-10,Gold
+CUST-000564,Company R564,Finance,Medium,EMEA,Germany,181749249.16,Rep_46,2023-05-02,Silver
+CUST-000565,Company S565,Education,Small,Latin America,Colombia,337939483.73,Rep_31,2023-08-04,Silver
+CUST-000566,Company T566,Technology,Medium,Latin America,Brazil,64814672.36,Rep_38,2023-06-14,Silver
+CUST-000567,Company U567,Transportation,Medium,North America,United States,84004341.79,Rep_12,2024-06-13,Platinum
+CUST-000568,Company V568,Manufacturing,Small,North America,United States,225152477.45,Rep_31,2024-05-08,Silver
+CUST-000569,Company W569,Media,Medium,EMEA,UAE,410406136.89,Rep_12,2024-09-30,Gold
+CUST-000570,Company X570,Education,Enterprise,EMEA,UAE,295707399.48,Rep_15,2024-01-23,Platinum
+CUST-000571,Company Y571,Healthcare,Small,EMEA,Germany,261832960.17,Rep_33,2024-12-01,Platinum
+CUST-000572,Company Z572,Transportation,Small,EMEA,Germany,238458723.56,Rep_40,2024-09-06,Bronze
+CUST-000573,Company A573,Healthcare,Enterprise,North America,Mexico,66034091.55,Rep_39,2024-07-06,Bronze
+CUST-000574,Company B574,Energy,Enterprise,Latin America,Chile,437537326.07,Rep_45,2024-06-26,Platinum
+CUST-000575,Company C575,Telecommunications,Enterprise,EMEA,France,294934994.98,Rep_48,2025-02-18,Bronze
+CUST-000576,Company D576,Finance,Large,Latin America,Colombia,383163586.29,Rep_6,2023-10-18,Platinum
+CUST-000577,Company E577,Retail,Small,APAC,Japan,289415585.75,Rep_8,2024-06-16,Bronze
+CUST-000578,Company F578,Retail,Large,Latin America,Colombia,181772625.1,Rep_10,2024-03-12,Gold
+CUST-000579,Company G579,Energy,Enterprise,APAC,China,183456403.12,Rep_18,2024-11-27,Platinum
+CUST-000580,Company H580,Media,Enterprise,EMEA,Germany,185736271.47,Rep_36,2024-05-10,Gold
+CUST-000581,Company I581,Transportation,Large,APAC,India,368155432.87,Rep_43,2023-05-02,Silver
+CUST-000582,Company J582,Finance,Small,Latin America,Argentina,254663428.02,Rep_22,2025-03-31,Bronze
+CUST-000583,Company K583,Media,Small,EMEA,United Kingdom,411804477.29,Rep_31,2024-09-06,Platinum
+CUST-000584,Company L584,Healthcare,Large,North America,United States,186046727.9,Rep_39,2023-02-08,Platinum
+CUST-000585,Company M585,Transportation,Large,Latin America,Brazil,472912213.06,Rep_12,2024-10-17,Platinum
+CUST-000586,Company N586,Technology,Medium,Latin America,Chile,98178500.78,Rep_39,2024-06-06,Silver
+CUST-000587,Company O587,Technology,Large,EMEA,Germany,327854540.57,Rep_11,2023-03-30,Gold
+CUST-000588,Company P588,Education,Enterprise,Latin America,Colombia,293454002.44,Rep_34,2023-01-16,Bronze
+CUST-000589,Company Q589,Energy,Large,North America,Mexico,415052636.42,Rep_38,2023-12-23,Gold
+CUST-000590,Company R590,Retail,Medium,APAC,India,464927206.57,Rep_37,2023-01-05,Gold
+CUST-000591,Company S591,Media,Small,EMEA,UAE,37120599.29,Rep_19,2023-12-15,Bronze
+CUST-000592,Company T592,Energy,Large,APAC,India,483061672.36,Rep_37,2024-05-10,Silver
+CUST-000593,Company U593,Telecommunications,Enterprise,APAC,China,431149616.36,Rep_31,2023-04-30,Gold
+CUST-000594,Company V594,Media,Medium,North America,Mexico,350886874.49,Rep_21,2024-02-27,Gold
+CUST-000595,Company W595,Manufacturing,Medium,North America,Canada,47411705.65,Rep_44,2025-02-05,Gold
+CUST-000596,Company X596,Energy,Medium,North America,Canada,157622517.0,Rep_14,2024-08-10,Gold
+CUST-000597,Company Y597,Retail,Enterprise,EMEA,Germany,118195824.59,Rep_16,2023-09-29,Silver
+CUST-000598,Company Z598,Retail,Medium,EMEA,UAE,178657659.3,Rep_50,2023-04-20,Bronze
+CUST-000599,Company A599,Telecommunications,Small,North America,Mexico,479038552.14,Rep_31,2024-01-16,Gold
+CUST-000600,Company B600,Transportation,Large,Latin America,Colombia,92253059.7,Rep_49,2024-06-07,Gold
+CUST-000601,Company C601,Retail,Medium,Latin America,Brazil,263341986.47,Rep_28,2024-05-04,Bronze
+CUST-000602,Company D602,Media,Medium,APAC,India,488277090.42,Rep_45,2024-06-14,Platinum
+CUST-000603,Company E603,Technology,Small,APAC,Australia,190334573.79,Rep_7,2023-11-30,Gold
+CUST-000604,Company F604,Finance,Large,APAC,Australia,135434706.53,Rep_40,2023-12-18,Gold
+CUST-000605,Company G605,Telecommunications,Enterprise,EMEA,Germany,210127378.82,Rep_49,2024-01-17,Gold
+CUST-000606,Company H606,Manufacturing,Enterprise,Latin America,Argentina,286133449.37,Rep_37,2024-12-03,Silver
+CUST-000607,Company I607,Manufacturing,Medium,North America,Mexico,216677157.11,Rep_25,2023-07-20,Silver
+CUST-000608,Company J608,Telecommunications,Small,EMEA,Germany,211338813.84,Rep_9,2024-10-07,Gold
+CUST-000609,Company K609,Manufacturing,Large,Latin America,Brazil,199802549.03,Rep_45,2023-06-17,Bronze
+CUST-000610,Company L610,Manufacturing,Enterprise,EMEA,United Kingdom,225477554.71,Rep_22,2023-09-24,Gold
+CUST-000611,Company M611,Energy,Large,APAC,Singapore,10897831.47,Rep_8,2023-12-26,Silver
+CUST-000612,Company N612,Manufacturing,Large,EMEA,France,336923227.23,Rep_32,2025-03-04,Platinum
+CUST-000613,Company O613,Media,Large,North America,Canada,316224383.05,Rep_10,2023-06-21,Gold
+CUST-000614,Company P614,Transportation,Enterprise,Latin America,Brazil,40476851.8,Rep_22,2023-08-22,Gold
+CUST-000615,Company Q615,Manufacturing,Large,APAC,China,322677502.28,Rep_18,2024-03-31,Gold
+CUST-000616,Company R616,Media,Medium,Latin America,Argentina,427251710.49,Rep_9,2025-01-15,Silver
+CUST-000617,Company S617,Healthcare,Medium,APAC,Australia,199125746.07,Rep_7,2023-03-07,Platinum
+CUST-000618,Company T618,Technology,Enterprise,North America,Mexico,382733189.69,Rep_6,2023-04-17,Gold
+CUST-000619,Company U619,Healthcare,Enterprise,EMEA,France,115448621.78,Rep_48,2023-10-18,Platinum
+CUST-000620,Company V620,Finance,Medium,EMEA,United Kingdom,18542335.47,Rep_23,2023-11-30,Platinum
+CUST-000621,Company W621,Energy,Large,Latin America,Colombia,68422339.09,Rep_45,2024-07-06,Silver
+CUST-000622,Company X622,Transportation,Enterprise,Latin America,Chile,454552652.7,Rep_31,2024-07-06,Silver
+CUST-000623,Company Y623,Telecommunications,Large,North America,Canada,206689698.99,Rep_10,2023-11-07,Bronze
+CUST-000624,Company Z624,Energy,Medium,North America,Canada,144094362.0,Rep_35,2023-01-09,Platinum
+CUST-000625,Company A625,Manufacturing,Small,Latin America,Colombia,399184423.35,Rep_39,2023-08-25,Bronze
+CUST-000626,Company B626,Retail,Enterprise,APAC,China,219116076.84,Rep_16,2023-06-17,Platinum
+CUST-000627,Company C627,Retail,Large,Latin America,Brazil,211697451.99,Rep_16,2024-06-13,Gold
+CUST-000628,Company D628,Energy,Large,APAC,India,94812312.26,Rep_5,2023-07-06,Silver
+CUST-000629,Company E629,Healthcare,Enterprise,APAC,China,226930849.07,Rep_45,2024-09-29,Platinum
+CUST-000630,Company F630,Education,Small,EMEA,Germany,25766404.04,Rep_35,2023-01-23,Silver
+CUST-000631,Company G631,Manufacturing,Large,North America,United States,357882775.16,Rep_47,2023-01-09,Silver
+CUST-000632,Company H632,Finance,Small,North America,Canada,109376854.51,Rep_27,2023-11-16,Platinum
+CUST-000633,Company I633,Telecommunications,Small,APAC,Singapore,41031325.52,Rep_49,2023-05-30,Bronze
+CUST-000634,Company J634,Media,Small,APAC,China,235603241.52,Rep_13,2023-09-14,Platinum
+CUST-000635,Company K635,Healthcare,Medium,North America,Canada,385841441.18,Rep_29,2023-09-11,Bronze
+CUST-000636,Company L636,Telecommunications,Small,EMEA,UAE,333337933.97,Rep_14,2024-04-29,Platinum
+CUST-000637,Company M637,Education,Medium,APAC,Japan,372617564.77,Rep_36,2024-06-17,Bronze
+CUST-000638,Company N638,Telecommunications,Large,APAC,Australia,180852901.38,Rep_4,2024-11-13,Silver
+CUST-000639,Company O639,Retail,Enterprise,North America,Canada,8518784.93,Rep_18,2024-08-21,Bronze
+CUST-000640,Company P640,Retail,Small,Latin America,Brazil,290957434.34,Rep_45,2024-05-01,Silver
+CUST-000641,Company Q641,Healthcare,Medium,APAC,Australia,250459684.09,Rep_44,2024-09-25,Gold
+CUST-000642,Company R642,Technology,Large,North America,Mexico,77805299.28,Rep_35,2025-03-21,Bronze
+CUST-000643,Company S643,Telecommunications,Medium,EMEA,France,490856179.77,Rep_42,2025-02-13,Gold
+CUST-000644,Company T644,Retail,Small,Latin America,Colombia,179725581.13,Rep_9,2023-09-14,Bronze
+CUST-000645,Company U645,Telecommunications,Large,Latin America,Colombia,95698142.27,Rep_12,2024-07-10,Gold
+CUST-000646,Company V646,Telecommunications,Large,APAC,China,457322526.99,Rep_36,2023-06-14,Bronze
+CUST-000647,Company W647,Telecommunications,Large,EMEA,France,271261370.12,Rep_30,2023-01-01,Platinum
+CUST-000648,Company X648,Technology,Large,EMEA,UAE,120154492.55,Rep_47,2023-03-06,Platinum
+CUST-000649,Company Y649,Energy,Enterprise,EMEA,UAE,77911625.45,Rep_19,2023-11-27,Platinum
+CUST-000650,Company Z650,Healthcare,Small,APAC,China,329786624.05,Rep_3,2023-05-13,Silver
+CUST-000651,Company A651,Retail,Small,North America,Canada,96616703.48,Rep_3,2024-08-07,Platinum
+CUST-000652,Company B652,Energy,Large,Latin America,Brazil,183810656.03,Rep_39,2025-01-05,Bronze
+CUST-000653,Company C653,Retail,Enterprise,North America,United States,234561512.57,Rep_41,2023-03-04,Gold
+CUST-000654,Company D654,Education,Small,Latin America,Chile,264981394.81,Rep_47,2023-03-14,Gold
+CUST-000655,Company E655,Retail,Small,North America,United States,362860794.47,Rep_35,2024-01-30,Silver
+CUST-000656,Company F656,Energy,Medium,EMEA,UAE,313037201.72,Rep_12,2024-07-25,Platinum
+CUST-000657,Company G657,Transportation,Large,North America,Mexico,229901575.62,Rep_43,2024-03-13,Bronze
+CUST-000658,Company H658,Finance,Enterprise,EMEA,UAE,169418922.41,Rep_11,2024-06-30,Platinum
+CUST-000659,Company I659,Education,Large,APAC,Singapore,206759302.54,Rep_41,2024-03-16,Gold
+CUST-000660,Company J660,Transportation,Medium,EMEA,Spain,383088401.6,Rep_48,2023-09-18,Gold
+CUST-000661,Company K661,Telecommunications,Enterprise,Latin America,Brazil,363430325.89,Rep_19,2024-09-02,Bronze
+CUST-000662,Company L662,Manufacturing,Small,EMEA,France,492212818.23,Rep_14,2023-11-19,Bronze
+CUST-000663,Company M663,Energy,Medium,APAC,Japan,19830413.74,Rep_23,2023-06-09,Silver
+CUST-000664,Company N664,Education,Medium,APAC,Australia,128865675.39,Rep_20,2023-04-05,Platinum
+CUST-000665,Company O665,Healthcare,Large,EMEA,Spain,87278342.94,Rep_45,2024-12-20,Bronze
+CUST-000666,Company P666,Technology,Enterprise,APAC,Japan,390280832.1,Rep_50,2023-12-09,Gold
+CUST-000667,Company Q667,Media,Small,Latin America,Argentina,374091649.98,Rep_39,2023-01-12,Platinum
+CUST-000668,Company R668,Manufacturing,Small,North America,Canada,270424934.99,Rep_10,2023-12-01,Silver
+CUST-000669,Company S669,Technology,Enterprise,EMEA,Spain,376667261.3,Rep_37,2024-05-31,Bronze
+CUST-000670,Company T670,Media,Large,EMEA,Spain,74858187.93,Rep_22,2023-03-26,Platinum
+CUST-000671,Company U671,Energy,Enterprise,North America,Canada,43454414.75,Rep_33,2024-03-20,Silver
+CUST-000672,Company V672,Telecommunications,Medium,EMEA,Spain,198264082.99,Rep_37,2023-07-20,Silver
+CUST-000673,Company W673,Healthcare,Large,EMEA,Spain,162382408.94,Rep_37,2023-04-02,Bronze
+CUST-000674,Company X674,Media,Large,Latin America,Chile,96054381.04,Rep_23,2024-08-31,Bronze
+CUST-000675,Company Y675,Finance,Large,APAC,China,410970442.58,Rep_29,2024-09-30,Silver
+CUST-000676,Company Z676,Technology,Medium,Latin America,Argentina,342994254.5,Rep_10,2025-02-14,Bronze
+CUST-000677,Company A677,Technology,Medium,North America,Mexico,463438117.86,Rep_19,2023-01-15,Gold
+CUST-000678,Company B678,Manufacturing,Enterprise,North America,Canada,12351309.46,Rep_14,2025-01-27,Silver
+CUST-000679,Company C679,Energy,Large,EMEA,UAE,242030138.84,Rep_47,2023-05-25,Bronze
+CUST-000680,Company D680,Transportation,Small,Latin America,Chile,85989503.88,Rep_19,2023-07-25,Gold
+CUST-000681,Company E681,Telecommunications,Small,North America,United States,194933928.47,Rep_18,2024-11-09,Gold
+CUST-000682,Company F682,Technology,Large,North America,Mexico,193875089.84,Rep_25,2024-06-04,Bronze
+CUST-000683,Company G683,Telecommunications,Small,APAC,Australia,100238724.8,Rep_30,2024-07-28,Bronze
+CUST-000684,Company H684,Retail,Large,North America,Canada,245476489.9,Rep_48,2023-06-10,Bronze
+CUST-000685,Company I685,Education,Large,APAC,Singapore,118866178.09,Rep_33,2023-10-10,Bronze
+CUST-000686,Company J686,Media,Small,APAC,China,474609092.76,Rep_15,2023-06-05,Gold
+CUST-000687,Company K687,Finance,Small,Latin America,Colombia,260838204.19,Rep_44,2024-09-19,Silver
+CUST-000688,Company L688,Retail,Medium,Latin America,Colombia,485298049.37,Rep_39,2023-12-04,Platinum
+CUST-000689,Company M689,Retail,Medium,EMEA,UAE,271135559.6,Rep_13,2023-05-22,Gold
+CUST-000690,Company N690,Media,Medium,EMEA,UAE,458638948.22,Rep_21,2023-03-11,Bronze
+CUST-000691,Company O691,Education,Medium,EMEA,United Kingdom,382952071.27,Rep_27,2024-02-26,Gold
+CUST-000692,Company P692,Manufacturing,Medium,Latin America,Argentina,54278944.99,Rep_12,2023-01-27,Gold
+CUST-000693,Company Q693,Transportation,Medium,EMEA,Germany,344001564.7,Rep_23,2023-03-23,Platinum
+CUST-000694,Company R694,Energy,Enterprise,EMEA,France,92804262.41,Rep_25,2024-05-18,Platinum
+CUST-000695,Company S695,Finance,Medium,EMEA,Germany,17082547.06,Rep_49,2023-01-16,Gold
+CUST-000696,Company T696,Retail,Medium,Latin America,Argentina,34002025.79,Rep_29,2024-09-23,Platinum
+CUST-000697,Company U697,Telecommunications,Medium,APAC,India,203028517.35,Rep_3,2024-09-14,Platinum
+CUST-000698,Company V698,Media,Small,APAC,China,55548830.1,Rep_30,2023-02-13,Silver
+CUST-000699,Company W699,Technology,Enterprise,Latin America,Brazil,95735319.65,Rep_29,2024-02-12,Gold
+CUST-000700,Company X700,Telecommunications,Medium,APAC,India,147915442.94,Rep_4,2024-12-07,Silver
+CUST-000701,Company Y701,Telecommunications,Small,Latin America,Brazil,90705924.55,Rep_38,2024-12-13,Silver
+CUST-000702,Company Z702,Media,Large,Latin America,Colombia,13431144.28,Rep_30,2024-08-27,Silver
+CUST-000703,Company A703,Healthcare,Large,Latin America,Chile,346166996.74,Rep_46,2025-03-26,Silver
+CUST-000704,Company B704,Healthcare,Small,North America,Mexico,225249810.59,Rep_24,2023-03-29,Platinum
+CUST-000705,Company C705,Media,Enterprise,EMEA,United Kingdom,384361901.57,Rep_22,2024-08-02,Silver
+CUST-000706,Company D706,Finance,Medium,EMEA,United Kingdom,210371263.93,Rep_20,2025-01-17,Platinum
+CUST-000707,Company E707,Finance,Small,APAC,Australia,480256505.88,Rep_1,2024-09-29,Gold
+CUST-000708,Company F708,Telecommunications,Enterprise,North America,Canada,272207078.64,Rep_1,2024-09-14,Platinum
+CUST-000709,Company G709,Retail,Enterprise,EMEA,Spain,205665531.49,Rep_6,2024-09-07,Bronze
+CUST-000710,Company H710,Energy,Large,EMEA,UAE,314689077.35,Rep_14,2023-02-20,Silver
+CUST-000711,Company I711,Technology,Large,EMEA,United Kingdom,73541833.69,Rep_3,2024-11-14,Gold
+CUST-000712,Company J712,Healthcare,Small,APAC,Japan,209061505.0,Rep_12,2023-06-15,Gold
+CUST-000713,Company K713,Telecommunications,Large,EMEA,United Kingdom,47470017.62,Rep_20,2023-11-27,Gold
+CUST-000714,Company L714,Healthcare,Enterprise,Latin America,Brazil,147123523.97,Rep_9,2023-05-05,Gold
+CUST-000715,Company M715,Energy,Enterprise,APAC,China,105712839.27,Rep_14,2024-09-18,Bronze
+CUST-000716,Company N716,Transportation,Small,North America,Canada,362312994.8,Rep_39,2025-03-18,Gold
+CUST-000717,Company O717,Transportation,Large,Latin America,Chile,263170221.44,Rep_40,2023-12-29,Silver
+CUST-000718,Company P718,Energy,Enterprise,Latin America,Colombia,404182199.61,Rep_40,2023-08-27,Gold
+CUST-000719,Company Q719,Technology,Small,EMEA,United Kingdom,232977931.55,Rep_8,2025-01-25,Silver
+CUST-000720,Company R720,Media,Small,Latin America,Chile,175475372.18,Rep_41,2023-08-06,Bronze
+CUST-000721,Company S721,Manufacturing,Large,EMEA,United Kingdom,154578502.07,Rep_33,2024-07-17,Gold
+CUST-000722,Company T722,Healthcare,Large,North America,Canada,198628613.72,Rep_37,2024-09-22,Bronze
+CUST-000723,Company U723,Retail,Large,EMEA,France,461217602.86,Rep_31,2024-04-30,Bronze
+CUST-000724,Company V724,Telecommunications,Medium,EMEA,Spain,446137105.07,Rep_35,2023-12-10,Platinum
+CUST-000725,Company W725,Technology,Large,Latin America,Chile,278033426.94,Rep_2,2023-08-02,Gold
+CUST-000726,Company X726,Healthcare,Medium,APAC,Singapore,420528837.63,Rep_22,2024-01-20,Silver
+CUST-000727,Company Y727,Finance,Small,Latin America,Chile,352927825.84,Rep_21,2024-12-27,Bronze
+CUST-000728,Company Z728,Media,Small,APAC,India,438647317.58,Rep_24,2024-04-07,Gold
+CUST-000729,Company A729,Energy,Large,EMEA,Germany,57003404.86,Rep_3,2025-03-07,Silver
+CUST-000730,Company B730,Telecommunications,Small,North America,Canada,452572944.51,Rep_10,2023-07-14,Gold
+CUST-000731,Company C731,Energy,Large,Latin America,Chile,72504228.93,Rep_7,2024-06-12,Silver
+CUST-000732,Company D732,Technology,Enterprise,EMEA,Spain,357125017.81,Rep_34,2023-04-29,Bronze
+CUST-000733,Company E733,Technology,Small,APAC,Singapore,233971075.34,Rep_3,2023-04-16,Gold
+CUST-000734,Company F734,Transportation,Large,North America,Mexico,446175656.63,Rep_21,2023-07-25,Silver
+CUST-000735,Company G735,Manufacturing,Large,APAC,India,335890896.94,Rep_18,2023-06-02,Silver
+CUST-000736,Company H736,Healthcare,Small,APAC,China,280253256.01,Rep_7,2023-07-31,Gold
+CUST-000737,Company I737,Manufacturing,Medium,APAC,Singapore,287467388.38,Rep_11,2023-03-14,Gold
+CUST-000738,Company J738,Energy,Enterprise,APAC,Japan,65906927.03,Rep_31,2024-11-22,Bronze
+CUST-000739,Company K739,Media,Small,North America,United States,213806406.86,Rep_12,2024-12-22,Platinum
+CUST-000740,Company L740,Manufacturing,Large,APAC,Australia,356736443.68,Rep_43,2024-06-30,Bronze
+CUST-000741,Company M741,Transportation,Medium,Latin America,Brazil,406612657.85,Rep_45,2024-04-24,Bronze
+CUST-000742,Company N742,Manufacturing,Enterprise,Latin America,Colombia,116615412.61,Rep_15,2023-05-28,Gold
+CUST-000743,Company O743,Media,Medium,APAC,Singapore,394600574.47,Rep_21,2024-04-09,Platinum
+CUST-000744,Company P744,Healthcare,Enterprise,North America,United States,176368969.52,Rep_30,2023-06-24,Gold
+CUST-000745,Company Q745,Transportation,Medium,APAC,China,52363172.94,Rep_46,2025-03-26,Bronze
+CUST-000746,Company R746,Energy,Small,APAC,Singapore,266840037.4,Rep_26,2024-08-27,Platinum
+CUST-000747,Company S747,Transportation,Medium,EMEA,UAE,80351124.5,Rep_31,2024-01-29,Bronze
+CUST-000748,Company T748,Retail,Enterprise,APAC,India,284038385.93,Rep_22,2024-07-11,Silver
+CUST-000749,Company U749,Healthcare,Enterprise,EMEA,United Kingdom,296489404.41,Rep_30,2023-11-30,Bronze
+CUST-000750,Company V750,Finance,Large,Latin America,Colombia,35734209.78,Rep_7,2024-12-02,Platinum
+CUST-000751,Company W751,Telecommunications,Small,APAC,Japan,109588274.95,Rep_9,2024-08-17,Bronze
+CUST-000752,Company X752,Finance,Enterprise,EMEA,UAE,146460123.5,Rep_40,2024-08-14,Platinum
+CUST-000753,Company Y753,Retail,Large,EMEA,France,285567927.52,Rep_44,2023-11-08,Platinum
+CUST-000754,Company Z754,Healthcare,Small,APAC,China,493224402.6,Rep_26,2023-05-11,Gold
+CUST-000755,Company A755,Education,Small,North America,United States,351973708.09,Rep_23,2023-04-23,Gold
+CUST-000756,Company B756,Retail,Enterprise,North America,Mexico,295491773.42,Rep_41,2023-11-22,Platinum
+CUST-000757,Company C757,Media,Enterprise,Latin America,Argentina,331581292.6,Rep_31,2023-05-23,Silver
+CUST-000758,Company D758,Education,Enterprise,Latin America,Argentina,144946964.99,Rep_43,2023-05-09,Silver
+CUST-000759,Company E759,Healthcare,Small,North America,United States,360948276.95,Rep_32,2024-11-04,Platinum
+CUST-000760,Company F760,Healthcare,Medium,EMEA,Spain,430216228.27,Rep_45,2024-09-10,Platinum
+CUST-000761,Company G761,Telecommunications,Enterprise,EMEA,UAE,410215641.03,Rep_25,2023-12-30,Silver
+CUST-000762,Company H762,Media,Small,EMEA,UAE,249580324.86,Rep_47,2023-08-31,Gold
+CUST-000763,Company I763,Energy,Large,Latin America,Brazil,489138491.27,Rep_37,2024-05-09,Gold
+CUST-000764,Company J764,Transportation,Enterprise,North America,Mexico,40951489.74,Rep_47,2025-01-18,Gold
+CUST-000765,Company K765,Energy,Small,Latin America,Brazil,123370420.75,Rep_41,2025-01-29,Bronze
+CUST-000766,Company L766,Transportation,Small,APAC,Singapore,267981597.55,Rep_1,2024-04-25,Platinum
+CUST-000767,Company M767,Transportation,Large,Latin America,Colombia,177104356.29,Rep_19,2023-10-24,Silver
+CUST-000768,Company N768,Transportation,Large,North America,Mexico,392725756.02,Rep_17,2023-03-04,Platinum
+CUST-000769,Company O769,Transportation,Small,EMEA,France,404638994.06,Rep_40,2023-01-28,Gold
+CUST-000770,Company P770,Healthcare,Medium,Latin America,Brazil,425871182.77,Rep_18,2023-09-16,Silver
+CUST-000771,Company Q771,Manufacturing,Large,APAC,Japan,370973153.75,Rep_39,2023-06-28,Silver
+CUST-000772,Company R772,Education,Medium,Latin America,Chile,391481324.94,Rep_16,2024-05-11,Silver
+CUST-000773,Company S773,Education,Small,North America,United States,298176501.84,Rep_10,2024-05-22,Platinum
+CUST-000774,Company T774,Retail,Enterprise,Latin America,Argentina,106217516.98,Rep_47,2023-12-20,Bronze
+CUST-000775,Company U775,Healthcare,Small,APAC,Australia,232543449.09,Rep_31,2023-11-05,Platinum
+CUST-000776,Company V776,Media,Enterprise,EMEA,Spain,132049950.58,Rep_34,2024-03-21,Bronze
+CUST-000777,Company W777,Telecommunications,Enterprise,APAC,Singapore,480919598.68,Rep_44,2023-02-12,Bronze
+CUST-000778,Company X778,Media,Large,APAC,Singapore,135892732.47,Rep_7,2023-09-19,Platinum
+CUST-000779,Company Y779,Retail,Medium,Latin America,Chile,339181361.95,Rep_12,2023-11-17,Bronze
+CUST-000780,Company Z780,Healthcare,Small,North America,Canada,49751680.98,Rep_7,2024-12-02,Platinum
+CUST-000781,Company A781,Retail,Large,APAC,Singapore,97346686.19,Rep_2,2024-09-26,Bronze
+CUST-000782,Company B782,Transportation,Medium,North America,Mexico,319403359.69,Rep_46,2023-05-03,Bronze
+CUST-000783,Company C783,Media,Medium,EMEA,United Kingdom,348131163.19,Rep_17,2023-10-29,Platinum
+CUST-000784,Company D784,Telecommunications,Large,North America,Canada,346418524.41,Rep_43,2025-02-27,Gold
+CUST-000785,Company E785,Finance,Small,APAC,Singapore,388775869.19,Rep_25,2024-02-02,Gold
+CUST-000786,Company F786,Manufacturing,Large,North America,United States,220846841.56,Rep_32,2023-07-25,Platinum
+CUST-000787,Company G787,Telecommunications,Small,EMEA,Germany,270775446.24,Rep_28,2023-08-12,Bronze
+CUST-000788,Company H788,Manufacturing,Small,Latin America,Brazil,37386832.19,Rep_37,2025-01-15,Gold
+CUST-000789,Company I789,Technology,Enterprise,Latin America,Argentina,326779801.0,Rep_1,2023-02-08,Platinum
+CUST-000790,Company J790,Finance,Large,APAC,India,287745485.61,Rep_33,2024-12-25,Platinum
+CUST-000791,Company K791,Media,Enterprise,Latin America,Brazil,270524229.79,Rep_1,2024-01-29,Platinum
+CUST-000792,Company L792,Transportation,Large,North America,Canada,341236032.07,Rep_26,2023-02-26,Bronze
+CUST-000793,Company M793,Energy,Large,APAC,Japan,420749611.98,Rep_49,2025-02-23,Gold
+CUST-000794,Company N794,Finance,Small,EMEA,Spain,330706310.24,Rep_20,2024-12-13,Platinum
+CUST-000795,Company O795,Education,Enterprise,North America,United States,442721863.18,Rep_29,2025-01-22,Silver
+CUST-000796,Company P796,Technology,Medium,EMEA,United Kingdom,360149778.34,Rep_38,2023-09-02,Platinum
+CUST-000797,Company Q797,Healthcare,Large,Latin America,Colombia,267436083.34,Rep_29,2023-01-17,Bronze
+CUST-000798,Company R798,Technology,Large,APAC,Japan,203348420.14,Rep_14,2024-10-31,Platinum
+CUST-000799,Company S799,Transportation,Medium,EMEA,United Kingdom,19401956.04,Rep_10,2024-05-15,Bronze
+CUST-000800,Company T800,Transportation,Small,Latin America,Argentina,350947108.77,Rep_9,2023-01-15,Silver
+CUST-000801,Company U801,Manufacturing,Small,North America,Canada,306001718.81,Rep_38,2023-03-07,Bronze
+CUST-000802,Company V802,Telecommunications,Medium,North America,United States,402422311.93,Rep_28,2023-12-12,Platinum
+CUST-000803,Company W803,Healthcare,Medium,APAC,Singapore,418377119.05,Rep_14,2025-02-21,Bronze
+CUST-000804,Company X804,Education,Small,EMEA,United Kingdom,137672785.33,Rep_49,2024-03-01,Silver
+CUST-000805,Company Y805,Energy,Medium,APAC,India,122578660.14,Rep_38,2023-02-11,Silver
+CUST-000806,Company Z806,Transportation,Enterprise,North America,United States,8799532.81,Rep_32,2023-03-24,Bronze
+CUST-000807,Company A807,Finance,Small,North America,Mexico,326226140.14,Rep_19,2024-03-02,Platinum
+CUST-000808,Company B808,Retail,Medium,EMEA,France,262020345.2,Rep_27,2023-09-02,Silver
+CUST-000809,Company C809,Transportation,Medium,North America,Mexico,250443929.82,Rep_6,2024-10-04,Gold
+CUST-000810,Company D810,Media,Small,APAC,China,118583864.66,Rep_8,2024-06-26,Bronze
+CUST-000811,Company E811,Energy,Medium,APAC,India,385395310.27,Rep_43,2023-08-02,Gold
+CUST-000812,Company F812,Retail,Small,North America,United States,342936633.45,Rep_31,2024-05-24,Silver
+CUST-000813,Company G813,Technology,Small,EMEA,France,143247195.49,Rep_28,2023-09-15,Gold
+CUST-000814,Company H814,Technology,Small,Latin America,Brazil,462505811.51,Rep_12,2023-06-11,Bronze
+CUST-000815,Company I815,Energy,Small,Latin America,Brazil,447644508.28,Rep_47,2024-03-31,Gold
+CUST-000816,Company J816,Retail,Large,Latin America,Argentina,389708664.2,Rep_21,2023-08-22,Bronze
+CUST-000817,Company K817,Media,Medium,EMEA,Spain,445791209.74,Rep_5,2024-04-27,Platinum
+CUST-000818,Company L818,Media,Medium,North America,United States,464015671.1,Rep_30,2023-07-02,Platinum
+CUST-000819,Company M819,Finance,Enterprise,APAC,Australia,316378537.33,Rep_18,2023-07-27,Gold
+CUST-000820,Company N820,Technology,Small,EMEA,France,69114248.17,Rep_30,2024-04-14,Platinum
+CUST-000821,Company O821,Education,Medium,EMEA,France,302214355.44,Rep_41,2024-09-18,Silver
+CUST-000822,Company P822,Healthcare,Enterprise,EMEA,UAE,245117485.88,Rep_14,2024-08-28,Platinum
+CUST-000823,Company Q823,Manufacturing,Small,Latin America,Colombia,368353250.7,Rep_16,2023-09-11,Gold
+CUST-000824,Company R824,Transportation,Medium,Latin America,Argentina,456963605.67,Rep_1,2024-03-03,Bronze
+CUST-000825,Company S825,Telecommunications,Small,North America,Canada,266029741.42,Rep_31,2025-03-28,Bronze
+CUST-000826,Company T826,Telecommunications,Medium,Latin America,Brazil,279684996.25,Rep_1,2024-12-10,Platinum
+CUST-000827,Company U827,Finance,Large,EMEA,France,120292135.63,Rep_6,2023-01-17,Platinum
+CUST-000828,Company V828,Finance,Enterprise,APAC,China,373896061.61,Rep_2,2024-04-10,Platinum
+CUST-000829,Company W829,Media,Medium,EMEA,France,313778667.28,Rep_46,2024-10-10,Bronze
+CUST-000830,Company X830,Media,Large,North America,Mexico,17324373.53,Rep_28,2025-02-09,Gold
+CUST-000831,Company Y831,Healthcare,Large,EMEA,United Kingdom,257853503.82,Rep_44,2024-01-08,Bronze
+CUST-000832,Company Z832,Media,Large,North America,Canada,309947591.75,Rep_24,2024-01-11,Silver
+CUST-000833,Company A833,Energy,Medium,North America,United States,490644559.5,Rep_16,2024-07-06,Bronze
+CUST-000834,Company B834,Transportation,Medium,Latin America,Argentina,160911444.42,Rep_18,2024-05-30,Platinum
+CUST-000835,Company C835,Technology,Small,APAC,Singapore,173268064.31,Rep_32,2024-05-28,Bronze
+CUST-000836,Company D836,Energy,Large,Latin America,Colombia,310854682.65,Rep_44,2024-12-10,Bronze
+CUST-000837,Company E837,Telecommunications,Small,EMEA,United Kingdom,195950568.91,Rep_12,2023-10-23,Bronze
+CUST-000838,Company F838,Finance,Large,North America,United States,348843973.31,Rep_32,2023-06-04,Silver
+CUST-000839,Company G839,Manufacturing,Enterprise,North America,Mexico,271176044.08,Rep_9,2024-04-30,Gold
+CUST-000840,Company H840,Telecommunications,Small,Latin America,Chile,95341268.68,Rep_2,2025-04-01,Silver
+CUST-000841,Company I841,Media,Large,APAC,Singapore,243588047.42,Rep_43,2024-12-14,Platinum
+CUST-000842,Company J842,Manufacturing,Medium,Latin America,Chile,86696825.59,Rep_17,2023-08-21,Platinum
+CUST-000843,Company K843,Manufacturing,Small,APAC,Australia,177207326.78,Rep_30,2023-06-20,Silver
+CUST-000844,Company L844,Finance,Medium,APAC,Australia,81466101.9,Rep_8,2023-02-12,Gold
+CUST-000845,Company M845,Telecommunications,Large,EMEA,France,93063794.96,Rep_36,2024-12-25,Bronze
+CUST-000846,Company N846,Education,Medium,APAC,Singapore,224766119.3,Rep_11,2024-06-30,Gold
+CUST-000847,Company O847,Technology,Enterprise,North America,Canada,384490564.75,Rep_30,2023-11-24,Silver
+CUST-000848,Company P848,Energy,Large,North America,Mexico,353020226.94,Rep_31,2023-10-24,Silver
+CUST-000849,Company Q849,Education,Small,Latin America,Colombia,450187060.06,Rep_9,2024-11-25,Bronze
+CUST-000850,Company R850,Technology,Enterprise,APAC,China,420597581.19,Rep_29,2024-01-01,Bronze
+CUST-000851,Company S851,Technology,Medium,APAC,China,263690487.18,Rep_50,2023-10-12,Silver
+CUST-000852,Company T852,Healthcare,Enterprise,North America,Mexico,336107330.38,Rep_6,2024-06-08,Platinum
+CUST-000853,Company U853,Telecommunications,Large,EMEA,UAE,302933833.1,Rep_4,2024-11-13,Gold
+CUST-000854,Company V854,Finance,Enterprise,Latin America,Chile,193670196.5,Rep_1,2023-10-19,Gold
+CUST-000855,Company W855,Manufacturing,Enterprise,APAC,China,44711716.82,Rep_47,2024-03-30,Platinum
+CUST-000856,Company X856,Manufacturing,Medium,Latin America,Colombia,364574152.23,Rep_27,2023-05-23,Bronze
+CUST-000857,Company Y857,Retail,Large,EMEA,Spain,494202831.52,Rep_34,2023-12-10,Bronze
+CUST-000858,Company Z858,Healthcare,Small,Latin America,Colombia,319764193.86,Rep_18,2024-02-29,Silver
+CUST-000859,Company A859,Transportation,Medium,Latin America,Argentina,93817202.64,Rep_25,2023-10-24,Platinum
+CUST-000860,Company B860,Manufacturing,Large,North America,Canada,280081247.28,Rep_30,2023-08-18,Bronze
+CUST-000861,Company C861,Finance,Large,North America,Canada,478057271.47,Rep_41,2024-04-28,Bronze
+CUST-000862,Company D862,Media,Medium,APAC,India,453489805.38,Rep_42,2023-09-08,Bronze
+CUST-000863,Company E863,Manufacturing,Enterprise,North America,United States,299846770.38,Rep_24,2024-08-18,Platinum
+CUST-000864,Company F864,Manufacturing,Enterprise,Latin America,Brazil,187227905.77,Rep_47,2024-08-12,Bronze
+CUST-000865,Company G865,Finance,Small,APAC,Australia,160520874.61,Rep_45,2023-05-19,Gold
+CUST-000866,Company H866,Technology,Large,EMEA,France,210337488.57,Rep_23,2023-02-19,Gold
+CUST-000867,Company I867,Energy,Small,APAC,China,97713602.52,Rep_41,2023-07-07,Bronze
+CUST-000868,Company J868,Energy,Large,EMEA,France,413584176.31,Rep_44,2025-03-30,Gold
+CUST-000869,Company K869,Education,Small,APAC,China,290443274.09,Rep_10,2023-01-14,Silver
+CUST-000870,Company L870,Education,Enterprise,APAC,India,170816232.55,Rep_11,2023-04-15,Silver
+CUST-000871,Company M871,Energy,Medium,EMEA,Germany,397758262.28,Rep_36,2024-09-20,Bronze
+CUST-000872,Company N872,Telecommunications,Small,Latin America,Brazil,409603527.28,Rep_2,2024-05-06,Gold
+CUST-000873,Company O873,Education,Medium,APAC,India,444973466.31,Rep_39,2024-06-19,Gold
+CUST-000874,Company P874,Manufacturing,Small,EMEA,United Kingdom,111956566.03,Rep_45,2023-05-26,Silver
+CUST-000875,Company Q875,Finance,Medium,APAC,Australia,490573674.22,Rep_28,2024-12-08,Bronze
+CUST-000876,Company R876,Technology,Enterprise,North America,Canada,22215953.46,Rep_7,2023-02-03,Bronze
+CUST-000877,Company S877,Healthcare,Large,Latin America,Brazil,34057433.22,Rep_43,2023-01-11,Bronze
+CUST-000878,Company T878,Transportation,Medium,North America,Mexico,450686258.71,Rep_12,2024-11-17,Gold
+CUST-000879,Company U879,Healthcare,Medium,North America,Mexico,470980644.77,Rep_38,2023-12-23,Gold
+CUST-000880,Company V880,Energy,Medium,EMEA,UAE,285547443.24,Rep_7,2024-08-15,Bronze
+CUST-000881,Company W881,Retail,Large,EMEA,Germany,450928485.46,Rep_35,2023-01-05,Bronze
+CUST-000882,Company X882,Energy,Enterprise,EMEA,France,349368320.48,Rep_12,2024-03-26,Bronze
+CUST-000883,Company Y883,Education,Enterprise,EMEA,Spain,107922726.24,Rep_15,2024-02-22,Bronze
+CUST-000884,Company Z884,Healthcare,Enterprise,APAC,Japan,260344063.05,Rep_32,2025-02-19,Gold
+CUST-000885,Company A885,Energy,Small,APAC,Japan,164729588.26,Rep_8,2024-01-30,Gold
+CUST-000886,Company B886,Transportation,Large,Latin America,Colombia,113710841.44,Rep_27,2023-10-25,Platinum
+CUST-000887,Company C887,Healthcare,Enterprise,EMEA,France,90469344.41,Rep_44,2024-05-18,Bronze
+CUST-000888,Company D888,Telecommunications,Small,Latin America,Brazil,72540413.27,Rep_26,2024-12-12,Bronze
+CUST-000889,Company E889,Healthcare,Large,EMEA,Germany,169977191.52,Rep_39,2024-02-18,Bronze
+CUST-000890,Company F890,Media,Enterprise,EMEA,France,382643689.09,Rep_50,2024-08-18,Gold
+CUST-000891,Company G891,Education,Enterprise,Latin America,Colombia,493774077.67,Rep_33,2023-10-13,Silver
+CUST-000892,Company H892,Healthcare,Small,Latin America,Chile,245181349.58,Rep_15,2024-10-05,Silver
+CUST-000893,Company I893,Healthcare,Small,North America,United States,249569319.42,Rep_2,2023-07-03,Platinum
+CUST-000894,Company J894,Finance,Large,APAC,China,311993076.73,Rep_49,2023-03-20,Platinum
+CUST-000895,Company K895,Retail,Large,Latin America,Colombia,245634929.77,Rep_17,2024-07-09,Gold
+CUST-000896,Company L896,Technology,Enterprise,North America,United States,192431308.5,Rep_21,2024-01-21,Platinum
+CUST-000897,Company M897,Technology,Small,Latin America,Argentina,278776608.69,Rep_50,2023-11-07,Silver
+CUST-000898,Company N898,Media,Medium,Latin America,Chile,358145871.63,Rep_32,2025-02-21,Bronze
+CUST-000899,Company O899,Energy,Enterprise,Latin America,Colombia,281565450.22,Rep_11,2024-06-02,Bronze
+CUST-000900,Company P900,Manufacturing,Enterprise,Latin America,Colombia,308852898.51,Rep_23,2025-02-23,Gold
+CUST-000901,Company Q901,Technology,Small,APAC,China,23514107.58,Rep_24,2023-12-24,Bronze
+CUST-000902,Company R902,Media,Small,APAC,India,173226370.74,Rep_23,2024-02-26,Gold
+CUST-000903,Company S903,Retail,Medium,North America,United States,324393329.62,Rep_38,2023-03-28,Bronze
+CUST-000904,Company T904,Healthcare,Large,APAC,Australia,10836283.11,Rep_21,2023-02-08,Platinum
+CUST-000905,Company U905,Transportation,Enterprise,Latin America,Chile,11180734.11,Rep_31,2024-08-25,Bronze
+CUST-000906,Company V906,Media,Enterprise,APAC,Singapore,286696783.76,Rep_32,2023-04-13,Silver
+CUST-000907,Company W907,Telecommunications,Large,APAC,Australia,307799108.9,Rep_24,2024-03-22,Silver
+CUST-000908,Company X908,Healthcare,Medium,Latin America,Chile,133312394.74,Rep_20,2024-08-10,Platinum
+CUST-000909,Company Y909,Transportation,Small,EMEA,UAE,48272073.96,Rep_22,2023-10-07,Bronze
+CUST-000910,Company Z910,Media,Medium,Latin America,Chile,398030222.92,Rep_42,2023-11-06,Gold
+CUST-000911,Company A911,Energy,Large,Latin America,Argentina,207742811.08,Rep_17,2024-10-01,Platinum
+CUST-000912,Company B912,Technology,Medium,EMEA,UAE,250102612.06,Rep_43,2025-01-30,Platinum
+CUST-000913,Company C913,Energy,Enterprise,APAC,China,363580919.19,Rep_4,2024-06-18,Silver
+CUST-000914,Company D914,Telecommunications,Medium,APAC,Australia,76085854.35,Rep_44,2025-02-22,Gold
+CUST-000915,Company E915,Media,Large,Latin America,Brazil,317329816.69,Rep_27,2023-10-01,Gold
+CUST-000916,Company F916,Manufacturing,Medium,EMEA,Spain,120003227.75,Rep_10,2023-07-16,Bronze
+CUST-000917,Company G917,Manufacturing,Enterprise,EMEA,Spain,280352680.26,Rep_28,2024-03-08,Bronze
+CUST-000918,Company H918,Finance,Large,EMEA,Germany,15541791.93,Rep_18,2024-11-05,Silver
+CUST-000919,Company I919,Telecommunications,Small,North America,United States,429932417.45,Rep_6,2023-11-18,Gold
+CUST-000920,Company J920,Media,Large,North America,Mexico,329057871.02,Rep_6,2024-02-11,Silver
+CUST-000921,Company K921,Healthcare,Small,EMEA,UAE,332444350.63,Rep_38,2025-03-04,Gold
+CUST-000922,Company L922,Healthcare,Medium,Latin America,Brazil,386822251.29,Rep_21,2023-12-04,Platinum
+CUST-000923,Company M923,Media,Medium,EMEA,Germany,54300192.6,Rep_14,2023-10-09,Platinum
+CUST-000924,Company N924,Manufacturing,Small,Latin America,Colombia,267201515.2,Rep_45,2023-04-26,Gold
+CUST-000925,Company O925,Telecommunications,Medium,Latin America,Chile,439837336.9,Rep_10,2024-01-07,Platinum
+CUST-000926,Company P926,Manufacturing,Small,APAC,China,18369906.44,Rep_48,2024-11-09,Bronze
+CUST-000927,Company Q927,Manufacturing,Enterprise,EMEA,France,319835580.26,Rep_45,2024-01-07,Bronze
+CUST-000928,Company R928,Telecommunications,Enterprise,EMEA,United Kingdom,454984760.9,Rep_26,2023-09-19,Gold
+CUST-000929,Company S929,Retail,Large,North America,United States,429848951.93,Rep_11,2024-03-25,Gold
+CUST-000930,Company T930,Technology,Large,Latin America,Brazil,411775692.42,Rep_32,2024-04-27,Platinum
+CUST-000931,Company U931,Media,Small,APAC,Australia,349542611.59,Rep_33,2023-03-09,Gold
+CUST-000932,Company V932,Transportation,Large,Latin America,Colombia,347909839.61,Rep_49,2023-02-23,Silver
+CUST-000933,Company W933,Finance,Small,Latin America,Colombia,100837583.75,Rep_20,2023-11-18,Bronze
+CUST-000934,Company X934,Finance,Medium,North America,Mexico,357068406.66,Rep_50,2024-10-26,Silver
+CUST-000935,Company Y935,Education,Enterprise,Latin America,Colombia,436879416.0,Rep_9,2023-09-24,Silver
+CUST-000936,Company Z936,Manufacturing,Medium,APAC,Japan,207833715.85,Rep_12,2024-02-07,Platinum
+CUST-000937,Company A937,Technology,Small,EMEA,UAE,323906237.96,Rep_41,2023-08-23,Bronze
+CUST-000938,Company B938,Retail,Large,Latin America,Argentina,25841699.33,Rep_40,2024-03-15,Gold
+CUST-000939,Company C939,Healthcare,Large,EMEA,Germany,473674510.72,Rep_8,2023-01-15,Platinum
+CUST-000940,Company D940,Telecommunications,Small,Latin America,Argentina,357068292.27,Rep_13,2025-03-11,Gold
+CUST-000941,Company E941,Telecommunications,Enterprise,APAC,Australia,216222985.81,Rep_14,2024-09-06,Silver
+CUST-000942,Company F942,Retail,Enterprise,APAC,Australia,204853526.86,Rep_10,2023-01-30,Gold
+CUST-000943,Company G943,Retail,Enterprise,APAC,Australia,185449232.03,Rep_44,2024-10-24,Platinum
+CUST-000944,Company H944,Technology,Enterprise,North America,United States,435850294.13,Rep_45,2024-02-12,Silver
+CUST-000945,Company I945,Media,Large,Latin America,Brazil,48544431.62,Rep_4,2023-02-23,Gold
+CUST-000946,Company J946,Telecommunications,Large,EMEA,UAE,469721648.15,Rep_39,2024-12-27,Bronze
+CUST-000947,Company K947,Manufacturing,Enterprise,North America,Canada,488784412.98,Rep_43,2024-01-15,Silver
+CUST-000948,Company L948,Transportation,Medium,North America,Canada,85763382.8,Rep_32,2023-12-14,Platinum
+CUST-000949,Company M949,Healthcare,Large,EMEA,UAE,217031899.57,Rep_17,2023-04-30,Gold
+CUST-000950,Company N950,Finance,Enterprise,North America,Canada,374163860.49,Rep_28,2023-10-17,Gold
+CUST-000951,Company O951,Energy,Large,APAC,India,446443233.1,Rep_21,2025-01-24,Platinum
+CUST-000952,Company P952,Energy,Enterprise,EMEA,United Kingdom,95271057.6,Rep_4,2023-08-24,Silver
+CUST-000953,Company Q953,Telecommunications,Large,North America,United States,353275468.42,Rep_28,2023-04-29,Platinum
+CUST-000954,Company R954,Telecommunications,Large,North America,Mexico,280866405.75,Rep_30,2024-05-19,Bronze
+CUST-000955,Company S955,Healthcare,Large,EMEA,United Kingdom,102663122.01,Rep_19,2023-07-04,Silver
+CUST-000956,Company T956,Transportation,Medium,APAC,China,499004273.19,Rep_1,2024-06-22,Silver
+CUST-000957,Company U957,Healthcare,Medium,Latin America,Colombia,338777349.53,Rep_22,2023-01-27,Gold
+CUST-000958,Company V958,Media,Large,North America,Mexico,464645072.9,Rep_7,2023-11-28,Silver
+CUST-000959,Company W959,Healthcare,Enterprise,North America,Mexico,330110122.25,Rep_30,2024-10-05,Gold
+CUST-000960,Company X960,Education,Small,North America,Mexico,311560063.11,Rep_29,2023-11-29,Silver
+CUST-000961,Company Y961,Technology,Large,EMEA,France,399275338.52,Rep_48,2023-03-14,Platinum
+CUST-000962,Company Z962,Media,Large,North America,United States,120799986.28,Rep_50,2024-02-13,Bronze
+CUST-000963,Company A963,Retail,Medium,North America,Canada,389966780.03,Rep_19,2024-10-24,Silver
+CUST-000964,Company B964,Manufacturing,Enterprise,North America,Canada,368208752.9,Rep_20,2024-12-02,Silver
+CUST-000965,Company C965,Healthcare,Large,APAC,China,100735759.04,Rep_29,2024-02-02,Platinum
+CUST-000966,Company D966,Transportation,Enterprise,APAC,Japan,378488831.1,Rep_24,2024-09-20,Silver
+CUST-000967,Company E967,Media,Small,Latin America,Brazil,257157388.14,Rep_30,2024-11-23,Silver
+CUST-000968,Company F968,Telecommunications,Small,EMEA,France,234641366.7,Rep_6,2025-03-31,Platinum
+CUST-000969,Company G969,Finance,Medium,APAC,Singapore,420927439.18,Rep_34,2024-03-13,Gold
+CUST-000970,Company H970,Energy,Small,North America,United States,257193844.41,Rep_33,2024-03-11,Platinum
+CUST-000971,Company I971,Telecommunications,Large,North America,Canada,128175241.97,Rep_6,2025-02-26,Bronze
+CUST-000972,Company J972,Telecommunications,Medium,North America,United States,421612001.83,Rep_3,2023-03-27,Platinum
+CUST-000973,Company K973,Education,Enterprise,APAC,India,312281386.69,Rep_17,2023-12-16,Silver
+CUST-000974,Company L974,Finance,Small,EMEA,UAE,130399518.72,Rep_44,2023-04-19,Platinum
+CUST-000975,Company M975,Technology,Enterprise,North America,United States,7638995.35,Rep_42,2024-05-03,Platinum
+CUST-000976,Company N976,Transportation,Enterprise,Latin America,Chile,309631187.87,Rep_40,2024-01-05,Platinum
+CUST-000977,Company O977,Healthcare,Medium,APAC,Australia,7924083.09,Rep_8,2023-01-17,Silver
+CUST-000978,Company P978,Retail,Enterprise,North America,Mexico,73431941.03,Rep_16,2024-03-22,Silver
+CUST-000979,Company Q979,Manufacturing,Enterprise,North America,United States,237520554.67,Rep_2,2023-04-30,Silver
+CUST-000980,Company R980,Telecommunications,Enterprise,EMEA,Spain,10794261.56,Rep_29,2024-08-22,Silver
+CUST-000981,Company S981,Manufacturing,Enterprise,EMEA,United Kingdom,167591177.94,Rep_7,2024-10-07,Platinum
+CUST-000982,Company T982,Telecommunications,Large,Latin America,Brazil,244260760.05,Rep_32,2024-06-09,Platinum
+CUST-000983,Company U983,Technology,Small,EMEA,Spain,288625272.64,Rep_36,2023-03-07,Gold
+CUST-000984,Company V984,Telecommunications,Small,Latin America,Colombia,311725648.21,Rep_42,2023-12-22,Platinum
+CUST-000985,Company W985,Technology,Medium,Latin America,Chile,363378358.51,Rep_31,2023-12-19,Platinum
+CUST-000986,Company X986,Energy,Medium,EMEA,UAE,454626006.93,Rep_22,2024-09-08,Platinum
+CUST-000987,Company Y987,Manufacturing,Enterprise,EMEA,Spain,416707292.15,Rep_44,2024-10-30,Gold
+CUST-000988,Company Z988,Finance,Medium,Latin America,Chile,345658076.9,Rep_6,2024-11-14,Platinum
+CUST-000989,Company A989,Finance,Medium,EMEA,Germany,303268754.62,Rep_7,2025-03-23,Platinum
+CUST-000990,Company B990,Manufacturing,Medium,Latin America,Argentina,278858424.91,Rep_2,2024-01-03,Gold
+CUST-000991,Company C991,Finance,Medium,APAC,China,16953033.88,Rep_5,2023-12-12,Platinum
+CUST-000992,Company D992,Transportation,Medium,North America,United States,281428742.91,Rep_32,2023-09-22,Gold
+CUST-000993,Company E993,Technology,Large,APAC,Australia,426850665.89,Rep_33,2024-09-10,Bronze
+CUST-000994,Company F994,Telecommunications,Enterprise,North America,United States,487355218.55,Rep_40,2024-09-16,Bronze
+CUST-000995,Company G995,Energy,Small,North America,United States,315333131.96,Rep_14,2024-01-06,Silver
+CUST-000996,Company H996,Telecommunications,Enterprise,APAC,Japan,77993570.48,Rep_24,2023-12-09,Silver
+CUST-000997,Company I997,Retail,Enterprise,North America,Canada,384840430.66,Rep_1,2023-09-09,Platinum
+CUST-000998,Company J998,Manufacturing,Medium,APAC,Japan,133741799.0,Rep_46,2025-02-11,Platinum
+CUST-000999,Company K999,Retail,Medium,APAC,China,211439382.47,Rep_15,2023-05-22,Platinum
