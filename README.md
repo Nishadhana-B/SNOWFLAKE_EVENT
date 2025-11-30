@@ -4,7 +4,16 @@ Simple dataset for importing into Snowflake for Trust3.ai natural language query
 
 ## 🚀 Quick Import (2 Steps)
 
-### Step 1: Create Database & Tables
+**Repository**: https://github.com/Nishadhana-B/SNOWFLAKE_EVENT
+
+### Step 1: Clone Repository
+
+```bash
+git clone https://github.com/Nishadhana-B/SNOWFLAKE_EVENT.git
+cd SNOWFLAKE_EVENT
+```
+
+### Step 2: Create Database & Tables
 
 1. Log into [Snowflake Web UI](https://app.snowflake.com)
 2. Open a new worksheet
@@ -16,7 +25,7 @@ Simple dataset for importing into Snowflake for Trust3.ai natural language query
 - Schemas: `SALES`, `SUPPORT`
 - Tables: `CUSTOMERS`, `OPPORTUNITIES`, `ESCALATIONS`
 
-### Step 2: Load Data Files
+### Step 3: Load Data Files
 
 **Using Snowflake Web UI (Easiest):**
 
